@@ -1,13 +1,21 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # config files
 config.py
 
 
 
+=======
+
+
+
+#Hello from Subhra
+>>>>>>> 04b4da2ec9dab96bd7f98ac294e65d189d3454e4
 
 =======
 # COnfig files
 config.py
+>>>>>>> 62350a826138f9c86a4a86488271ecb6e45ce2e1
 
 >>>>>>> 62350a826138f9c86a4a86488271ecb6e45ce2e1
 # Byte-compiled / optimized / DLL files
