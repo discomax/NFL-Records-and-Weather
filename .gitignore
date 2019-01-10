@@ -1,9 +1,15 @@
+<<<<<<< HEAD
 # config files
 config.py
 
 
-test
 
+
+=======
+# COnfig files
+config.py
+
+>>>>>>> 62350a826138f9c86a4a86488271ecb6e45ce2e1
 # Byte-compiled / optimized / DLL files
 
 __pycache__/
