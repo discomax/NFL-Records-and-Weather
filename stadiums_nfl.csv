@@ -1,32 +1,32 @@
-CITY,STATE,NAME,TEAM,ROOF_TYPE,CONFERENCE,DIVISION,CAPACITY,LATITUDE,LONGITUDE, COLOR 1,  COLOR 2
-Arlington,TX,Cowboys Stadium,Dallas Cowboys,Retractable,National,East,80000,32.74778,-97.09277,ROYAL BLUE,
-Atlanta,GA,Georgia Dome,Atlanta Falcons,Dome,National,South,71228,33.75735,-84.40121,,
-Baltimore,MD,M&T Bank Stadium,Baltimore Ravens,Open,American,North,71008,39.2779,-76.6227,,
-Charlotte,NC,Bank of America Stadium,Carolina Panthers,Open,National,South,73778,35.22584,-80.85331,,
-Chicago,IL,Soldier Field,Chicago Bears,Open,National,North,61500,41.8625,-87.61677,,
-Cincinnati,OH,Paul Brown Stadium,Cincinnati Bengals,Open,American,North,65535,39.09532,-84.51623,,
-Cleveland,OH,Cleveland Browns Stadium,Cleveland Browns,Open,American,North,65790,41.50618,-81.69962,,
-Denver,CO,Invesco Field at Mile High,Denver Broncos,Open,American,West,76125,39.74396,-105.02028,,
-Detroit,MI,Ford Field,Detroit Lions,Dome,National,North,64111,42.34005,-83.04564,,
-East Rutherford,NJ,Meadowlands Stadium,New York Giants/ NewYork Jets,Open,National,East,82500,40.81361,-74.07444,,
-Foxboro,MA,Gillette Stadium,New England Patriots,Open,American,East,68756,42.09188,-71.26491,,
-Glendale,AZ,University of Phoenix Stadium,Arizona Cardinals,Retractable,National,West,63400,33.52713,-112.25876,,
-Green Bay,WI,Lambeau Field,Green Bay Packers,Open,National,North,72928,44.50117,-88.06223,,
-Houston,TX,Reliant Stadium,Houston Texans,Retractable,American,South,71500,29.68493,-95.41092,,
-Indianapolis,IN,Lucas Oil Stadium,Indianapolis Colts,Retractable,American,South,63000,39.76,-86.16361,,
-Jacksonville,FL,Jacksonville Municipal Stadium,Jacksonville Jaguars,Open,American,South,76867,30.32387,-81.6369,,
-Kansas City,MO,Arrowhead Stadium,Kansas City Chiefs,Open,American,West,77000,39.04895,-94.48388,,
-Landover,MD,FedEx Field,Washington Redskins,Open,National,East,91704,38.90778,-76.86444,,
-Miami,FL,Sun Life Stadium,,,,,,25.95801,-80.23889,,
-Minneapolis,MN,Hubert H. Humphrey Metrodome,Minnesota Vikings,Dome,National,North,64035,44.97401,-93.25848,,
-Nashville,TN,LP Field,Tennessee Titans,Open,American,South,68798,36.16654,-86.77252,,
-New Orleans,LA,Louisiana Superdome,New Orleans Saints,Dome,National,South,72968,29.95116,-90.08128,,
-Oakland,CA,Oakland-Alameda County Coliseum,Oakland Raiders,Open,American,West,63026,37.75233,-122.1999,,
-Orchard Park,NY,Ralph Wilson Stadium,Buffalo Bills,Open,American,East,73967,42.77379,-78.78679,,
-Philadelphia,PA,Lincoln Financial Field,,,,,,39.90147,-75.16729,,
-Pittsburgh,PA,Heinz Field,Pittsburgh Steelers,Open,American,North,65050,40.44673,-80.01574,,
-Saint Louis,MO,Edward Jones Dome,St. Louis Rams,Dome,National,West,66965,38.63278,-90.18854,,
-San Diego,CA,Qualcomm Stadium,San Diego Chargers,Open,American,West,71294,32.78322,-117.11976,,
-San Francisco,CA,Candlestick Park,San Francisco 49ers,Open,National,West,70207,37.71399,-122.38673,,
-Seattle,WA,Qwest Stadium,Seattle Seahawks,Open,National,West,67000,47.59476,-122.33165,,
-Tampa,FL,Raymond James Stadium,Tampa Bay Buccaneers,Open,National,South,65857,27.97884,-82.50349,,
+CITY,STATE,REGION,NAME,TEAM,ROOF_TYPE,CONFERENCE,DIVISION,CAPACITY,LATITUDE,LONGITUDE, COLOR 1,  COLOR 2
+Glendale,AZ,West,University of Phoenix Stadium,Arizona Cardinals,Retractable,National,West,63400,33.52713,-112.25876,black,yellow
+Oakland,CA,West,Oakland-Alameda County Coliseum,Oakland Raiders,Open,American,West,63026,37.75233,-122.1999,silver,
+San Diego,CA,West,Qualcomm Stadium,San Diego Chargers,Open,American,West,71294,32.78322,-117.11976,gold,dodgerblue
+San Francisco,CA,West,Candlestick Park,San Francisco 49ers,Open,National,West,70207,37.71399,-122.38673,gold,
+Denver,CO,West,Invesco Field at Mile High,Denver Broncos,Open,American,West,76125,39.74396,-105.02028,navy,
+Jacksonville,FL,South,Jacksonville Municipal Stadium,Jacksonville Jaguars,Open,American,South,76867,30.32387,-81.6369,teal,gold
+Miami,FL,South,Sun Life Stadium,,,,,,25.95801,-80.23889,orange,blue
+Tampa,FL,South,Raymond James Stadium,Tampa Bay Buccaneers,Open,National,South,65857,27.97884,-82.50349,darkorange,green
+Atlanta,GA,South,Georgia Dome,Atlanta Falcons,Dome,National,South,71228,33.75735,-84.40121,black,silver
+Chicago,IL,Midwest,Soldier Field,Chicago Bears,Open,National,North,61500,41.8625,-87.61677,orange,black
+Indianapolis,IN,Midwest,Lucas Oil Stadium,Indianapolis Colts,Retractable,American,South,63000,39.76,-86.16361,gray,white
+New Orleans,LA,South,Louisiana Superdome,New Orleans Saints,Dome,National,South,72968,29.95116,-90.08128,black,
+Foxboro,MA,North East,Gillette Stadium,New England Patriots,Open,American,East,68756,42.09188,-71.26491,red,silver
+Baltimore,MD,South,M&T Bank Stadium,Baltimore Ravens,Open,American,North,71008,39.2779,-76.6227,black,gold
+Landover,MD,South,FedEx Field,Washington Redskins,Open,National,East,91704,38.90778,-76.86444,gold,
+Detroit,MI,Midwest,Ford Field,Detroit Lions,Dome,National,North,64111,42.34005,-83.04564,silver,black
+Minneapolis,MN,Midwest,Hubert H. Humphrey Metrodome,Minnesota Vikings,Dome,National,North,64035,44.97401,-93.25848,gold,
+Kansas City,MO,Midwest,Arrowhead Stadium,Kansas City Chiefs,Open,American,West,77000,39.04895,-94.48388,gold,
+Saint Louis,MO,Midwest,Edward Jones Dome,St. Louis Rams,Dome,National,West,66965,38.63278,-90.18854,gold,white
+Charlotte,NC,South,Bank of America Stadium,Carolina Panthers,Open,National,South,73778,35.22584,-80.85331,black,silver
+East Rutherford,NJ,North East,Meadowlands Stadium,New York Giants/ NewYork Jets,Open,National,East,82500,40.81361,-74.07444,white,
+Orchard Park,NY,North East,Ralph Wilson Stadium,Buffalo Bills,Open,American,East,73967,42.77379,-78.78679,red,
+Cincinnati,OH,Midwest,Paul Brown Stadium,Cincinnati Bengals,Open,American,North,65535,39.09532,-84.51623,orange,
+Cleveland,OH,Midwest,Cleveland Browns Stadium,Cleveland Browns,Open,American,North,65790,41.50618,-81.69962,orange,
+Philadelphia,PA,North East,Lincoln Financial Field,,,,,,39.90147,-75.16729,,
+Pittsburgh,PA,North East,Heinz Field,Pittsburgh Steelers,Open,American,North,65050,40.44673,-80.01574,black,red
+Nashville,TN,South,LP Field,Tennessee Titans,Open,American,South,68798,36.16654,-86.77252,blue,red
+Arlington,TX,South,Cowboys Stadium,Dallas Cowboys,Retractable,National,East,80000,32.74778,-97.09277,royalblue,silver
+Houston,TX,South,Reliant Stadium,Houston Texans,Retractable,American,South,71500,29.68493,-95.41092,darkred,
+Seattle,WA,West,Qwest Stadium,Seattle Seahawks,Open,National,West,67000,47.59476,-122.33165,gray,chartreuse
+Green Bay,WI,Midwest,Lambeau Field,Green Bay Packers,Open,National,North,72928,44.50117,-88.06223,gold,
