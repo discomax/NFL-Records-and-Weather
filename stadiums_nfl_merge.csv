@@ -1,4 +1,4 @@
-Unnamed: 0,schedule_date,schedule_season,TEAM, score Home,Score Away,stadium,win/loss,CITY,ROOF_TYPE,CAPACITY,LATITUDE,LONGITUDE,REGION,COLOR 1,  COLOR 2
+Unnamed: 0,schedule_date,schedule_season,TEAM, score Home,Score Away,stadium,win/loss,CITY,ROOF_TYPE,CAPACITY,LATITUDE,LONGITUDE,REGION,COLOR 1,COLOR 2
 11076.0,09/04/2014,2014.0,Seattle Seahawks,36.0,16.0,CenturyLink Field,W,Seattle,Open,67000.0,47.59476,-122.33165,West,gray,chartreuse
 11121.0,09/21/2014,2014.0,Seattle Seahawks,26.0,20.0,CenturyLink Field,W,Seattle,Open,67000.0,47.59476,-122.33165,West,gray,chartreuse
 11163.0,10/12/2014,2014.0,Seattle Seahawks,23.0,30.0,CenturyLink Field,L,Seattle,Open,67000.0,47.59476,-122.33165,West,gray,chartreuse

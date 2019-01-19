@@ -1,4 +1,4 @@
-CITY,STATE,REGION,NAME,TEAM,ROOF_TYPE,CONFERENCE,DIVISION,CAPACITY,LATITUDE,LONGITUDE,COLOR 1,  COLOR 2
+CITY,STATE,REGION,NAME,TEAM,ROOF_TYPE,CONFERENCE,DIVISION,CAPACITY,LATITUDE,LONGITUDE,COLOR 1,COLOR 2
 Glendale,AZ,West,University of Phoenix Stadium,Arizona Cardinals,Retractable,National,West,63400,33.52713,-112.25876,black,yellow
 Oakland,CA,West,Oakland-Alameda County Coliseum,Oakland Raiders,Open,American,West,63026,37.75233,-122.1999,silver,
 San Diego,CA,West,Qualcomm Stadium,San Diego Chargers,Open,American,West,71294,32.78322,-117.11976,gold,dodgerblue
