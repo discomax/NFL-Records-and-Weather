@@ -1,32 +1,32 @@
-CITY,TEAM,ROOF_TYPE,CAPACITY,LATITUDE,LONGITUDE
-Arlington,Dallas Cowboys,Retractable,80000.0,32.74778,-97.09277
-Atlanta,Atlanta Falcons,Dome,71228.0,33.75735,-84.40120999999999
-Baltimore,Baltimore Ravens,Open,71008.0,39.2779,-76.6227
-Charlotte,Carolina Panthers,Open,73778.0,35.225840000000005,-80.85331
-Chicago,Chicago Bears,Open,61500.0,41.8625,-87.61676999999999
-Cincinnati,Cincinnati Bengals,Open,65535.0,39.09532,-84.51623000000001
-Cleveland,Cleveland Browns,Open,65790.0,41.50618,-81.69962
-Denver,Denver Broncos,Open,76125.0,39.743959999999994,-105.02028
-Detroit,Detroit Lions,Dome,64111.0,42.34005,-83.04564
-East Rutherford,New York Giants/ NewYork Jets,Open,82500.0,40.81361,-74.07444
-Foxboro,New England Patriots,Open,68756.0,42.091879999999996,-71.26491
-Glendale,Arizona Cardinals,Retractable,63400.0,33.52713,-112.25876000000001
-Green Bay,Green Bay Packers,Open,72928.0,44.50117,-88.06223
-Houston,Houston Texans,Retractable,71500.0,29.684929999999998,-95.41091999999999
-Indianapolis,Indianapolis Colts,Retractable,63000.0,39.76,-86.16360999999999
-Jacksonville,Jacksonville Jaguars,Open,76867.0,30.32387,-81.6369
-Kansas City,Kansas City Chiefs,Open,77000.0,39.04895,-94.48388
-Landover,Washington Redskins,Open,91704.0,38.907779999999995,-76.86444
-Miami,,,,25.95801,-80.23889
-Minneapolis,Minnesota Vikings,Dome,64035.0,44.97401,-93.25848
-Nashville,Tennessee Titans,Open,68798.0,36.166540000000005,-86.77252
-New Orleans,New Orleans Saints,Dome,72968.0,29.951159999999998,-90.08128
-Oakland,Oakland Raiders,Open,63026.0,37.75233,-122.1999
-Orchard Park,Buffalo Bills,Open,73967.0,42.773790000000005,-78.78679
-Philadelphia,,,,39.90147,-75.16729000000001
-Pittsburgh,Pittsburgh Steelers,Open,65050.0,40.44673,-80.01574000000001
-Saint Louis,St. Louis Rams,Dome,66965.0,38.63278,-90.18854
-San Diego,San Diego Chargers,Open,71294.0,32.78322,-117.11976000000001
-San Francisco,San Francisco 49ers,Open,70207.0,37.71399,-122.38673
-Seattle,Seattle Seahawks,Open,67000.0,47.59476,-122.33165
-Tampa,Tampa Bay Buccaneers,Open,65857.0,27.97884,-82.50349
+CITY,TEAM,ROOF_TYPE,CAPACITY,LATITUDE,LONGITUDE,REGION,COLOR 1,COLOR 2
+Glendale,Arizona Cardinals,Retractable,63400.0,33.52713,-112.25876000000001,West,black,yellow
+Oakland,Oakland Raiders,Open,63026.0,37.75233,-122.1999,West,silver,
+San Diego,San Diego Chargers,Open,71294.0,32.78322,-117.11976000000001,West,gold,dodgerblue
+San Francisco,San Francisco 49ers,Open,70207.0,37.71399,-122.38673,West,gold,
+Denver,Denver Broncos,Open,76125.0,39.743959999999994,-105.02028,West,navy,
+Jacksonville,Jacksonville Jaguars,Open,76867.0,30.32387,-81.6369,South,teal,gold
+Miami,,,,25.95801,-80.23889,South,orange,blue
+Tampa,Tampa Bay Buccaneers,Open,65857.0,27.97884,-82.50349,South,darkorange,green
+Atlanta,Atlanta Falcons,Dome,71228.0,33.75735,-84.40120999999999,South,black,silver
+Chicago,Chicago Bears,Open,61500.0,41.8625,-87.61676999999999,Midwest,orange,black
+Indianapolis,Indianapolis Colts,Retractable,63000.0,39.76,-86.16360999999999,Midwest,gray,white
+New Orleans,New Orleans Saints,Dome,72968.0,29.951159999999998,-90.08128,South,black,
+Foxboro,New England Patriots,Open,68756.0,42.091879999999996,-71.26491,North East,red,silver
+Baltimore,Baltimore Ravens,Open,71008.0,39.2779,-76.6227,South,black,gold
+Landover,Washington Redskins,Open,91704.0,38.907779999999995,-76.86444,South,gold,
+Detroit,Detroit Lions,Dome,64111.0,42.34005,-83.04564,Midwest,silver,black
+Minneapolis,Minnesota Vikings,Dome,64035.0,44.97401,-93.25848,Midwest,gold,
+Kansas City,Kansas City Chiefs,Open,77000.0,39.04895,-94.48388,Midwest,gold,
+Saint Louis,St. Louis Rams,Dome,66965.0,38.63278,-90.18854,Midwest,gold,white
+Charlotte,Carolina Panthers,Open,73778.0,35.225840000000005,-80.85331,South,black,silver
+East Rutherford,New York Giants/ NewYork Jets,Open,82500.0,40.81361,-74.07444,North East,white,
+Orchard Park,Buffalo Bills,Open,73967.0,42.773790000000005,-78.78679,North East,red,
+Cincinnati,Cincinnati Bengals,Open,65535.0,39.09532,-84.51623000000001,Midwest,orange,
+Cleveland,Cleveland Browns,Open,65790.0,41.50618,-81.69962,Midwest,orange,
+Philadelphia,,,,39.90147,-75.16729000000001,North East,,
+Pittsburgh,Pittsburgh Steelers,Open,65050.0,40.44673,-80.01574000000001,North East,black,red
+Nashville,Tennessee Titans,Open,68798.0,36.166540000000005,-86.77252,South,blue,red
+Arlington,Dallas Cowboys,Retractable,80000.0,32.74778,-97.09277,South,royalblue,silver
+Houston,Houston Texans,Retractable,71500.0,29.684929999999998,-95.41091999999999,South,darkred,
+Seattle,Seattle Seahawks,Open,67000.0,47.59476,-122.33165,West,gray,chartreuse
+Green Bay,Green Bay Packers,Open,72928.0,44.50117,-88.06223,Midwest,gold,
