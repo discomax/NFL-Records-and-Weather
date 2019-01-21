@@ -1,0 +1,1025 @@
+,schedule_date,schedule_season,team_home,score_home,score_away,stadium,win/loss
+11076,09/04/2014,2014,Seattle Seahawks,36.0,16.0,CenturyLink Field,W
+11077,09/07/2014,2014,Atlanta Falcons,37.0,34.0,Georgia Dome,W
+11078,09/07/2014,2014,Baltimore Ravens,16.0,23.0,M&T Bank Stadium,L
+11079,09/07/2014,2014,Chicago Bears,20.0,23.0,Soldier Field,L
+11080,09/07/2014,2014,Dallas Cowboys,17.0,28.0,Cowboys Stadium,L
+11081,09/07/2014,2014,Denver Broncos,31.0,24.0,Sports Authority Field at Mile High,W
+11082,09/07/2014,2014,Houston Texans,17.0,6.0,Reliant Stadium,W
+11083,09/07/2014,2014,Kansas City Chiefs,10.0,26.0,Arrowhead Stadium,L
+11084,09/07/2014,2014,Miami Dolphins,33.0,20.0,Sun Life Stadium,W
+11085,09/07/2014,2014,New York Jets,19.0,14.0,MetLife Stadium,W
+11086,09/07/2014,2014,Philadelphia Eagles,34.0,17.0,Lincoln Financial Field,W
+11087,09/07/2014,2014,Pittsburgh Steelers,30.0,27.0,Heinz Field,W
+11088,09/07/2014,2014,St. Louis Rams,6.0,34.0,Edward Jones Dome,L
+11089,09/07/2014,2014,Tampa Bay Buccaneers,14.0,20.0,Raymond James Stadium,L
+11090,09/08/2014,2014,Arizona Cardinals,18.0,17.0,University of Phoenix Stadium,W
+11091,09/08/2014,2014,Detroit Lions,35.0,14.0,Ford Field,W
+11092,09/11/2014,2014,Baltimore Ravens,26.0,6.0,M&T Bank Stadium,W
+11093,09/14/2014,2014,Buffalo Bills,29.0,10.0,Ralph Wilson Stadium,W
+11094,09/14/2014,2014,Carolina Panthers,24.0,7.0,Bank of America Stadium,W
+11095,09/14/2014,2014,Cincinnati Bengals,24.0,10.0,Paul Brown Stadium,W
+11096,09/14/2014,2014,Cleveland Browns,26.0,24.0,FirstEnergy Stadium,W
+11097,09/14/2014,2014,Denver Broncos,24.0,17.0,Sports Authority Field at Mile High,W
+11098,09/14/2014,2014,Green Bay Packers,31.0,24.0,Lambeau Field,W
+11099,09/14/2014,2014,Minnesota Vikings,7.0,30.0,TCF Bank Stadium,L
+11100,09/14/2014,2014,New York Giants,14.0,25.0,MetLife Stadium,L
+11101,09/14/2014,2014,Oakland Raiders,14.0,30.0,Oakland Coliseum,L
+11102,09/14/2014,2014,San Diego Chargers,30.0,21.0,Qualcomm Stadium,W
+11103,09/14/2014,2014,San Francisco 49ers,20.0,28.0,Levi's Stadium,L
+11104,09/14/2014,2014,Tampa Bay Buccaneers,17.0,19.0,Raymond James Stadium,L
+11105,09/14/2014,2014,Tennessee Titans,10.0,26.0,Nissan Stadium,L
+11106,09/14/2014,2014,Washington Redskins,41.0,10.0,FedEx Field,W
+11107,09/15/2014,2014,Indianapolis Colts,27.0,30.0,Lucas Oil Stadium,L
+11108,09/18/2014,2014,Atlanta Falcons,56.0,14.0,Georgia Dome,W
+11109,09/21/2014,2014,Arizona Cardinals,23.0,14.0,University of Phoenix Stadium,W
+11110,09/21/2014,2014,Buffalo Bills,10.0,22.0,Ralph Wilson Stadium,L
+11111,09/21/2014,2014,Carolina Panthers,19.0,37.0,Bank of America Stadium,L
+11112,09/21/2014,2014,Cincinnati Bengals,33.0,7.0,Paul Brown Stadium,W
+11113,09/21/2014,2014,Cleveland Browns,21.0,23.0,FirstEnergy Stadium,L
+11114,09/21/2014,2014,Detroit Lions,19.0,7.0,Ford Field,W
+11115,09/21/2014,2014,Jacksonville Jaguars,17.0,44.0,EverBank Field,L
+11116,09/21/2014,2014,Miami Dolphins,15.0,34.0,Sun Life Stadium,L
+11117,09/21/2014,2014,New England Patriots,16.0,9.0,Gillette Stadium,W
+11118,09/21/2014,2014,New Orleans Saints,20.0,9.0,Louisiana Superdome,W
+11119,09/21/2014,2014,New York Giants,30.0,17.0,MetLife Stadium,W
+11120,09/21/2014,2014,Philadelphia Eagles,37.0,34.0,Lincoln Financial Field,W
+11121,09/21/2014,2014,Seattle Seahawks,26.0,20.0,CenturyLink Field,W
+11122,09/21/2014,2014,St. Louis Rams,31.0,34.0,Edward Jones Dome,L
+11123,09/22/2014,2014,New York Jets,19.0,27.0,MetLife Stadium,L
+11124,09/25/2014,2014,Washington Redskins,14.0,45.0,FedEx Field,L
+11125,09/28/2014,2014,Baltimore Ravens,38.0,10.0,M&T Bank Stadium,W
+11126,09/28/2014,2014,Chicago Bears,17.0,38.0,Soldier Field,L
+11127,09/28/2014,2014,Dallas Cowboys,38.0,17.0,Cowboys Stadium,W
+11128,09/28/2014,2014,Houston Texans,23.0,17.0,Reliant Stadium,W
+11129,09/28/2014,2014,Indianapolis Colts,41.0,17.0,Lucas Oil Stadium,W
+11130,09/28/2014,2014,Minnesota Vikings,41.0,28.0,TCF Bank Stadium,W
+11131,09/28/2014,2014,New York Jets,17.0,24.0,MetLife Stadium,L
+11132,09/28/2014,2014,Oakland Raiders,14.0,38.0,Wembley Stadium,L
+11133,09/28/2014,2014,Pittsburgh Steelers,24.0,27.0,Heinz Field,L
+11134,09/28/2014,2014,San Diego Chargers,33.0,14.0,Qualcomm Stadium,W
+11135,09/28/2014,2014,San Francisco 49ers,26.0,21.0,Levi's Stadium,W
+11136,09/29/2014,2014,Kansas City Chiefs,41.0,14.0,Arrowhead Stadium,W
+11137,10/02/2014,2014,Green Bay Packers,42.0,10.0,Lambeau Field,W
+11138,10/05/2014,2014,Carolina Panthers,31.0,24.0,Bank of America Stadium,W
+11139,10/05/2014,2014,Dallas Cowboys,20.0,17.0,Cowboys Stadium,W
+11140,10/05/2014,2014,Denver Broncos,41.0,20.0,Sports Authority Field at Mile High,W
+11141,10/05/2014,2014,Detroit Lions,14.0,17.0,Ford Field,L
+11142,10/05/2014,2014,Indianapolis Colts,20.0,13.0,Lucas Oil Stadium,W
+11143,10/05/2014,2014,Jacksonville Jaguars,9.0,17.0,EverBank Field,L
+11144,10/05/2014,2014,New England Patriots,43.0,17.0,Gillette Stadium,W
+11145,10/05/2014,2014,New Orleans Saints,37.0,31.0,Louisiana Superdome,W
+11146,10/05/2014,2014,New York Giants,30.0,20.0,MetLife Stadium,W
+11147,10/05/2014,2014,Philadelphia Eagles,34.0,28.0,Lincoln Financial Field,W
+11148,10/05/2014,2014,San Diego Chargers,31.0,0.0,Qualcomm Stadium,W
+11149,10/05/2014,2014,San Francisco 49ers,22.0,17.0,Levi's Stadium,W
+11150,10/05/2014,2014,Tennessee Titans,28.0,29.0,Nissan Stadium,L
+11151,10/06/2014,2014,Washington Redskins,17.0,27.0,FedEx Field,L
+11152,10/09/2014,2014,Houston Texans,28.0,33.0,Reliant Stadium,L
+11153,10/12/2014,2014,Arizona Cardinals,30.0,20.0,University of Phoenix Stadium,W
+11154,10/12/2014,2014,Atlanta Falcons,13.0,27.0,Georgia Dome,L
+11155,10/12/2014,2014,Buffalo Bills,22.0,37.0,Ralph Wilson Stadium,L
+11156,10/12/2014,2014,Cincinnati Bengals,37.0,37.0,Paul Brown Stadium,L
+11157,10/12/2014,2014,Cleveland Browns,31.0,10.0,FirstEnergy Stadium,W
+11158,10/12/2014,2014,Miami Dolphins,24.0,27.0,Sun Life Stadium,L
+11159,10/12/2014,2014,Minnesota Vikings,3.0,17.0,TCF Bank Stadium,L
+11160,10/12/2014,2014,New York Jets,17.0,31.0,MetLife Stadium,L
+11161,10/12/2014,2014,Oakland Raiders,28.0,31.0,Oakland Coliseum,L
+11162,10/12/2014,2014,Philadelphia Eagles,27.0,0.0,Lincoln Financial Field,W
+11163,10/12/2014,2014,Seattle Seahawks,23.0,30.0,CenturyLink Field,L
+11164,10/12/2014,2014,Tampa Bay Buccaneers,17.0,48.0,Raymond James Stadium,L
+11165,10/12/2014,2014,Tennessee Titans,16.0,14.0,Nissan Stadium,W
+11166,10/13/2014,2014,St. Louis Rams,17.0,31.0,Edward Jones Dome,L
+11167,10/16/2014,2014,New England Patriots,27.0,25.0,Gillette Stadium,W
+11168,10/19/2014,2014,Baltimore Ravens,29.0,7.0,M&T Bank Stadium,W
+11169,10/19/2014,2014,Buffalo Bills,17.0,16.0,Ralph Wilson Stadium,W
+11170,10/19/2014,2014,Chicago Bears,14.0,27.0,Soldier Field,L
+11171,10/19/2014,2014,Dallas Cowboys,31.0,21.0,Cowboys Stadium,W
+11172,10/19/2014,2014,Denver Broncos,42.0,17.0,Sports Authority Field at Mile High,W
+11173,10/19/2014,2014,Detroit Lions,24.0,23.0,Ford Field,W
+11174,10/19/2014,2014,Green Bay Packers,38.0,17.0,Lambeau Field,W
+11175,10/19/2014,2014,Indianapolis Colts,27.0,0.0,Lucas Oil Stadium,W
+11176,10/19/2014,2014,Jacksonville Jaguars,24.0,6.0,EverBank Field,W
+11177,10/19/2014,2014,Oakland Raiders,13.0,24.0,Oakland Coliseum,L
+11178,10/19/2014,2014,San Diego Chargers,20.0,23.0,Qualcomm Stadium,L
+11179,10/19/2014,2014,St. Louis Rams,28.0,26.0,Edward Jones Dome,W
+11180,10/19/2014,2014,Washington Redskins,19.0,17.0,FedEx Field,W
+11181,10/20/2014,2014,Pittsburgh Steelers,30.0,23.0,Heinz Field,W
+11182,10/23/2014,2014,Denver Broncos,35.0,21.0,Sports Authority Field at Mile High,W
+11183,10/26/2014,2014,Arizona Cardinals,24.0,20.0,University of Phoenix Stadium,W
+11184,10/26/2014,2014,Atlanta Falcons,21.0,22.0,Wembley Stadium,L
+11185,10/26/2014,2014,Carolina Panthers,9.0,13.0,Bank of America Stadium,L
+11186,10/26/2014,2014,Cincinnati Bengals,27.0,24.0,Paul Brown Stadium,W
+11187,10/26/2014,2014,Cleveland Browns,23.0,13.0,FirstEnergy Stadium,W
+11188,10/26/2014,2014,Jacksonville Jaguars,13.0,27.0,EverBank Field,L
+11189,10/26/2014,2014,Kansas City Chiefs,34.0,7.0,Arrowhead Stadium,W
+11190,10/26/2014,2014,New England Patriots,51.0,23.0,Gillette Stadium,W
+11191,10/26/2014,2014,New Orleans Saints,44.0,23.0,Louisiana Superdome,W
+11192,10/26/2014,2014,New York Jets,23.0,43.0,MetLife Stadium,L
+11193,10/26/2014,2014,Pittsburgh Steelers,51.0,34.0,Heinz Field,W
+11194,10/26/2014,2014,Tampa Bay Buccaneers,13.0,19.0,Raymond James Stadium,L
+11195,10/26/2014,2014,Tennessee Titans,16.0,30.0,Nissan Stadium,L
+11196,10/27/2014,2014,Dallas Cowboys,17.0,20.0,Cowboys Stadium,L
+11197,10/30/2014,2014,Carolina Panthers,10.0,28.0,Bank of America Stadium,L
+11198,11/02/2014,2014,Cincinnati Bengals,33.0,23.0,Paul Brown Stadium,W
+11199,11/02/2014,2014,Cleveland Browns,22.0,17.0,FirstEnergy Stadium,W
+11200,11/02/2014,2014,Dallas Cowboys,17.0,28.0,Cowboys Stadium,L
+11201,11/02/2014,2014,Houston Texans,21.0,31.0,Reliant Stadium,L
+11202,11/02/2014,2014,Kansas City Chiefs,24.0,10.0,Arrowhead Stadium,W
+11203,11/02/2014,2014,Miami Dolphins,37.0,0.0,Sun Life Stadium,W
+11204,11/02/2014,2014,Minnesota Vikings,29.0,26.0,TCF Bank Stadium,W
+11205,11/02/2014,2014,New England Patriots,43.0,21.0,Gillette Stadium,W
+11206,11/02/2014,2014,Pittsburgh Steelers,43.0,23.0,Heinz Field,W
+11207,11/02/2014,2014,San Francisco 49ers,10.0,13.0,Levi's Stadium,L
+11208,11/02/2014,2014,Seattle Seahawks,30.0,24.0,CenturyLink Field,W
+11209,11/03/2014,2014,New York Giants,24.0,40.0,MetLife Stadium,L
+11210,11/06/2014,2014,Cincinnati Bengals,3.0,24.0,Paul Brown Stadium,L
+11211,11/09/2014,2014,Arizona Cardinals,31.0,14.0,University of Phoenix Stadium,W
+11212,11/09/2014,2014,Baltimore Ravens,21.0,7.0,M&T Bank Stadium,W
+11213,11/09/2014,2014,Buffalo Bills,13.0,17.0,Ralph Wilson Stadium,L
+11214,11/09/2014,2014,Detroit Lions,20.0,16.0,Ford Field,W
+11215,11/09/2014,2014,Green Bay Packers,55.0,14.0,Lambeau Field,W
+11216,11/09/2014,2014,Jacksonville Jaguars,17.0,31.0,Wembley Stadium,L
+11217,11/09/2014,2014,New Orleans Saints,24.0,27.0,Louisiana Superdome,L
+11218,11/09/2014,2014,New York Jets,20.0,13.0,MetLife Stadium,W
+11219,11/09/2014,2014,Oakland Raiders,17.0,41.0,Oakland Coliseum,L
+11220,11/09/2014,2014,Seattle Seahawks,38.0,17.0,CenturyLink Field,W
+11221,11/09/2014,2014,Tampa Bay Buccaneers,17.0,27.0,Raymond James Stadium,L
+11222,11/10/2014,2014,Philadelphia Eagles,45.0,21.0,Lincoln Financial Field,W
+11223,11/13/2014,2014,Miami Dolphins,22.0,9.0,Sun Life Stadium,W
+11224,11/16/2014,2014,Arizona Cardinals,14.0,6.0,University of Phoenix Stadium,W
+11225,11/16/2014,2014,Carolina Panthers,17.0,19.0,Bank of America Stadium,L
+11226,11/16/2014,2014,Chicago Bears,21.0,13.0,Soldier Field,W
+11227,11/16/2014,2014,Cleveland Browns,7.0,23.0,FirstEnergy Stadium,L
+11228,11/16/2014,2014,Green Bay Packers,53.0,20.0,Lambeau Field,W
+11229,11/16/2014,2014,Indianapolis Colts,20.0,42.0,Lucas Oil Stadium,L
+11230,11/16/2014,2014,Kansas City Chiefs,24.0,20.0,Arrowhead Stadium,W
+11231,11/16/2014,2014,New Orleans Saints,10.0,27.0,Louisiana Superdome,L
+11232,11/16/2014,2014,New York Giants,10.0,16.0,MetLife Stadium,L
+11233,11/16/2014,2014,San Diego Chargers,13.0,6.0,Qualcomm Stadium,W
+11234,11/16/2014,2014,St. Louis Rams,22.0,7.0,Edward Jones Dome,W
+11235,11/16/2014,2014,Washington Redskins,7.0,27.0,FedEx Field,L
+11236,11/17/2014,2014,Tennessee Titans,24.0,27.0,Nissan Stadium,L
+11237,11/20/2014,2014,Oakland Raiders,24.0,20.0,Oakland Coliseum,W
+11238,11/23/2014,2014,Atlanta Falcons,24.0,26.0,Georgia Dome,L
+11239,11/23/2014,2014,Chicago Bears,21.0,13.0,Soldier Field,W
+11240,11/23/2014,2014,Denver Broncos,39.0,36.0,Sports Authority Field at Mile High,W
+11241,11/23/2014,2014,Houston Texans,13.0,22.0,Reliant Stadium,L
+11242,11/23/2014,2014,Indianapolis Colts,23.0,3.0,Lucas Oil Stadium,W
+11243,11/23/2014,2014,Minnesota Vikings,21.0,24.0,TCF Bank Stadium,L
+11244,11/23/2014,2014,New England Patriots,34.0,9.0,Gillette Stadium,W
+11245,11/23/2014,2014,New York Giants,28.0,31.0,MetLife Stadium,L
+11246,11/23/2014,2014,Philadelphia Eagles,43.0,24.0,Lincoln Financial Field,W
+11247,11/23/2014,2014,San Diego Chargers,27.0,24.0,Qualcomm Stadium,W
+11248,11/23/2014,2014,San Francisco 49ers,17.0,13.0,Levi's Stadium,W
+11249,11/23/2014,2014,Seattle Seahawks,19.0,3.0,CenturyLink Field,W
+11250,11/24/2014,2014,Buffalo Bills,38.0,3.0,Ford Field,W
+11251,11/24/2014,2014,New Orleans Saints,27.0,34.0,Louisiana Superdome,L
+11252,11/27/2014,2014,Dallas Cowboys,10.0,33.0,Cowboys Stadium,L
+11253,11/27/2014,2014,Detroit Lions,34.0,17.0,Ford Field,W
+11254,11/27/2014,2014,San Francisco 49ers,3.0,19.0,Levi's Stadium,L
+11255,11/30/2014,2014,Atlanta Falcons,29.0,18.0,Georgia Dome,W
+11256,11/30/2014,2014,Baltimore Ravens,33.0,34.0,M&T Bank Stadium,L
+11257,11/30/2014,2014,Buffalo Bills,26.0,10.0,Ralph Wilson Stadium,W
+11258,11/30/2014,2014,Green Bay Packers,26.0,21.0,Lambeau Field,W
+11259,11/30/2014,2014,Houston Texans,45.0,21.0,Reliant Stadium,W
+11260,11/30/2014,2014,Indianapolis Colts,49.0,27.0,Lucas Oil Stadium,W
+11261,11/30/2014,2014,Jacksonville Jaguars,25.0,24.0,EverBank Field,W
+11262,11/30/2014,2014,Kansas City Chiefs,16.0,29.0,Arrowhead Stadium,L
+11263,11/30/2014,2014,Minnesota Vikings,31.0,13.0,TCF Bank Stadium,W
+11264,11/30/2014,2014,Pittsburgh Steelers,32.0,35.0,Heinz Field,L
+11265,11/30/2014,2014,St. Louis Rams,52.0,0.0,Edward Jones Dome,W
+11266,11/30/2014,2014,Tampa Bay Buccaneers,13.0,14.0,Raymond James Stadium,L
+11267,12/01/2014,2014,New York Jets,13.0,16.0,MetLife Stadium,L
+11268,12/04/2014,2014,Chicago Bears,28.0,41.0,Soldier Field,L
+11269,12/07/2014,2014,Arizona Cardinals,17.0,14.0,University of Phoenix Stadium,W
+11270,12/07/2014,2014,Cincinnati Bengals,21.0,42.0,Paul Brown Stadium,L
+11271,12/07/2014,2014,Cleveland Browns,24.0,25.0,FirstEnergy Stadium,L
+11272,12/07/2014,2014,Denver Broncos,24.0,17.0,Sports Authority Field at Mile High,W
+11273,12/07/2014,2014,Detroit Lions,34.0,17.0,Ford Field,W
+11274,12/07/2014,2014,Jacksonville Jaguars,13.0,27.0,EverBank Field,L
+11275,12/07/2014,2014,Miami Dolphins,13.0,28.0,Sun Life Stadium,L
+11276,12/07/2014,2014,Minnesota Vikings,30.0,24.0,TCF Bank Stadium,W
+11277,12/07/2014,2014,New Orleans Saints,10.0,41.0,Louisiana Superdome,L
+11278,12/07/2014,2014,Oakland Raiders,24.0,13.0,Oakland Coliseum,W
+11279,12/07/2014,2014,Philadelphia Eagles,14.0,24.0,Lincoln Financial Field,L
+11280,12/07/2014,2014,San Diego Chargers,14.0,23.0,Qualcomm Stadium,L
+11281,12/07/2014,2014,Tennessee Titans,7.0,36.0,Nissan Stadium,L
+11282,12/07/2014,2014,Washington Redskins,0.0,24.0,FedEx Field,L
+11283,12/08/2014,2014,Green Bay Packers,43.0,37.0,Lambeau Field,W
+11284,12/11/2014,2014,St. Louis Rams,6.0,12.0,Edward Jones Dome,L
+11285,12/14/2014,2014,Atlanta Falcons,20.0,27.0,Georgia Dome,L
+11286,12/14/2014,2014,Baltimore Ravens,20.0,12.0,M&T Bank Stadium,W
+11287,12/14/2014,2014,Buffalo Bills,21.0,13.0,Ralph Wilson Stadium,W
+11288,12/14/2014,2014,Carolina Panthers,19.0,17.0,Bank of America Stadium,W
+11289,12/14/2014,2014,Cleveland Browns,0.0,30.0,FirstEnergy Stadium,L
+11290,12/14/2014,2014,Detroit Lions,16.0,14.0,Ford Field,W
+11291,12/14/2014,2014,Indianapolis Colts,17.0,10.0,Lucas Oil Stadium,W
+11292,12/14/2014,2014,Kansas City Chiefs,31.0,13.0,Arrowhead Stadium,W
+11293,12/14/2014,2014,New England Patriots,41.0,13.0,Gillette Stadium,W
+11294,12/14/2014,2014,New York Giants,24.0,13.0,MetLife Stadium,W
+11295,12/14/2014,2014,Philadelphia Eagles,27.0,38.0,Lincoln Financial Field,L
+11296,12/14/2014,2014,San Diego Chargers,10.0,22.0,Qualcomm Stadium,L
+11297,12/14/2014,2014,Seattle Seahawks,17.0,7.0,CenturyLink Field,W
+11298,12/14/2014,2014,Tennessee Titans,11.0,16.0,Nissan Stadium,L
+11299,12/15/2014,2014,Chicago Bears,15.0,31.0,Soldier Field,L
+11300,12/18/2014,2014,Jacksonville Jaguars,21.0,13.0,EverBank Field,W
+11301,12/20/2014,2014,San Francisco 49ers,35.0,38.0,Levi's Stadium,L
+11302,12/20/2014,2014,Washington Redskins,27.0,24.0,FedEx Field,W
+11303,12/21/2014,2014,Arizona Cardinals,6.0,35.0,University of Phoenix Stadium,L
+11304,12/21/2014,2014,Carolina Panthers,17.0,13.0,Bank of America Stadium,W
+11305,12/21/2014,2014,Chicago Bears,14.0,20.0,Soldier Field,L
+11306,12/21/2014,2014,Dallas Cowboys,42.0,7.0,Cowboys Stadium,W
+11307,12/21/2014,2014,Houston Texans,25.0,13.0,Reliant Stadium,W
+11308,12/21/2014,2014,Miami Dolphins,37.0,35.0,Sun Life Stadium,W
+11309,12/21/2014,2014,New Orleans Saints,14.0,30.0,Louisiana Superdome,L
+11310,12/21/2014,2014,New York Jets,16.0,17.0,MetLife Stadium,L
+11311,12/21/2014,2014,Oakland Raiders,26.0,24.0,Oakland Coliseum,W
+11312,12/21/2014,2014,Pittsburgh Steelers,20.0,12.0,Heinz Field,W
+11313,12/21/2014,2014,St. Louis Rams,27.0,37.0,Edward Jones Dome,L
+11314,12/21/2014,2014,Tampa Bay Buccaneers,3.0,20.0,Raymond James Stadium,L
+11315,12/22/2014,2014,Cincinnati Bengals,37.0,28.0,Paul Brown Stadium,W
+11316,12/28/2014,2014,Atlanta Falcons,3.0,34.0,Georgia Dome,L
+11317,12/28/2014,2014,Baltimore Ravens,20.0,10.0,M&T Bank Stadium,W
+11318,12/28/2014,2014,Denver Broncos,47.0,14.0,Sports Authority Field at Mile High,W
+11319,12/28/2014,2014,Green Bay Packers,30.0,20.0,Lambeau Field,W
+11320,12/28/2014,2014,Houston Texans,23.0,17.0,Reliant Stadium,W
+11321,12/28/2014,2014,Kansas City Chiefs,19.0,7.0,Arrowhead Stadium,W
+11322,12/28/2014,2014,Miami Dolphins,24.0,37.0,Sun Life Stadium,L
+11323,12/28/2014,2014,Minnesota Vikings,13.0,9.0,TCF Bank Stadium,W
+11324,12/28/2014,2014,New England Patriots,9.0,17.0,Gillette Stadium,L
+11325,12/28/2014,2014,New York Giants,26.0,34.0,MetLife Stadium,L
+11326,12/28/2014,2014,Pittsburgh Steelers,27.0,17.0,Heinz Field,W
+11327,12/28/2014,2014,San Francisco 49ers,20.0,17.0,Levi's Stadium,W
+11328,12/28/2014,2014,Seattle Seahawks,20.0,6.0,CenturyLink Field,W
+11329,12/28/2014,2014,Tampa Bay Buccaneers,20.0,23.0,Raymond James Stadium,L
+11330,12/28/2014,2014,Tennessee Titans,10.0,27.0,Nissan Stadium,L
+11331,12/28/2014,2014,Washington Redskins,17.0,44.0,FedEx Field,L
+11343,09/10/2015,2015,New England Patriots,28.0,21.0,Gillette Stadium,W
+11344,09/13/2015,2015,Arizona Cardinals,31.0,19.0,University of Phoenix Stadium,W
+11345,09/13/2015,2015,Buffalo Bills,27.0,14.0,Ralph Wilson Stadium,W
+11346,09/13/2015,2015,Chicago Bears,23.0,31.0,Soldier Field,L
+11347,09/13/2015,2015,Dallas Cowboys,27.0,26.0,Cowboys Stadium,W
+11348,09/13/2015,2015,Denver Broncos,19.0,13.0,Sports Authority Field at Mile High,W
+11349,09/13/2015,2015,Houston Texans,20.0,27.0,Reliant Stadium,L
+11350,09/13/2015,2015,Jacksonville Jaguars,9.0,20.0,EverBank Field,L
+11351,09/13/2015,2015,New York Jets,31.0,10.0,MetLife Stadium,W
+11352,09/13/2015,2015,Oakland Raiders,13.0,33.0,Oakland Coliseum,L
+11353,09/13/2015,2015,San Diego Chargers,33.0,28.0,Qualcomm Stadium,W
+11354,09/13/2015,2015,St. Louis Rams,34.0,31.0,Edward Jones Dome,W
+11355,09/13/2015,2015,Tampa Bay Buccaneers,14.0,42.0,Raymond James Stadium,L
+11356,09/13/2015,2015,Washington Redskins,10.0,17.0,FedEx Field,L
+11357,09/14/2015,2015,Atlanta Falcons,26.0,24.0,Georgia Dome,W
+11358,09/14/2015,2015,San Francisco 49ers,20.0,3.0,Levi's Stadium,W
+11359,09/17/2015,2015,Kansas City Chiefs,24.0,31.0,Arrowhead Stadium,L
+11360,09/20/2015,2015,Buffalo Bills,32.0,40.0,Ralph Wilson Stadium,L
+11361,09/20/2015,2015,Carolina Panthers,24.0,17.0,Bank of America Stadium,W
+11362,09/20/2015,2015,Chicago Bears,23.0,48.0,Soldier Field,L
+11363,09/20/2015,2015,Cincinnati Bengals,24.0,19.0,Paul Brown Stadium,W
+11364,09/20/2015,2015,Cleveland Browns,28.0,14.0,FirstEnergy Stadium,W
+11365,09/20/2015,2015,Green Bay Packers,27.0,17.0,Lambeau Field,W
+11366,09/20/2015,2015,Jacksonville Jaguars,23.0,20.0,EverBank Field,W
+11367,09/20/2015,2015,Minnesota Vikings,26.0,16.0,TCF Bank Stadium,W
+11368,09/20/2015,2015,New Orleans Saints,19.0,26.0,Louisiana Superdome,L
+11369,09/20/2015,2015,New York Giants,20.0,24.0,MetLife Stadium,L
+11370,09/20/2015,2015,Oakland Raiders,37.0,33.0,Oakland Coliseum,W
+11371,09/20/2015,2015,Philadelphia Eagles,10.0,20.0,Lincoln Financial Field,L
+11372,09/20/2015,2015,Pittsburgh Steelers,43.0,18.0,Heinz Field,W
+11373,09/20/2015,2015,Washington Redskins,24.0,10.0,FedEx Field,W
+11374,09/21/2015,2015,Indianapolis Colts,7.0,20.0,Lucas Oil Stadium,L
+11375,09/24/2015,2015,New York Giants,32.0,21.0,MetLife Stadium,W
+11376,09/27/2015,2015,Arizona Cardinals,47.0,7.0,University of Phoenix Stadium,W
+11377,09/27/2015,2015,Baltimore Ravens,24.0,28.0,M&T Bank Stadium,L
+11378,09/27/2015,2015,Carolina Panthers,27.0,22.0,Bank of America Stadium,W
+11379,09/27/2015,2015,Cleveland Browns,20.0,27.0,FirstEnergy Stadium,L
+11380,09/27/2015,2015,Dallas Cowboys,28.0,39.0,Cowboys Stadium,L
+11381,09/27/2015,2015,Detroit Lions,12.0,24.0,Ford Field,L
+11382,09/27/2015,2015,Houston Texans,19.0,9.0,Reliant Stadium,W
+11383,09/27/2015,2015,Miami Dolphins,14.0,41.0,Sun Life Stadium,L
+11384,09/27/2015,2015,Minnesota Vikings,31.0,14.0,TCF Bank Stadium,W
+11385,09/27/2015,2015,New England Patriots,51.0,17.0,Gillette Stadium,W
+11386,09/27/2015,2015,New York Jets,17.0,24.0,MetLife Stadium,L
+11387,09/27/2015,2015,Seattle Seahawks,26.0,0.0,CenturyLink Field,W
+11388,09/27/2015,2015,St. Louis Rams,6.0,12.0,Edward Jones Dome,L
+11389,09/27/2015,2015,Tennessee Titans,33.0,35.0,Nissan Stadium,L
+11390,09/28/2015,2015,Green Bay Packers,38.0,28.0,Lambeau Field,W
+11391,10/01/2015,2015,Pittsburgh Steelers,20.0,23.0,Heinz Field,L
+11392,10/04/2015,2015,Arizona Cardinals,22.0,24.0,University of Phoenix Stadium,L
+11393,10/04/2015,2015,Atlanta Falcons,48.0,21.0,Georgia Dome,W
+11394,10/04/2015,2015,Buffalo Bills,10.0,24.0,Ralph Wilson Stadium,L
+11395,10/04/2015,2015,Chicago Bears,22.0,20.0,Soldier Field,W
+11396,10/04/2015,2015,Cincinnati Bengals,36.0,21.0,Paul Brown Stadium,W
+11397,10/04/2015,2015,Denver Broncos,23.0,20.0,Sports Authority Field at Mile High,W
+11398,10/04/2015,2015,Indianapolis Colts,16.0,13.0,Lucas Oil Stadium,W
+11399,10/04/2015,2015,Miami Dolphins,14.0,27.0,Wembley Stadium,L
+11400,10/04/2015,2015,New Orleans Saints,26.0,20.0,Louisiana Superdome,W
+11401,10/04/2015,2015,San Diego Chargers,30.0,27.0,Qualcomm Stadium,W
+11402,10/04/2015,2015,San Francisco 49ers,3.0,17.0,Levi's Stadium,L
+11403,10/04/2015,2015,Tampa Bay Buccaneers,23.0,37.0,Raymond James Stadium,L
+11404,10/04/2015,2015,Washington Redskins,23.0,20.0,FedEx Field,W
+11405,10/05/2015,2015,Seattle Seahawks,13.0,10.0,CenturyLink Field,W
+11406,10/08/2015,2015,Houston Texans,20.0,27.0,Reliant Stadium,L
+11407,10/11/2015,2015,Atlanta Falcons,25.0,19.0,Georgia Dome,W
+11408,10/11/2015,2015,Baltimore Ravens,30.0,33.0,M&T Bank Stadium,L
+11409,10/11/2015,2015,Cincinnati Bengals,27.0,24.0,Paul Brown Stadium,W
+11410,10/11/2015,2015,Dallas Cowboys,6.0,30.0,Cowboys Stadium,L
+11411,10/11/2015,2015,Detroit Lions,17.0,42.0,Ford Field,L
+11412,10/11/2015,2015,Green Bay Packers,24.0,10.0,Lambeau Field,W
+11413,10/11/2015,2015,Kansas City Chiefs,17.0,18.0,Arrowhead Stadium,L
+11414,10/11/2015,2015,New York Giants,30.0,27.0,MetLife Stadium,W
+11415,10/11/2015,2015,Oakland Raiders,10.0,16.0,Oakland Coliseum,L
+11416,10/11/2015,2015,Philadelphia Eagles,39.0,17.0,Lincoln Financial Field,W
+11417,10/11/2015,2015,Tampa Bay Buccaneers,38.0,31.0,Raymond James Stadium,W
+11418,10/11/2015,2015,Tennessee Titans,13.0,14.0,Nissan Stadium,L
+11419,10/12/2015,2015,San Diego Chargers,20.0,24.0,Qualcomm Stadium,L
+11420,10/15/2015,2015,New Orleans Saints,31.0,21.0,Louisiana Superdome,W
+11421,10/18/2015,2015,Buffalo Bills,21.0,34.0,Ralph Wilson Stadium,L
+11422,10/18/2015,2015,Cleveland Browns,23.0,26.0,FirstEnergy Stadium,L
+11423,10/18/2015,2015,Detroit Lions,37.0,34.0,Ford Field,W
+11424,10/18/2015,2015,Green Bay Packers,27.0,20.0,Lambeau Field,W
+11425,10/18/2015,2015,Indianapolis Colts,27.0,34.0,Lucas Oil Stadium,L
+11426,10/18/2015,2015,Jacksonville Jaguars,20.0,31.0,EverBank Field,L
+11427,10/18/2015,2015,Minnesota Vikings,16.0,10.0,TCF Bank Stadium,W
+11428,10/18/2015,2015,New York Jets,34.0,20.0,MetLife Stadium,W
+11429,10/18/2015,2015,Pittsburgh Steelers,25.0,13.0,Heinz Field,W
+11430,10/18/2015,2015,San Francisco 49ers,25.0,20.0,Levi's Stadium,W
+11431,10/18/2015,2015,Seattle Seahawks,23.0,27.0,CenturyLink Field,L
+11432,10/18/2015,2015,Tennessee Titans,10.0,38.0,Nissan Stadium,L
+11433,10/19/2015,2015,Philadelphia Eagles,27.0,7.0,Lincoln Financial Field,W
+11434,10/22/2015,2015,San Francisco 49ers,3.0,20.0,Levi's Stadium,L
+11435,10/25/2015,2015,Carolina Panthers,27.0,16.0,Bank of America Stadium,W
+11436,10/25/2015,2015,Detroit Lions,19.0,28.0,Ford Field,L
+11437,10/25/2015,2015,Indianapolis Colts,21.0,27.0,Lucas Oil Stadium,L
+11438,10/25/2015,2015,Jacksonville Jaguars,34.0,31.0,Wembley Stadium,W
+11439,10/25/2015,2015,Kansas City Chiefs,23.0,13.0,Arrowhead Stadium,W
+11440,10/25/2015,2015,Miami Dolphins,44.0,26.0,Sun Life Stadium,W
+11441,10/25/2015,2015,New England Patriots,30.0,23.0,Gillette Stadium,W
+11442,10/25/2015,2015,New York Giants,27.0,20.0,MetLife Stadium,W
+11443,10/25/2015,2015,San Diego Chargers,29.0,37.0,Qualcomm Stadium,L
+11444,10/25/2015,2015,St. Louis Rams,24.0,6.0,Edward Jones Dome,W
+11445,10/25/2015,2015,Tennessee Titans,7.0,10.0,Nissan Stadium,L
+11446,10/25/2015,2015,Washington Redskins,31.0,30.0,FedEx Field,W
+11447,10/26/2015,2015,Arizona Cardinals,26.0,18.0,University of Phoenix Stadium,W
+11448,10/29/2015,2015,New England Patriots,36.0,7.0,Gillette Stadium,W
+11449,11/01/2015,2015,Atlanta Falcons,20.0,23.0,Georgia Dome,L
+11450,11/01/2015,2015,Baltimore Ravens,29.0,26.0,M&T Bank Stadium,W
+11451,11/01/2015,2015,Chicago Bears,20.0,23.0,Soldier Field,L
+11452,11/01/2015,2015,Cleveland Browns,20.0,34.0,FirstEnergy Stadium,L
+11453,11/01/2015,2015,Dallas Cowboys,12.0,13.0,Cowboys Stadium,L
+11454,11/01/2015,2015,Denver Broncos,29.0,10.0,Sports Authority Field at Mile High,W
+11455,11/01/2015,2015,Houston Texans,20.0,6.0,Reliant Stadium,W
+11456,11/01/2015,2015,Kansas City Chiefs,45.0,10.0,Wembley Stadium,W
+11457,11/01/2015,2015,New Orleans Saints,52.0,49.0,Louisiana Superdome,W
+11458,11/01/2015,2015,Oakland Raiders,34.0,20.0,Oakland Coliseum,W
+11459,11/01/2015,2015,Pittsburgh Steelers,10.0,16.0,Heinz Field,L
+11460,11/01/2015,2015,St. Louis Rams,27.0,6.0,Edward Jones Dome,W
+11461,11/02/2015,2015,Carolina Panthers,29.0,26.0,Bank of America Stadium,W
+11462,11/05/2015,2015,Cincinnati Bengals,31.0,10.0,Paul Brown Stadium,W
+11463,11/08/2015,2015,Buffalo Bills,33.0,17.0,Ralph Wilson Stadium,W
+11464,11/08/2015,2015,Carolina Panthers,37.0,29.0,Bank of America Stadium,W
+11465,11/08/2015,2015,Dallas Cowboys,27.0,33.0,Cowboys Stadium,L
+11466,11/08/2015,2015,Indianapolis Colts,27.0,24.0,Lucas Oil Stadium,W
+11467,11/08/2015,2015,Minnesota Vikings,21.0,18.0,TCF Bank Stadium,W
+11468,11/08/2015,2015,New England Patriots,27.0,10.0,Gillette Stadium,W
+11469,11/08/2015,2015,New Orleans Saints,28.0,34.0,Louisiana Superdome,L
+11470,11/08/2015,2015,New York Jets,28.0,23.0,MetLife Stadium,W
+11471,11/08/2015,2015,Pittsburgh Steelers,38.0,35.0,Heinz Field,W
+11472,11/08/2015,2015,San Francisco 49ers,17.0,16.0,Levi's Stadium,W
+11473,11/08/2015,2015,Tampa Bay Buccaneers,18.0,32.0,Raymond James Stadium,L
+11474,11/09/2015,2015,San Diego Chargers,19.0,22.0,Qualcomm Stadium,L
+11475,11/12/2015,2015,New York Jets,17.0,22.0,MetLife Stadium,L
+11476,11/15/2015,2015,Baltimore Ravens,20.0,22.0,M&T Bank Stadium,L
+11477,11/15/2015,2015,Denver Broncos,13.0,29.0,Sports Authority Field at Mile High,L
+11478,11/15/2015,2015,Green Bay Packers,16.0,18.0,Lambeau Field,L
+11479,11/15/2015,2015,New York Giants,26.0,27.0,MetLife Stadium,L
+11480,11/15/2015,2015,Oakland Raiders,14.0,30.0,Oakland Coliseum,L
+11481,11/15/2015,2015,Philadelphia Eagles,19.0,20.0,Lincoln Financial Field,L
+11482,11/15/2015,2015,Pittsburgh Steelers,30.0,9.0,Heinz Field,W
+11483,11/15/2015,2015,Seattle Seahawks,32.0,39.0,CenturyLink Field,L
+11484,11/15/2015,2015,St. Louis Rams,13.0,37.0,Edward Jones Dome,L
+11485,11/15/2015,2015,Tampa Bay Buccaneers,10.0,6.0,Raymond James Stadium,W
+11486,11/15/2015,2015,Tennessee Titans,10.0,27.0,Nissan Stadium,L
+11487,11/15/2015,2015,Washington Redskins,47.0,14.0,FedEx Field,W
+11488,11/16/2015,2015,Cincinnati Bengals,6.0,10.0,Paul Brown Stadium,L
+11489,11/19/2015,2015,Jacksonville Jaguars,19.0,13.0,EverBank Field,W
+11490,11/22/2015,2015,Arizona Cardinals,34.0,31.0,University of Phoenix Stadium,W
+11491,11/22/2015,2015,Atlanta Falcons,21.0,24.0,Georgia Dome,L
+11492,11/22/2015,2015,Baltimore Ravens,16.0,13.0,M&T Bank Stadium,W
+11493,11/22/2015,2015,Carolina Panthers,44.0,16.0,Bank of America Stadium,W
+11494,11/22/2015,2015,Chicago Bears,15.0,17.0,Soldier Field,L
+11495,11/22/2015,2015,Detroit Lions,18.0,13.0,Ford Field,W
+11496,11/22/2015,2015,Houston Texans,24.0,17.0,Reliant Stadium,W
+11497,11/22/2015,2015,Miami Dolphins,14.0,24.0,Sun Life Stadium,L
+11498,11/22/2015,2015,Minnesota Vikings,13.0,30.0,TCF Bank Stadium,L
+11499,11/22/2015,2015,Philadelphia Eagles,17.0,45.0,Lincoln Financial Field,L
+11500,11/22/2015,2015,San Diego Chargers,3.0,33.0,Qualcomm Stadium,L
+11501,11/22/2015,2015,Seattle Seahawks,29.0,13.0,CenturyLink Field,W
+11502,11/23/2015,2015,New England Patriots,20.0,13.0,Gillette Stadium,W
+11503,11/26/2015,2015,Dallas Cowboys,14.0,33.0,Cowboys Stadium,L
+11504,11/26/2015,2015,Detroit Lions,45.0,14.0,Ford Field,W
+11505,11/26/2015,2015,Green Bay Packers,13.0,17.0,Lambeau Field,L
+11506,11/29/2015,2015,Atlanta Falcons,10.0,20.0,Georgia Dome,L
+11507,11/29/2015,2015,Cincinnati Bengals,31.0,7.0,Paul Brown Stadium,W
+11508,11/29/2015,2015,Denver Broncos,30.0,24.0,Sports Authority Field at Mile High,W
+11509,11/29/2015,2015,Houston Texans,24.0,6.0,Reliant Stadium,W
+11510,11/29/2015,2015,Indianapolis Colts,25.0,12.0,Lucas Oil Stadium,W
+11511,11/29/2015,2015,Jacksonville Jaguars,25.0,31.0,EverBank Field,L
+11512,11/29/2015,2015,Kansas City Chiefs,30.0,22.0,Arrowhead Stadium,W
+11513,11/29/2015,2015,New York Jets,38.0,20.0,MetLife Stadium,W
+11514,11/29/2015,2015,San Francisco 49ers,13.0,19.0,Levi's Stadium,L
+11515,11/29/2015,2015,Seattle Seahawks,39.0,30.0,CenturyLink Field,W
+11516,11/29/2015,2015,Tennessee Titans,21.0,24.0,Nissan Stadium,L
+11517,11/29/2015,2015,Washington Redskins,20.0,14.0,FedEx Field,W
+11518,11/30/2015,2015,Cleveland Browns,27.0,33.0,FirstEnergy Stadium,L
+11519,12/03/2015,2015,Detroit Lions,23.0,27.0,Ford Field,L
+11520,12/06/2015,2015,Buffalo Bills,30.0,21.0,Ralph Wilson Stadium,W
+11521,12/06/2015,2015,Chicago Bears,20.0,26.0,Soldier Field,L
+11522,12/06/2015,2015,Cleveland Browns,3.0,37.0,FirstEnergy Stadium,L
+11523,12/06/2015,2015,Miami Dolphins,15.0,13.0,Sun Life Stadium,W
+11524,12/06/2015,2015,Minnesota Vikings,7.0,38.0,TCF Bank Stadium,L
+11525,12/06/2015,2015,New England Patriots,28.0,35.0,Gillette Stadium,L
+11526,12/06/2015,2015,New Orleans Saints,38.0,41.0,Louisiana Superdome,L
+11527,12/06/2015,2015,New York Giants,20.0,23.0,MetLife Stadium,L
+11528,12/06/2015,2015,Oakland Raiders,20.0,34.0,Oakland Coliseum,L
+11529,12/06/2015,2015,Pittsburgh Steelers,45.0,10.0,Heinz Field,W
+11530,12/06/2015,2015,San Diego Chargers,3.0,17.0,Qualcomm Stadium,L
+11531,12/06/2015,2015,St. Louis Rams,3.0,27.0,Edward Jones Dome,L
+11532,12/06/2015,2015,Tampa Bay Buccaneers,23.0,19.0,Raymond James Stadium,W
+11533,12/06/2015,2015,Tennessee Titans,42.0,39.0,Nissan Stadium,W
+11534,12/07/2015,2015,Washington Redskins,16.0,19.0,FedEx Field,L
+11535,12/10/2015,2015,Arizona Cardinals,23.0,20.0,University of Phoenix Stadium,W
+11536,12/13/2015,2015,Baltimore Ravens,6.0,35.0,M&T Bank Stadium,L
+11537,12/13/2015,2015,Carolina Panthers,38.0,0.0,Bank of America Stadium,W
+11538,12/13/2015,2015,Chicago Bears,21.0,24.0,Soldier Field,L
+11539,12/13/2015,2015,Cincinnati Bengals,20.0,33.0,Paul Brown Stadium,L
+11540,12/13/2015,2015,Cleveland Browns,24.0,10.0,FirstEnergy Stadium,W
+11541,12/13/2015,2015,Denver Broncos,12.0,15.0,Sports Authority Field at Mile High,L
+11542,12/13/2015,2015,Green Bay Packers,28.0,7.0,Lambeau Field,W
+11543,12/13/2015,2015,Houston Texans,6.0,27.0,Reliant Stadium,L
+11544,12/13/2015,2015,Jacksonville Jaguars,51.0,16.0,EverBank Field,W
+11545,12/13/2015,2015,Kansas City Chiefs,10.0,3.0,Arrowhead Stadium,W
+11546,12/13/2015,2015,New York Jets,30.0,8.0,MetLife Stadium,W
+11547,12/13/2015,2015,Philadelphia Eagles,23.0,20.0,Lincoln Financial Field,W
+11548,12/13/2015,2015,St. Louis Rams,21.0,14.0,Edward Jones Dome,W
+11549,12/13/2015,2015,Tampa Bay Buccaneers,17.0,24.0,Raymond James Stadium,L
+11550,12/14/2015,2015,Miami Dolphins,24.0,31.0,Sun Life Stadium,L
+11551,12/17/2015,2015,St. Louis Rams,31.0,23.0,Edward Jones Dome,W
+11552,12/19/2015,2015,Dallas Cowboys,16.0,19.0,Cowboys Stadium,L
+11553,12/20/2015,2015,Baltimore Ravens,14.0,34.0,M&T Bank Stadium,L
+11554,12/20/2015,2015,Indianapolis Colts,10.0,16.0,Lucas Oil Stadium,L
+11555,12/20/2015,2015,Jacksonville Jaguars,17.0,23.0,EverBank Field,L
+11556,12/20/2015,2015,Minnesota Vikings,38.0,17.0,TCF Bank Stadium,W
+11557,12/20/2015,2015,New England Patriots,33.0,16.0,Gillette Stadium,W
+11558,12/20/2015,2015,New York Giants,35.0,38.0,MetLife Stadium,L
+11559,12/20/2015,2015,Oakland Raiders,20.0,30.0,Oakland Coliseum,L
+11560,12/20/2015,2015,Philadelphia Eagles,17.0,40.0,Lincoln Financial Field,L
+11561,12/20/2015,2015,Pittsburgh Steelers,34.0,27.0,Heinz Field,W
+11562,12/20/2015,2015,San Diego Chargers,30.0,14.0,Qualcomm Stadium,W
+11563,12/20/2015,2015,San Francisco 49ers,14.0,24.0,Levi's Stadium,L
+11564,12/20/2015,2015,Seattle Seahawks,30.0,13.0,CenturyLink Field,W
+11565,12/20/2015,2015,Washington Redskins,35.0,25.0,FedEx Field,W
+11566,12/21/2015,2015,New Orleans Saints,27.0,35.0,Louisiana Superdome,L
+11567,12/24/2015,2015,Oakland Raiders,23.0,20.0,Oakland Coliseum,W
+11568,12/26/2015,2015,Philadelphia Eagles,24.0,38.0,Lincoln Financial Field,L
+11569,12/27/2015,2015,Arizona Cardinals,38.0,8.0,University of Phoenix Stadium,W
+11570,12/27/2015,2015,Atlanta Falcons,20.0,13.0,Georgia Dome,W
+11571,12/27/2015,2015,Baltimore Ravens,20.0,17.0,M&T Bank Stadium,W
+11572,12/27/2015,2015,Buffalo Bills,16.0,6.0,Ralph Wilson Stadium,W
+11573,12/27/2015,2015,Detroit Lions,32.0,17.0,Ford Field,W
+11574,12/27/2015,2015,Kansas City Chiefs,17.0,13.0,Arrowhead Stadium,W
+11575,12/27/2015,2015,Miami Dolphins,12.0,18.0,Sun Life Stadium,L
+11576,12/27/2015,2015,Minnesota Vikings,49.0,17.0,TCF Bank Stadium,W
+11577,12/27/2015,2015,New Orleans Saints,38.0,27.0,Louisiana Superdome,W
+11578,12/27/2015,2015,New York Jets,26.0,20.0,MetLife Stadium,W
+11579,12/27/2015,2015,Seattle Seahawks,17.0,23.0,CenturyLink Field,L
+11580,12/27/2015,2015,Tampa Bay Buccaneers,21.0,26.0,Raymond James Stadium,L
+11581,12/27/2015,2015,Tennessee Titans,6.0,34.0,Nissan Stadium,L
+11582,12/28/2015,2015,Denver Broncos,20.0,17.0,Sports Authority Field at Mile High,W
+11583,01/03/2016,2015,Arizona Cardinals,6.0,36.0,University of Phoenix Stadium,L
+11584,01/03/2016,2015,Atlanta Falcons,17.0,20.0,Georgia Dome,L
+11585,01/03/2016,2015,Buffalo Bills,22.0,17.0,Ralph Wilson Stadium,W
+11586,01/03/2016,2015,Carolina Panthers,38.0,10.0,Bank of America Stadium,W
+11587,01/03/2016,2015,Chicago Bears,20.0,24.0,Soldier Field,L
+11588,01/03/2016,2015,Cincinnati Bengals,24.0,16.0,Paul Brown Stadium,W
+11589,01/03/2016,2015,Cleveland Browns,12.0,28.0,FirstEnergy Stadium,L
+11590,01/03/2016,2015,Dallas Cowboys,23.0,34.0,Cowboys Stadium,L
+11591,01/03/2016,2015,Denver Broncos,27.0,20.0,Sports Authority Field at Mile High,W
+11592,01/03/2016,2015,Green Bay Packers,13.0,20.0,Lambeau Field,L
+11593,01/03/2016,2015,Houston Texans,30.0,6.0,Reliant Stadium,W
+11594,01/03/2016,2015,Indianapolis Colts,30.0,24.0,Lucas Oil Stadium,W
+11595,01/03/2016,2015,Kansas City Chiefs,23.0,17.0,Arrowhead Stadium,W
+11596,01/03/2016,2015,Miami Dolphins,20.0,10.0,Sun Life Stadium,W
+11597,01/03/2016,2015,New York Giants,30.0,35.0,MetLife Stadium,L
+11598,01/03/2016,2015,San Francisco 49ers,19.0,16.0,Levi's Stadium,W
+11610,09/08/2016,2016,Denver Broncos,21.0,20.0,Sports Authority Field at Mile High,W
+11611,09/11/2016,2016,Arizona Cardinals,21.0,23.0,University of Phoenix Stadium,L
+11612,09/11/2016,2016,Atlanta Falcons,24.0,31.0,Georgia Dome,L
+11613,09/11/2016,2016,Baltimore Ravens,13.0,7.0,M&T Bank Stadium,W
+11614,09/11/2016,2016,Dallas Cowboys,19.0,20.0,Cowboys Stadium,L
+11615,09/11/2016,2016,Houston Texans,23.0,14.0,Reliant Stadium,W
+11616,09/11/2016,2016,Indianapolis Colts,35.0,39.0,Lucas Oil Stadium,L
+11617,09/11/2016,2016,Jacksonville Jaguars,23.0,27.0,EverBank Field,L
+11618,09/11/2016,2016,Kansas City Chiefs,33.0,27.0,Arrowhead Stadium,W
+11619,09/11/2016,2016,New Orleans Saints,34.0,35.0,Louisiana Superdome,L
+11620,09/11/2016,2016,New York Jets,22.0,23.0,MetLife Stadium,L
+11621,09/11/2016,2016,Philadelphia Eagles,29.0,10.0,Lincoln Financial Field,W
+11622,09/11/2016,2016,Seattle Seahawks,12.0,10.0,CenturyLink Field,W
+11623,09/11/2016,2016,Tennessee Titans,16.0,25.0,Nissan Stadium,L
+11624,09/12/2016,2016,San Francisco 49ers,28.0,0.0,Levi's Stadium,W
+11625,09/12/2016,2016,Washington Redskins,16.0,38.0,FedEx Field,L
+11626,09/15/2016,2016,Buffalo Bills,31.0,37.0,New Era Field,L
+11627,09/18/2016,2016,Arizona Cardinals,40.0,7.0,University of Phoenix Stadium,W
+11628,09/18/2016,2016,Carolina Panthers,46.0,27.0,Bank of America Stadium,W
+11629,09/18/2016,2016,Cleveland Browns,20.0,25.0,FirstEnergy Stadium,L
+11630,09/18/2016,2016,Denver Broncos,34.0,20.0,Sports Authority Field at Mile High,W
+11631,09/18/2016,2016,Detroit Lions,15.0,16.0,Ford Field,L
+11632,09/18/2016,2016,Houston Texans,19.0,12.0,Reliant Stadium,W
+11633,09/18/2016,2016,Los Angeles Rams,9.0,3.0,Los Angeles Memorial Coliseum,W
+11634,09/18/2016,2016,New England Patriots,31.0,24.0,Gillette Stadium,W
+11635,09/18/2016,2016,New York Giants,16.0,13.0,MetLife Stadium,W
+11636,09/18/2016,2016,Oakland Raiders,28.0,35.0,Oakland Coliseum,L
+11637,09/18/2016,2016,Pittsburgh Steelers,24.0,16.0,Heinz Field,W
+11638,09/18/2016,2016,San Diego Chargers,38.0,14.0,Qualcomm Stadium,W
+11639,09/18/2016,2016,Washington Redskins,23.0,27.0,FedEx Field,L
+11640,09/18/2016,2016,Minnesota Vikings,17.0,14.0,U.S. Bank Stadium,W
+11641,09/19/2016,2016,Chicago Bears,14.0,29.0,Soldier Field,L
+11642,09/22/2016,2016,New England Patriots,27.0,0.0,Gillette Stadium,W
+11643,09/25/2016,2016,Buffalo Bills,33.0,18.0,New Era Field,W
+11644,09/25/2016,2016,Carolina Panthers,10.0,22.0,Bank of America Stadium,L
+11645,09/25/2016,2016,Cincinnati Bengals,17.0,29.0,Paul Brown Stadium,L
+11646,09/25/2016,2016,Dallas Cowboys,31.0,17.0,Cowboys Stadium,W
+11647,09/25/2016,2016,Green Bay Packers,34.0,27.0,Lambeau Field,W
+11648,09/25/2016,2016,Indianapolis Colts,26.0,22.0,Lucas Oil Stadium,W
+11649,09/25/2016,2016,Jacksonville Jaguars,17.0,19.0,EverBank Field,L
+11650,09/25/2016,2016,Kansas City Chiefs,24.0,3.0,Arrowhead Stadium,W
+11651,09/25/2016,2016,Miami Dolphins,30.0,24.0,Sun Life Stadium,W
+11652,09/25/2016,2016,New York Giants,27.0,29.0,MetLife Stadium,L
+11653,09/25/2016,2016,Philadelphia Eagles,34.0,3.0,Lincoln Financial Field,W
+11654,09/25/2016,2016,Seattle Seahawks,37.0,18.0,CenturyLink Field,W
+11655,09/25/2016,2016,Tampa Bay Buccaneers,32.0,37.0,Raymond James Stadium,L
+11656,09/25/2016,2016,Tennessee Titans,10.0,17.0,Nissan Stadium,L
+11657,09/26/2016,2016,New Orleans Saints,32.0,45.0,Louisiana Superdome,L
+11658,09/29/2016,2016,Cincinnati Bengals,22.0,7.0,Paul Brown Stadium,W
+11659,10/02/2016,2016,Arizona Cardinals,13.0,17.0,University of Phoenix Stadium,L
+11660,10/02/2016,2016,Atlanta Falcons,48.0,33.0,Georgia Dome,W
+11661,10/02/2016,2016,Baltimore Ravens,27.0,28.0,M&T Bank Stadium,L
+11662,10/02/2016,2016,Chicago Bears,17.0,14.0,Soldier Field,W
+11663,10/02/2016,2016,Houston Texans,27.0,20.0,Reliant Stadium,W
+11664,10/02/2016,2016,Jacksonville Jaguars,30.0,27.0,Wembley Stadium,W
+11665,10/02/2016,2016,New England Patriots,0.0,16.0,Gillette Stadium,L
+11666,10/02/2016,2016,New York Jets,17.0,27.0,MetLife Stadium,L
+11667,10/02/2016,2016,Pittsburgh Steelers,43.0,14.0,Heinz Field,W
+11668,10/02/2016,2016,San Diego Chargers,34.0,35.0,Qualcomm Stadium,L
+11669,10/02/2016,2016,San Francisco 49ers,17.0,24.0,Levi's Stadium,L
+11670,10/02/2016,2016,Tampa Bay Buccaneers,7.0,27.0,Raymond James Stadium,L
+11671,10/02/2016,2016,Washington Redskins,31.0,20.0,FedEx Field,W
+11672,10/03/2016,2016,Minnesota Vikings,24.0,10.0,U.S. Bank Stadium,W
+11673,10/06/2016,2016,San Francisco 49ers,21.0,33.0,Levi's Stadium,L
+11674,10/09/2016,2016,Baltimore Ravens,10.0,16.0,M&T Bank Stadium,L
+11675,10/09/2016,2016,Cleveland Browns,13.0,33.0,FirstEnergy Stadium,L
+11676,10/09/2016,2016,Dallas Cowboys,28.0,14.0,Cowboys Stadium,W
+11677,10/09/2016,2016,Denver Broncos,16.0,23.0,Sports Authority Field at Mile High,L
+11678,10/09/2016,2016,Detroit Lions,24.0,23.0,Ford Field,W
+11679,10/09/2016,2016,Green Bay Packers,23.0,16.0,Lambeau Field,W
+11680,10/09/2016,2016,Indianapolis Colts,29.0,23.0,Lucas Oil Stadium,W
+11681,10/09/2016,2016,Los Angeles Rams,19.0,30.0,Los Angeles Memorial Coliseum,L
+11682,10/09/2016,2016,Miami Dolphins,17.0,30.0,Sun Life Stadium,L
+11683,10/09/2016,2016,Minnesota Vikings,31.0,13.0,U.S. Bank Stadium,W
+11684,10/09/2016,2016,Oakland Raiders,34.0,31.0,Oakland Coliseum,W
+11685,10/09/2016,2016,Pittsburgh Steelers,31.0,13.0,Heinz Field,W
+11686,10/10/2016,2016,Carolina Panthers,14.0,17.0,Bank of America Stadium,L
+11687,10/13/2016,2016,San Diego Chargers,21.0,13.0,Qualcomm Stadium,W
+11688,10/16/2016,2016,Buffalo Bills,45.0,16.0,New Era Field,W
+11689,10/16/2016,2016,Chicago Bears,16.0,17.0,Soldier Field,L
+11690,10/16/2016,2016,Detroit Lions,31.0,28.0,Ford Field,W
+11691,10/16/2016,2016,Green Bay Packers,16.0,30.0,Lambeau Field,L
+11692,10/16/2016,2016,Houston Texans,26.0,23.0,Reliant Stadium,W
+11693,10/16/2016,2016,Miami Dolphins,30.0,15.0,Sun Life Stadium,W
+11694,10/16/2016,2016,New England Patriots,35.0,17.0,Gillette Stadium,W
+11695,10/16/2016,2016,New Orleans Saints,41.0,38.0,Louisiana Superdome,W
+11696,10/16/2016,2016,New York Giants,27.0,23.0,MetLife Stadium,W
+11697,10/16/2016,2016,Oakland Raiders,10.0,26.0,Oakland Coliseum,L
+11698,10/16/2016,2016,Seattle Seahawks,26.0,24.0,CenturyLink Field,W
+11699,10/16/2016,2016,Tennessee Titans,28.0,26.0,Nissan Stadium,W
+11700,10/16/2016,2016,Washington Redskins,27.0,20.0,FedEx Field,W
+11701,10/17/2016,2016,Arizona Cardinals,28.0,3.0,University of Phoenix Stadium,W
+11702,10/20/2016,2016,Green Bay Packers,26.0,10.0,Lambeau Field,W
+11703,10/23/2016,2016,Arizona Cardinals,6.0,6.0,University of Phoenix Stadium,L
+11704,10/23/2016,2016,Atlanta Falcons,30.0,33.0,Georgia Dome,L
+11705,10/23/2016,2016,Cincinnati Bengals,31.0,17.0,Paul Brown Stadium,W
+11706,10/23/2016,2016,Detroit Lions,20.0,17.0,Ford Field,W
+11707,10/23/2016,2016,Jacksonville Jaguars,16.0,33.0,EverBank Field,L
+11708,10/23/2016,2016,Kansas City Chiefs,27.0,21.0,Arrowhead Stadium,W
+11709,10/23/2016,2016,Los Angeles Rams,10.0,17.0,Twickenham Stadium,L
+11710,10/23/2016,2016,Miami Dolphins,28.0,25.0,Sun Life Stadium,W
+11711,10/23/2016,2016,New York Jets,24.0,16.0,MetLife Stadium,W
+11712,10/23/2016,2016,Philadelphia Eagles,21.0,10.0,Lincoln Financial Field,W
+11713,10/23/2016,2016,Pittsburgh Steelers,16.0,27.0,Heinz Field,L
+11714,10/23/2016,2016,San Francisco 49ers,17.0,34.0,Levi's Stadium,L
+11715,10/23/2016,2016,Tennessee Titans,26.0,34.0,Nissan Stadium,L
+11716,10/24/2016,2016,Denver Broncos,27.0,9.0,Sports Authority Field at Mile High,W
+11717,10/27/2016,2016,Tennessee Titans,36.0,22.0,Nissan Stadium,W
+11718,10/30/2016,2016,Atlanta Falcons,33.0,32.0,Georgia Dome,W
+11719,10/30/2016,2016,Buffalo Bills,25.0,41.0,New Era Field,L
+11720,10/30/2016,2016,Carolina Panthers,30.0,20.0,Bank of America Stadium,W
+11721,10/30/2016,2016,Cincinnati Bengals,27.0,27.0,Wembley Stadium,L
+11722,10/30/2016,2016,Cleveland Browns,28.0,31.0,FirstEnergy Stadium,L
+11723,10/30/2016,2016,Dallas Cowboys,29.0,23.0,Cowboys Stadium,W
+11724,10/30/2016,2016,Denver Broncos,27.0,19.0,Sports Authority Field at Mile High,W
+11725,10/30/2016,2016,Houston Texans,20.0,13.0,Reliant Stadium,W
+11726,10/30/2016,2016,Indianapolis Colts,14.0,30.0,Lucas Oil Stadium,L
+11727,10/30/2016,2016,New Orleans Saints,25.0,20.0,Louisiana Superdome,W
+11728,10/30/2016,2016,Tampa Bay Buccaneers,24.0,30.0,Raymond James Stadium,L
+11729,10/31/2016,2016,Chicago Bears,20.0,10.0,Soldier Field,W
+11730,11/03/2016,2016,Tampa Bay Buccaneers,28.0,43.0,Raymond James Stadium,L
+11731,11/06/2016,2016,Baltimore Ravens,21.0,14.0,M&T Bank Stadium,W
+11732,11/06/2016,2016,Cleveland Browns,10.0,35.0,FirstEnergy Stadium,L
+11733,11/06/2016,2016,Green Bay Packers,26.0,31.0,Lambeau Field,L
+11734,11/06/2016,2016,Kansas City Chiefs,19.0,14.0,Arrowhead Stadium,W
+11735,11/06/2016,2016,Los Angeles Rams,10.0,13.0,Los Angeles Memorial Coliseum,L
+11736,11/06/2016,2016,Miami Dolphins,27.0,23.0,Sun Life Stadium,W
+11737,11/06/2016,2016,Minnesota Vikings,16.0,22.0,U.S. Bank Stadium,L
+11738,11/06/2016,2016,New York Giants,28.0,23.0,MetLife Stadium,W
+11739,11/06/2016,2016,Oakland Raiders,30.0,20.0,Oakland Coliseum,W
+11740,11/06/2016,2016,San Diego Chargers,43.0,35.0,Qualcomm Stadium,W
+11741,11/06/2016,2016,San Francisco 49ers,23.0,41.0,Levi's Stadium,L
+11742,11/07/2016,2016,Seattle Seahawks,31.0,25.0,CenturyLink Field,W
+11743,11/10/2016,2016,Baltimore Ravens,28.0,7.0,M&T Bank Stadium,W
+11744,11/13/2016,2016,Arizona Cardinals,23.0,20.0,University of Phoenix Stadium,W
+11745,11/13/2016,2016,Carolina Panthers,17.0,20.0,Bank of America Stadium,L
+11746,11/13/2016,2016,Jacksonville Jaguars,21.0,24.0,EverBank Field,L
+11747,11/13/2016,2016,New England Patriots,24.0,31.0,Gillette Stadium,L
+11748,11/13/2016,2016,New Orleans Saints,23.0,25.0,Louisiana Superdome,L
+11749,11/13/2016,2016,New York Jets,6.0,9.0,MetLife Stadium,L
+11750,11/13/2016,2016,Philadelphia Eagles,24.0,15.0,Lincoln Financial Field,W
+11751,11/13/2016,2016,Pittsburgh Steelers,30.0,35.0,Heinz Field,L
+11752,11/13/2016,2016,San Diego Chargers,24.0,31.0,Qualcomm Stadium,L
+11753,11/13/2016,2016,Tampa Bay Buccaneers,36.0,10.0,Raymond James Stadium,W
+11754,11/13/2016,2016,Tennessee Titans,47.0,25.0,Nissan Stadium,W
+11755,11/13/2016,2016,Washington Redskins,26.0,20.0,FedEx Field,W
+11756,11/14/2016,2016,New York Giants,21.0,20.0,MetLife Stadium,W
+11757,11/17/2016,2016,Carolina Panthers,23.0,20.0,Bank of America Stadium,W
+11758,11/20/2016,2016,Cincinnati Bengals,12.0,16.0,Paul Brown Stadium,L
+11759,11/20/2016,2016,Cleveland Browns,9.0,24.0,FirstEnergy Stadium,L
+11760,11/20/2016,2016,Dallas Cowboys,27.0,17.0,Cowboys Stadium,W
+11761,11/20/2016,2016,Detroit Lions,26.0,19.0,Ford Field,W
+11762,11/20/2016,2016,Indianapolis Colts,24.0,17.0,Lucas Oil Stadium,W
+11763,11/20/2016,2016,Kansas City Chiefs,17.0,19.0,Arrowhead Stadium,L
+11764,11/20/2016,2016,Los Angeles Rams,10.0,14.0,Los Angeles Memorial Coliseum,L
+11765,11/20/2016,2016,Minnesota Vikings,30.0,24.0,U.S. Bank Stadium,W
+11766,11/20/2016,2016,New York Giants,22.0,16.0,MetLife Stadium,W
+11767,11/20/2016,2016,San Francisco 49ers,17.0,30.0,Levi's Stadium,L
+11768,11/20/2016,2016,Seattle Seahawks,26.0,15.0,CenturyLink Field,W
+11769,11/20/2016,2016,Washington Redskins,42.0,24.0,FedEx Field,W
+11770,11/21/2016,2016,Oakland Raiders,27.0,20.0,Estadio Azteca,W
+11771,11/24/2016,2016,Dallas Cowboys,31.0,26.0,Cowboys Stadium,W
+11772,11/24/2016,2016,Detroit Lions,16.0,13.0,Ford Field,W
+11773,11/24/2016,2016,Indianapolis Colts,7.0,28.0,Lucas Oil Stadium,L
+11774,11/27/2016,2016,Atlanta Falcons,38.0,19.0,Georgia Dome,W
+11775,11/27/2016,2016,Baltimore Ravens,19.0,14.0,M&T Bank Stadium,W
+11776,11/27/2016,2016,Buffalo Bills,28.0,21.0,New Era Field,W
+11777,11/27/2016,2016,Chicago Bears,21.0,27.0,Soldier Field,L
+11778,11/27/2016,2016,Cleveland Browns,13.0,27.0,FirstEnergy Stadium,L
+11779,11/27/2016,2016,Denver Broncos,27.0,30.0,Sports Authority Field at Mile High,L
+11780,11/27/2016,2016,Houston Texans,13.0,21.0,Reliant Stadium,L
+11781,11/27/2016,2016,Miami Dolphins,31.0,24.0,Sun Life Stadium,W
+11782,11/27/2016,2016,New Orleans Saints,49.0,21.0,Louisiana Superdome,W
+11783,11/27/2016,2016,New York Jets,17.0,22.0,MetLife Stadium,L
+11784,11/27/2016,2016,Oakland Raiders,35.0,32.0,Oakland Coliseum,W
+11785,11/27/2016,2016,Tampa Bay Buccaneers,14.0,5.0,Raymond James Stadium,W
+11786,11/28/2016,2016,Philadelphia Eagles,13.0,27.0,Lincoln Financial Field,L
+11787,12/01/2016,2016,Minnesota Vikings,15.0,17.0,U.S. Bank Stadium,L
+11788,12/04/2016,2016,Arizona Cardinals,31.0,23.0,University of Phoenix Stadium,W
+11789,12/04/2016,2016,Atlanta Falcons,28.0,29.0,Georgia Dome,L
+11790,12/04/2016,2016,Baltimore Ravens,38.0,6.0,M&T Bank Stadium,W
+11791,12/04/2016,2016,Chicago Bears,26.0,6.0,Soldier Field,W
+11792,12/04/2016,2016,Cincinnati Bengals,32.0,14.0,Paul Brown Stadium,W
+11793,12/04/2016,2016,Green Bay Packers,21.0,13.0,Lambeau Field,W
+11794,12/04/2016,2016,Jacksonville Jaguars,10.0,20.0,EverBank Field,L
+11795,12/04/2016,2016,New England Patriots,26.0,10.0,Gillette Stadium,W
+11796,12/04/2016,2016,New Orleans Saints,13.0,28.0,Louisiana Superdome,L
+11797,12/04/2016,2016,Oakland Raiders,38.0,24.0,Oakland Coliseum,W
+11798,12/04/2016,2016,Pittsburgh Steelers,24.0,14.0,Heinz Field,W
+11799,12/04/2016,2016,San Diego Chargers,21.0,28.0,Qualcomm Stadium,L
+11800,12/04/2016,2016,Seattle Seahawks,40.0,7.0,CenturyLink Field,W
+11801,12/05/2016,2016,New York Jets,10.0,41.0,MetLife Stadium,L
+11802,12/08/2016,2016,Kansas City Chiefs,21.0,13.0,Arrowhead Stadium,W
+11803,12/11/2016,2016,Buffalo Bills,20.0,27.0,New Era Field,L
+11804,12/11/2016,2016,Carolina Panthers,28.0,16.0,Bank of America Stadium,W
+11805,12/11/2016,2016,Cleveland Browns,10.0,23.0,FirstEnergy Stadium,L
+11806,12/11/2016,2016,Detroit Lions,20.0,17.0,Ford Field,W
+11807,12/11/2016,2016,Green Bay Packers,38.0,10.0,Lambeau Field,W
+11808,12/11/2016,2016,Indianapolis Colts,17.0,22.0,Lucas Oil Stadium,L
+11809,12/11/2016,2016,Jacksonville Jaguars,16.0,25.0,EverBank Field,L
+11810,12/11/2016,2016,Los Angeles Rams,14.0,42.0,Los Angeles Memorial Coliseum,L
+11811,12/11/2016,2016,Miami Dolphins,26.0,23.0,Sun Life Stadium,W
+11812,12/11/2016,2016,New York Giants,10.0,7.0,MetLife Stadium,W
+11813,12/11/2016,2016,Philadelphia Eagles,22.0,27.0,Lincoln Financial Field,L
+11814,12/11/2016,2016,San Francisco 49ers,17.0,23.0,Levi's Stadium,L
+11815,12/11/2016,2016,Tampa Bay Buccaneers,16.0,11.0,Raymond James Stadium,W
+11816,12/11/2016,2016,Tennessee Titans,13.0,10.0,Nissan Stadium,W
+11817,12/12/2016,2016,New England Patriots,30.0,23.0,Gillette Stadium,W
+11818,12/15/2016,2016,Seattle Seahawks,24.0,3.0,CenturyLink Field,W
+11819,12/17/2016,2016,New York Jets,13.0,34.0,MetLife Stadium,L
+11820,12/18/2016,2016,Arizona Cardinals,41.0,48.0,University of Phoenix Stadium,L
+11821,12/18/2016,2016,Atlanta Falcons,41.0,13.0,Georgia Dome,W
+11822,12/18/2016,2016,Baltimore Ravens,27.0,26.0,M&T Bank Stadium,W
+11823,12/18/2016,2016,Buffalo Bills,33.0,13.0,New Era Field,W
+11824,12/18/2016,2016,Chicago Bears,27.0,30.0,Soldier Field,L
+11825,12/18/2016,2016,Cincinnati Bengals,20.0,24.0,Paul Brown Stadium,L
+11826,12/18/2016,2016,Dallas Cowboys,26.0,20.0,Cowboys Stadium,W
+11827,12/18/2016,2016,Denver Broncos,3.0,16.0,Sports Authority Field at Mile High,L
+11828,12/18/2016,2016,Houston Texans,21.0,20.0,Reliant Stadium,W
+11829,12/18/2016,2016,Kansas City Chiefs,17.0,19.0,Arrowhead Stadium,L
+11830,12/18/2016,2016,Minnesota Vikings,6.0,34.0,U.S. Bank Stadium,L
+11831,12/18/2016,2016,New York Giants,17.0,6.0,MetLife Stadium,W
+11832,12/18/2016,2016,San Diego Chargers,16.0,19.0,Qualcomm Stadium,L
+11833,12/19/2016,2016,Washington Redskins,15.0,26.0,FedEx Field,L
+11834,12/22/2016,2016,Philadelphia Eagles,24.0,19.0,Lincoln Financial Field,W
+11835,12/24/2016,2016,Buffalo Bills,31.0,34.0,New Era Field,L
+11836,12/24/2016,2016,Carolina Panthers,16.0,33.0,Bank of America Stadium,L
+11837,12/24/2016,2016,Chicago Bears,21.0,41.0,Soldier Field,L
+11838,12/24/2016,2016,Cleveland Browns,20.0,17.0,FirstEnergy Stadium,W
+11839,12/24/2016,2016,Green Bay Packers,38.0,25.0,Lambeau Field,W
+11840,12/24/2016,2016,Houston Texans,12.0,10.0,Reliant Stadium,W
+11841,12/24/2016,2016,Jacksonville Jaguars,38.0,17.0,EverBank Field,W
+11842,12/24/2016,2016,Los Angeles Rams,21.0,22.0,Los Angeles Memorial Coliseum,L
+11843,12/24/2016,2016,New England Patriots,41.0,3.0,Gillette Stadium,W
+11844,12/24/2016,2016,New Orleans Saints,31.0,24.0,Louisiana Superdome,W
+11845,12/24/2016,2016,Oakland Raiders,33.0,25.0,Oakland Coliseum,W
+11846,12/24/2016,2016,Seattle Seahawks,31.0,34.0,CenturyLink Field,L
+11847,12/25/2016,2016,Kansas City Chiefs,33.0,10.0,Arrowhead Stadium,W
+11848,12/25/2016,2016,Pittsburgh Steelers,31.0,27.0,Heinz Field,W
+11849,12/26/2016,2016,Dallas Cowboys,42.0,21.0,Cowboys Stadium,W
+11850,01/01/2017,2016,Atlanta Falcons,38.0,32.0,Georgia Dome,W
+11851,01/01/2017,2016,Cincinnati Bengals,27.0,10.0,Paul Brown Stadium,W
+11852,01/01/2017,2016,Denver Broncos,24.0,6.0,Sports Authority Field at Mile High,W
+11853,01/01/2017,2016,Detroit Lions,24.0,31.0,Ford Field,L
+11854,01/01/2017,2016,Indianapolis Colts,24.0,20.0,Lucas Oil Stadium,W
+11855,01/01/2017,2016,Los Angeles Rams,6.0,44.0,Los Angeles Memorial Coliseum,L
+11856,01/01/2017,2016,Miami Dolphins,14.0,35.0,Sun Life Stadium,L
+11857,01/01/2017,2016,Minnesota Vikings,38.0,10.0,U.S. Bank Stadium,W
+11858,01/01/2017,2016,New York Jets,30.0,10.0,MetLife Stadium,W
+11859,01/01/2017,2016,Philadelphia Eagles,27.0,13.0,Lincoln Financial Field,W
+11860,01/01/2017,2016,Pittsburgh Steelers,27.0,24.0,Heinz Field,W
+11861,01/01/2017,2016,San Diego Chargers,27.0,37.0,Qualcomm Stadium,L
+11862,01/01/2017,2016,San Francisco 49ers,23.0,25.0,Levi's Stadium,L
+11863,01/01/2017,2016,Tampa Bay Buccaneers,17.0,16.0,Raymond James Stadium,W
+11864,01/01/2017,2016,Tennessee Titans,24.0,17.0,Nissan Stadium,W
+11865,01/01/2017,2016,Washington Redskins,10.0,19.0,FedEx Field,L
+11877,09/07/2017,2017,New England Patriots,27.0,42.0,Gillette Stadium,L
+11878,09/10/2017,2017,Buffalo Bills,21.0,12.0,New Era Field,W
+11879,09/10/2017,2017,Chicago Bears,17.0,23.0,Soldier Field,L
+11880,09/10/2017,2017,Cincinnati Bengals,0.0,20.0,Paul Brown Stadium,L
+11881,09/10/2017,2017,Cleveland Browns,18.0,21.0,FirstEnergy Stadium,L
+11882,09/10/2017,2017,Dallas Cowboys,19.0,3.0,AT&T Stadium,W
+11883,09/10/2017,2017,Detroit Lions,35.0,23.0,Ford Field,W
+11884,09/10/2017,2017,Green Bay Packers,17.0,9.0,Lambeau Field,W
+11885,09/10/2017,2017,Houston Texans,7.0,29.0,NRG Stadium,L
+11886,09/10/2017,2017,Los Angeles Rams,46.0,9.0,Los Angeles Memorial Coliseum,W
+11887,09/10/2017,2017,San Francisco 49ers,3.0,23.0,Levi's Stadium,L
+11888,09/10/2017,2017,Tennessee Titans,16.0,26.0,LP Stadium,L
+11889,09/10/2017,2017,Washington Redskins,17.0,30.0,FedEx Field,L
+11890,09/11/2017,2017,Denver Broncos,24.0,21.0,Sports Authority Field at Mile High,W
+11891,09/11/2017,2017,Minnesota Vikings,29.0,19.0,U.S. Bank Stadium,W
+11892,09/14/2017,2017,Cincinnati Bengals,9.0,13.0,Paul Brown Stadium,L
+11893,09/17/2017,2017,Atlanta Falcons,34.0,23.0,Georgia Dome,W
+11894,09/17/2017,2017,Baltimore Ravens,24.0,10.0,M&T Bank Stadium,W
+11895,09/17/2017,2017,Carolina Panthers,9.0,3.0,Bank of America Stadium,W
+11896,09/17/2017,2017,Denver Broncos,42.0,17.0,Sports Authority Field at Mile High,W
+11897,09/17/2017,2017,Indianapolis Colts,13.0,16.0,Lucas Oil Stadium,L
+11898,09/17/2017,2017,Jacksonville Jaguars,16.0,37.0,EverBank Field,L
+11899,09/17/2017,2017,Kansas City Chiefs,27.0,20.0,Arrowhead Stadium,W
+11900,09/17/2017,2017,Los Angeles Chargers,17.0,19.0,StubHub Center,L
+11901,09/17/2017,2017,Los Angeles Rams,20.0,27.0,Los Angeles Memorial Coliseum,L
+11902,09/17/2017,2017,New Orleans Saints,20.0,36.0,Mercedes-Benz Superdome,L
+11903,09/17/2017,2017,Oakland Raiders,45.0,20.0,Oakland Coliseum,W
+11904,09/17/2017,2017,Pittsburgh Steelers,26.0,9.0,Heinz Field,W
+11905,09/17/2017,2017,Seattle Seahawks,12.0,9.0,CenturyLink Field,W
+11906,09/17/2017,2017,Tampa Bay Buccaneers,29.0,7.0,Raymond James Stadium,W
+11907,09/18/2017,2017,New York Giants,10.0,24.0,MetLife Stadium,L
+11908,09/21/2017,2017,San Francisco 49ers,39.0,41.0,Levi's Stadium,L
+11909,09/24/2017,2017,Buffalo Bills,26.0,16.0,New Era Field,W
+11910,09/24/2017,2017,Carolina Panthers,13.0,34.0,Bank of America Stadium,L
+11911,09/24/2017,2017,Chicago Bears,23.0,17.0,Soldier Field,W
+11912,09/24/2017,2017,Detroit Lions,26.0,30.0,Ford Field,L
+11913,09/24/2017,2017,Green Bay Packers,27.0,24.0,Lambeau Field,W
+11914,09/24/2017,2017,Indianapolis Colts,31.0,28.0,Lucas Oil Stadium,W
+11915,09/24/2017,2017,Jacksonville Jaguars,44.0,7.0,Wembley Stadium,W
+11916,09/24/2017,2017,Los Angeles Chargers,10.0,24.0,StubHub Center,L
+11917,09/24/2017,2017,Minnesota Vikings,34.0,17.0,U.S. Bank Stadium,W
+11918,09/24/2017,2017,New England Patriots,36.0,33.0,Gillette Stadium,W
+11919,09/24/2017,2017,New York Jets,20.0,6.0,MetLife Stadium,W
+11920,09/24/2017,2017,Philadelphia Eagles,27.0,24.0,Lincoln Financial Field,W
+11921,09/24/2017,2017,Tennessee Titans,33.0,27.0,LP Stadium,W
+11922,09/24/2017,2017,Washington Redskins,27.0,10.0,FedEx Field,W
+11923,09/25/2017,2017,Arizona Cardinals,17.0,28.0,University of Phoenix Stadium,L
+11924,09/28/2017,2017,Green Bay Packers,35.0,14.0,Lambeau Field,W
+11925,10/01/2017,2017,Arizona Cardinals,18.0,15.0,University of Phoenix Stadium,W
+11926,10/01/2017,2017,Atlanta Falcons,17.0,23.0,Georgia Dome,L
+11927,10/01/2017,2017,Baltimore Ravens,9.0,26.0,M&T Bank Stadium,L
+11928,10/01/2017,2017,Cleveland Browns,7.0,31.0,FirstEnergy Stadium,L
+11929,10/01/2017,2017,Dallas Cowboys,30.0,35.0,AT&T Stadium,L
+11930,10/01/2017,2017,Denver Broncos,16.0,10.0,Sports Authority Field at Mile High,W
+11931,10/01/2017,2017,Houston Texans,57.0,14.0,NRG Stadium,W
+11932,10/01/2017,2017,Los Angeles Chargers,24.0,26.0,StubHub Center,L
+11933,10/01/2017,2017,Miami Dolphins,0.0,20.0,Wembley Stadium,L
+11934,10/01/2017,2017,Minnesota Vikings,7.0,14.0,U.S. Bank Stadium,L
+11935,10/01/2017,2017,New England Patriots,30.0,33.0,Gillette Stadium,L
+11936,10/01/2017,2017,New York Jets,23.0,20.0,MetLife Stadium,W
+11937,10/01/2017,2017,Seattle Seahawks,46.0,17.0,CenturyLink Field,W
+11938,10/01/2017,2017,Tampa Bay Buccaneers,25.0,23.0,Raymond James Stadium,W
+11939,10/02/2017,2017,Kansas City Chiefs,29.0,20.0,Arrowhead Stadium,W
+11940,10/05/2017,2017,Tampa Bay Buccaneers,14.0,19.0,Raymond James Stadium,L
+11941,10/08/2017,2017,Cincinnati Bengals,20.0,16.0,Paul Brown Stadium,W
+11942,10/08/2017,2017,Cleveland Browns,14.0,17.0,FirstEnergy Stadium,L
+11943,10/08/2017,2017,Dallas Cowboys,31.0,35.0,AT&T Stadium,L
+11944,10/08/2017,2017,Detroit Lions,24.0,27.0,Ford Field,L
+11945,10/08/2017,2017,Houston Texans,34.0,42.0,NRG Stadium,L
+11946,10/08/2017,2017,Indianapolis Colts,26.0,23.0,Lucas Oil Stadium,W
+11947,10/08/2017,2017,Los Angeles Rams,10.0,16.0,Los Angeles Memorial Coliseum,L
+11948,10/08/2017,2017,Miami Dolphins,16.0,10.0,Hard Rock Stadium,W
+11949,10/08/2017,2017,New York Giants,22.0,27.0,MetLife Stadium,L
+11950,10/08/2017,2017,Oakland Raiders,17.0,30.0,Oakland Coliseum,L
+11951,10/08/2017,2017,Philadelphia Eagles,34.0,7.0,Lincoln Financial Field,W
+11952,10/08/2017,2017,Pittsburgh Steelers,9.0,30.0,Heinz Field,L
+11953,10/09/2017,2017,Chicago Bears,17.0,20.0,Soldier Field,L
+11954,10/12/2017,2017,Carolina Panthers,23.0,28.0,Bank of America Stadium,L
+11955,10/15/2017,2017,Arizona Cardinals,38.0,33.0,University of Phoenix Stadium,W
+11956,10/15/2017,2017,Atlanta Falcons,17.0,20.0,Georgia Dome,L
+11957,10/15/2017,2017,Baltimore Ravens,24.0,27.0,M&T Bank Stadium,L
+11958,10/15/2017,2017,Denver Broncos,10.0,23.0,Sports Authority Field at Mile High,L
+11959,10/15/2017,2017,Houston Texans,33.0,17.0,NRG Stadium,W
+11960,10/15/2017,2017,Jacksonville Jaguars,17.0,27.0,EverBank Field,L
+11961,10/15/2017,2017,Kansas City Chiefs,13.0,19.0,Arrowhead Stadium,L
+11962,10/15/2017,2017,Minnesota Vikings,23.0,10.0,U.S. Bank Stadium,W
+11963,10/15/2017,2017,New Orleans Saints,52.0,38.0,Mercedes-Benz Superdome,W
+11964,10/15/2017,2017,New York Jets,17.0,24.0,MetLife Stadium,L
+11965,10/15/2017,2017,Oakland Raiders,16.0,17.0,Oakland Coliseum,L
+11966,10/15/2017,2017,Washington Redskins,26.0,24.0,FedEx Field,W
+11967,10/16/2017,2017,Tennessee Titans,36.0,22.0,LP Stadium,W
+11968,10/19/2017,2017,Oakland Raiders,31.0,30.0,Oakland Coliseum,W
+11969,10/22/2017,2017,Buffalo Bills,30.0,27.0,New Era Field,W
+11970,10/22/2017,2017,Chicago Bears,17.0,3.0,Soldier Field,W
+11971,10/22/2017,2017,Cleveland Browns,9.0,12.0,FirstEnergy Stadium,L
+11972,10/22/2017,2017,Green Bay Packers,17.0,26.0,Lambeau Field,L
+11973,10/22/2017,2017,Indianapolis Colts,0.0,27.0,Lucas Oil Stadium,L
+11974,10/22/2017,2017,Los Angeles Chargers,21.0,0.0,StubHub Center,W
+11975,10/22/2017,2017,Los Angeles Rams,33.0,0.0,Twickenham Stadium,W
+11976,10/22/2017,2017,Miami Dolphins,31.0,28.0,Hard Rock Stadium,W
+11977,10/22/2017,2017,Minnesota Vikings,24.0,16.0,U.S. Bank Stadium,W
+11978,10/22/2017,2017,New England Patriots,23.0,7.0,Gillette Stadium,W
+11979,10/22/2017,2017,New York Giants,7.0,24.0,MetLife Stadium,L
+11980,10/22/2017,2017,Pittsburgh Steelers,29.0,14.0,Heinz Field,W
+11981,10/22/2017,2017,San Francisco 49ers,10.0,40.0,Levi's Stadium,L
+11982,10/23/2017,2017,Philadelphia Eagles,34.0,24.0,Lincoln Financial Field,W
+11983,10/26/2017,2017,Baltimore Ravens,40.0,0.0,M&T Bank Stadium,W
+11984,10/29/2017,2017,Buffalo Bills,34.0,14.0,New Era Field,W
+11985,10/29/2017,2017,Cincinnati Bengals,24.0,23.0,Paul Brown Stadium,W
+11986,10/29/2017,2017,Cleveland Browns,16.0,33.0,Twickenham Stadium,L
+11987,10/29/2017,2017,Detroit Lions,15.0,20.0,Ford Field,L
+11988,10/29/2017,2017,New England Patriots,21.0,13.0,Gillette Stadium,W
+11989,10/29/2017,2017,New Orleans Saints,20.0,12.0,Mercedes-Benz Superdome,W
+11990,10/29/2017,2017,New York Jets,20.0,25.0,MetLife Stadium,L
+11991,10/29/2017,2017,Philadelphia Eagles,33.0,10.0,Lincoln Financial Field,W
+11992,10/29/2017,2017,Seattle Seahawks,41.0,38.0,CenturyLink Field,W
+11993,10/29/2017,2017,Tampa Bay Buccaneers,3.0,17.0,Raymond James Stadium,L
+11994,10/29/2017,2017,Washington Redskins,19.0,33.0,FedEx Field,L
+11995,10/30/2017,2017,Kansas City Chiefs,29.0,19.0,Arrowhead Stadium,W
+11996,11/02/2017,2017,New York Jets,34.0,21.0,MetLife Stadium,W
+11997,11/05/2017,2017,Carolina Panthers,20.0,17.0,Bank of America Stadium,W
+11998,11/05/2017,2017,Dallas Cowboys,28.0,17.0,AT&T Stadium,W
+11999,11/05/2017,2017,Houston Texans,14.0,20.0,NRG Stadium,L
+12000,11/05/2017,2017,Jacksonville Jaguars,23.0,7.0,EverBank Field,W
+12001,11/05/2017,2017,Miami Dolphins,24.0,27.0,Hard Rock Stadium,L
+12002,11/05/2017,2017,New Orleans Saints,30.0,10.0,Mercedes-Benz Superdome,W
+12003,11/05/2017,2017,New York Giants,17.0,51.0,MetLife Stadium,L
+12004,11/05/2017,2017,Philadelphia Eagles,51.0,23.0,Lincoln Financial Field,W
+12005,11/05/2017,2017,San Francisco 49ers,10.0,20.0,Levi's Stadium,L
+12006,11/05/2017,2017,Seattle Seahawks,14.0,17.0,CenturyLink Field,L
+12007,11/05/2017,2017,Tennessee Titans,23.0,20.0,LP Stadium,W
+12008,11/06/2017,2017,Green Bay Packers,17.0,30.0,Lambeau Field,L
+12009,11/09/2017,2017,Arizona Cardinals,16.0,22.0,University of Phoenix Stadium,L
+12010,11/12/2017,2017,Atlanta Falcons,27.0,7.0,Georgia Dome,W
+12011,11/12/2017,2017,Buffalo Bills,10.0,47.0,New Era Field,L
+12012,11/12/2017,2017,Chicago Bears,16.0,23.0,Soldier Field,L
+12013,11/12/2017,2017,Denver Broncos,16.0,41.0,Sports Authority Field at Mile High,L
+12014,11/12/2017,2017,Detroit Lions,38.0,24.0,Ford Field,W
+12015,11/12/2017,2017,Indianapolis Colts,17.0,20.0,Lucas Oil Stadium,L
+12016,11/12/2017,2017,Jacksonville Jaguars,20.0,17.0,EverBank Field,W
+12017,11/12/2017,2017,Los Angeles Rams,33.0,7.0,Los Angeles Memorial Coliseum,W
+12018,11/12/2017,2017,San Francisco 49ers,31.0,21.0,Levi's Stadium,W
+12019,11/12/2017,2017,Tampa Bay Buccaneers,15.0,10.0,Raymond James Stadium,W
+12020,11/12/2017,2017,Tennessee Titans,24.0,20.0,LP Stadium,W
+12021,11/12/2017,2017,Washington Redskins,30.0,38.0,FedEx Field,L
+12022,11/13/2017,2017,Carolina Panthers,45.0,21.0,Bank of America Stadium,W
+12023,11/16/2017,2017,Pittsburgh Steelers,40.0,17.0,Heinz Field,W
+12024,11/19/2017,2017,Chicago Bears,24.0,27.0,Soldier Field,L
+12025,11/19/2017,2017,Cleveland Browns,7.0,19.0,FirstEnergy Stadium,L
+12026,11/19/2017,2017,Dallas Cowboys,9.0,37.0,AT&T Stadium,L
+12027,11/19/2017,2017,Denver Broncos,17.0,20.0,Sports Authority Field at Mile High,L
+12028,11/19/2017,2017,Green Bay Packers,0.0,23.0,Lambeau Field,L
+12029,11/19/2017,2017,Houston Texans,31.0,21.0,NRG Stadium,W
+12030,11/19/2017,2017,Los Angeles Chargers,54.0,24.0,StubHub Center,W
+12031,11/19/2017,2017,Miami Dolphins,20.0,30.0,Hard Rock Stadium,L
+12032,11/19/2017,2017,Minnesota Vikings,24.0,7.0,U.S. Bank Stadium,W
+12033,11/19/2017,2017,New Orleans Saints,34.0,31.0,Mercedes-Benz Superdome,W
+12034,11/19/2017,2017,New York Giants,12.0,9.0,MetLife Stadium,W
+12035,11/19/2017,2017,Oakland Raiders,8.0,33.0,Estadio Azteca,L
+12036,11/20/2017,2017,Seattle Seahawks,31.0,34.0,CenturyLink Field,L
+12037,11/23/2017,2017,Dallas Cowboys,6.0,28.0,AT&T Stadium,L
+12038,11/23/2017,2017,Detroit Lions,23.0,30.0,Ford Field,L
+12039,11/23/2017,2017,Washington Redskins,20.0,10.0,FedEx Field,W
+12040,11/26/2017,2017,Arizona Cardinals,27.0,24.0,University of Phoenix Stadium,W
+12041,11/26/2017,2017,Atlanta Falcons,34.0,20.0,Georgia Dome,W
+12042,11/26/2017,2017,Cincinnati Bengals,30.0,16.0,Paul Brown Stadium,W
+12043,11/26/2017,2017,Indianapolis Colts,16.0,20.0,Lucas Oil Stadium,L
+12044,11/26/2017,2017,Kansas City Chiefs,10.0,16.0,Arrowhead Stadium,L
+12045,11/26/2017,2017,Los Angeles Rams,26.0,20.0,Los Angeles Memorial Coliseum,W
+12046,11/26/2017,2017,New England Patriots,35.0,17.0,Gillette Stadium,W
+12047,11/26/2017,2017,New York Jets,27.0,35.0,MetLife Stadium,L
+12048,11/26/2017,2017,Oakland Raiders,21.0,14.0,Oakland Coliseum,W
+12049,11/26/2017,2017,Philadelphia Eagles,31.0,3.0,Lincoln Financial Field,W
+12050,11/26/2017,2017,Pittsburgh Steelers,31.0,28.0,Heinz Field,W
+12051,11/26/2017,2017,San Francisco 49ers,13.0,24.0,Levi's Stadium,L
+12052,11/27/2017,2017,Baltimore Ravens,23.0,16.0,M&T Bank Stadium,W
+12053,11/30/2017,2017,Dallas Cowboys,38.0,14.0,AT&T Stadium,W
+12054,12/03/2017,2017,Arizona Cardinals,16.0,32.0,University of Phoenix Stadium,L
+12055,12/03/2017,2017,Atlanta Falcons,9.0,14.0,Georgia Dome,L
+12056,12/03/2017,2017,Baltimore Ravens,44.0,20.0,M&T Bank Stadium,W
+12057,12/03/2017,2017,Buffalo Bills,3.0,23.0,New Era Field,L
+12058,12/03/2017,2017,Chicago Bears,14.0,15.0,Soldier Field,L
+12059,12/03/2017,2017,Green Bay Packers,26.0,20.0,Lambeau Field,W
+12060,12/03/2017,2017,Jacksonville Jaguars,30.0,10.0,EverBank Field,W
+12061,12/03/2017,2017,Los Angeles Chargers,19.0,10.0,StubHub Center,W
+12062,12/03/2017,2017,Miami Dolphins,35.0,9.0,Hard Rock Stadium,W
+12063,12/03/2017,2017,New Orleans Saints,31.0,21.0,Mercedes-Benz Superdome,W
+12064,12/03/2017,2017,New York Jets,38.0,31.0,MetLife Stadium,W
+12065,12/03/2017,2017,Oakland Raiders,24.0,17.0,Oakland Coliseum,W
+12066,12/03/2017,2017,Seattle Seahawks,24.0,10.0,CenturyLink Field,W
+12067,12/03/2017,2017,Tennessee Titans,24.0,13.0,LP Stadium,W
+12068,12/04/2017,2017,Cincinnati Bengals,20.0,23.0,Paul Brown Stadium,L
+12069,12/07/2017,2017,Atlanta Falcons,20.0,17.0,Georgia Dome,W
+12070,12/10/2017,2017,Arizona Cardinals,12.0,7.0,University of Phoenix Stadium,W
+12071,12/10/2017,2017,Buffalo Bills,13.0,7.0,New Era Field,W
+12072,12/10/2017,2017,Carolina Panthers,31.0,24.0,Bank of America Stadium,W
+12073,12/10/2017,2017,Cincinnati Bengals,7.0,33.0,Paul Brown Stadium,L
+12074,12/10/2017,2017,Cleveland Browns,21.0,27.0,FirstEnergy Stadium,L
+12075,12/10/2017,2017,Denver Broncos,23.0,0.0,Sports Authority Field at Mile High,W
+12076,12/10/2017,2017,Houston Texans,16.0,26.0,NRG Stadium,L
+12077,12/10/2017,2017,Jacksonville Jaguars,30.0,24.0,EverBank Field,W
+12078,12/10/2017,2017,Kansas City Chiefs,26.0,15.0,Arrowhead Stadium,W
+12079,12/10/2017,2017,Los Angeles Chargers,30.0,13.0,StubHub Center,W
+12080,12/10/2017,2017,Los Angeles Rams,35.0,43.0,Los Angeles Memorial Coliseum,L
+12081,12/10/2017,2017,New York Giants,10.0,30.0,MetLife Stadium,L
+12082,12/10/2017,2017,Pittsburgh Steelers,39.0,38.0,Heinz Field,W
+12083,12/10/2017,2017,Tampa Bay Buccaneers,21.0,24.0,Raymond James Stadium,L
+12084,12/11/2017,2017,Miami Dolphins,27.0,20.0,Hard Rock Stadium,W
+12085,12/14/2017,2017,Indianapolis Colts,13.0,25.0,Lucas Oil Stadium,L
+12086,12/16/2017,2017,Detroit Lions,20.0,10.0,Ford Field,W
+12087,12/16/2017,2017,Kansas City Chiefs,30.0,13.0,Arrowhead Stadium,W
+12088,12/17/2017,2017,Buffalo Bills,24.0,16.0,New Era Field,W
+12089,12/17/2017,2017,Carolina Panthers,31.0,24.0,Bank of America Stadium,W
+12090,12/17/2017,2017,Cleveland Browns,10.0,27.0,FirstEnergy Stadium,L
+12091,12/17/2017,2017,Jacksonville Jaguars,45.0,7.0,EverBank Field,W
+12092,12/17/2017,2017,Minnesota Vikings,34.0,7.0,U.S. Bank Stadium,W
+12093,12/17/2017,2017,New Orleans Saints,31.0,19.0,Mercedes-Benz Superdome,W
+12094,12/17/2017,2017,New York Giants,29.0,34.0,MetLife Stadium,L
+12095,12/17/2017,2017,Oakland Raiders,17.0,20.0,Oakland Coliseum,L
+12096,12/17/2017,2017,Pittsburgh Steelers,24.0,27.0,Heinz Field,L
+12097,12/17/2017,2017,San Francisco 49ers,25.0,23.0,Levi's Stadium,W
+12098,12/17/2017,2017,Seattle Seahawks,7.0,42.0,CenturyLink Field,L
+12099,12/17/2017,2017,Washington Redskins,20.0,15.0,FedEx Field,W
+12100,12/18/2017,2017,Tampa Bay Buccaneers,21.0,24.0,Raymond James Stadium,L
+12101,12/23/2017,2017,Baltimore Ravens,23.0,16.0,M&T Bank Stadium,W
+12102,12/23/2017,2017,Green Bay Packers,0.0,16.0,Lambeau Field,L
+12103,12/24/2017,2017,Arizona Cardinals,23.0,0.0,University of Phoenix Stadium,W
+12104,12/24/2017,2017,Carolina Panthers,22.0,19.0,Bank of America Stadium,W
+12105,12/24/2017,2017,Chicago Bears,20.0,3.0,Soldier Field,W
+12106,12/24/2017,2017,Cincinnati Bengals,26.0,17.0,Paul Brown Stadium,W
+12107,12/24/2017,2017,Dallas Cowboys,12.0,21.0,AT&T Stadium,L
+12108,12/24/2017,2017,Kansas City Chiefs,29.0,13.0,Arrowhead Stadium,W
+12109,12/24/2017,2017,New England Patriots,37.0,16.0,Gillette Stadium,W
+12110,12/24/2017,2017,New Orleans Saints,23.0,13.0,Mercedes-Benz Superdome,W
+12111,12/24/2017,2017,New York Jets,7.0,14.0,MetLife Stadium,L
+12112,12/24/2017,2017,San Francisco 49ers,44.0,33.0,Levi's Stadium,W
+12113,12/24/2017,2017,Tennessee Titans,23.0,27.0,LP Stadium,L
+12114,12/24/2017,2017,Washington Redskins,27.0,11.0,FedEx Field,W
+12115,12/25/2017,2017,Houston Texans,6.0,34.0,NRG Stadium,L
+12116,12/25/2017,2017,Philadelphia Eagles,19.0,10.0,Lincoln Financial Field,W
+12117,12/31/2017,2017,Atlanta Falcons,22.0,10.0,Georgia Dome,W
+12118,12/31/2017,2017,Baltimore Ravens,27.0,31.0,M&T Bank Stadium,L
+12119,12/31/2017,2017,Denver Broncos,24.0,27.0,Sports Authority Field at Mile High,L
+12120,12/31/2017,2017,Detroit Lions,35.0,11.0,Ford Field,W
+12121,12/31/2017,2017,Indianapolis Colts,22.0,13.0,Lucas Oil Stadium,W
+12122,12/31/2017,2017,Los Angeles Chargers,30.0,10.0,StubHub Center,W
+12123,12/31/2017,2017,Los Angeles Rams,13.0,34.0,Los Angeles Memorial Coliseum,L
+12124,12/31/2017,2017,Miami Dolphins,16.0,22.0,Hard Rock Stadium,L
+12125,12/31/2017,2017,Minnesota Vikings,23.0,10.0,U.S. Bank Stadium,W
+12126,12/31/2017,2017,New England Patriots,26.0,6.0,Gillette Stadium,W
+12127,12/31/2017,2017,New York Giants,18.0,10.0,MetLife Stadium,W
+12128,12/31/2017,2017,Philadelphia Eagles,0.0,6.0,Lincoln Financial Field,L
+12129,12/31/2017,2017,Pittsburgh Steelers,28.0,24.0,Heinz Field,W
+12130,12/31/2017,2017,Seattle Seahawks,24.0,26.0,CenturyLink Field,L
+12131,12/31/2017,2017,Tampa Bay Buccaneers,31.0,24.0,Raymond James Stadium,W
+12132,12/31/2017,2017,Tennessee Titans,15.0,10.0,LP Stadium,W
