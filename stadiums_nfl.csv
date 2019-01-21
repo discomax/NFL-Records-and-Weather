@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 CITY,STATE,NAME,TEAM,ROOF_TYPE,CONFERENCE,DIVISION,CAPACITY,LATITUDE,LONGITUDE, COLOR 1,  COLOR 2
 Arlington,TX,Cowboys Stadium,Dallas Cowboys,Retractable,National,East,80000,32.74778,-97.09277,ROYAL BLUE,
 Atlanta,GA,Georgia Dome,Atlanta Falcons,Dome,National,South,71228,33.75735,-84.40121,,
@@ -30,8 +30,7 @@ Saint Louis,MO,Edward Jones Dome,St. Louis Rams,Dome,National,West,66965,38.6327
 San Diego,CA,Qualcomm Stadium,San Diego Chargers,Open,American,West,71294,32.78322,-117.11976,,
 San Francisco,CA,Candlestick Park,San Francisco 49ers,Open,National,West,70207,37.71399,-122.38673,,
 Seattle,WA,Qwest Stadium,Seattle Seahawks,Open,National,West,67000,47.59476,-122.33165,,
-Tampa,FL,Raymond James Stadium,Tampa Bay Buccaneers,Open,National,South,65857,27.97884,-82.50349,,
-=======
+Tampa,FL,Raymond James Stadium,Tampa Bay Buccaneers,Open,National,South,65857,27.97884,-82.50349,
 CITY,STATE,REGION,NAME,TEAM,ROOF_TYPE,CONFERENCE,DIVISION,CAPACITY,LATITUDE,LONGITUDE,COLOR 1,COLOR 2
 Glendale,AZ,West,University of Phoenix Stadium,Arizona Cardinals,Retractable,National,West,63400,33.52713,-112.25876,black,yellow
 Oakland,CA,West,Oakland-Alameda County Coliseum,Oakland Raiders,Open,American,West,63026,37.75233,-122.1999,silver,
@@ -64,4 +63,5 @@ Arlington,TX,South,Cowboys Stadium,Dallas Cowboys,Retractable,National,East,8000
 Houston,TX,South,Reliant Stadium,Houston Texans,Retractable,American,South,71500,29.68493,-95.41092,darkred,
 Seattle,WA,West,Qwest Stadium,Seattle Seahawks,Open,National,West,67000,47.59476,-122.33165,gray,chartreuse
 Green Bay,WI,Midwest,Lambeau Field,Green Bay Packers,Open,National,North,72928,44.50117,-88.06223,gold,
->>>>>>> b1bb98532e03284de894fae404287acf468e623e
+
+
