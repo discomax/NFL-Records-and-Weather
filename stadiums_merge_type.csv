@@ -1,4 +1,4 @@
-CITY,TEAM,ROOF_TYPE,CAPACITY,LATITUDE,LONGITUDE,REGION,COLOR1,SCHEDULE DATE,SCHEDULE SEASON,HOME SCORE,AWAY SCORE,STADIUM,WIN_LOSS
+CITY,TEAM,ROOF_TYPE,CAPACITY,LATITUDE,LONGITUDE,REGION,COLOR 1,schedule_date,schedule_season,score_home,score_away,stadium,win/loss
 Glendale,Arizona Cardinals,Retractable,63400.0,33.52713,-112.25876,West,black,09/13/2015,2015,31.0,19.0,University of Phoenix Stadium,W
 Glendale,Arizona Cardinals,Retractable,63400.0,33.52713,-112.25876,West,black,09/27/2015,2015,47.0,7.0,University of Phoenix Stadium,W
 Glendale,Arizona Cardinals,Retractable,63400.0,33.52713,-112.25876,West,black,10/04/2015,2015,22.0,24.0,University of Phoenix Stadium,L
@@ -7,6 +7,14 @@ Glendale,Arizona Cardinals,Retractable,63400.0,33.52713,-112.25876,West,black,11
 Glendale,Arizona Cardinals,Retractable,63400.0,33.52713,-112.25876,West,black,12/10/2015,2015,23.0,20.0,University of Phoenix Stadium,W
 Glendale,Arizona Cardinals,Retractable,63400.0,33.52713,-112.25876,West,black,12/27/2015,2015,38.0,8.0,University of Phoenix Stadium,W
 Glendale,Arizona Cardinals,Retractable,63400.0,33.52713,-112.25876,West,black,01/03/2016,2015,6.0,36.0,University of Phoenix Stadium,L
+Glendale,Arizona Cardinals,Retractable,63400.0,33.52713,-112.25876,West,black,09/11/2016,2016,21.0,23.0,University of Phoenix Stadium,L
+Glendale,Arizona Cardinals,Retractable,63400.0,33.52713,-112.25876,West,black,09/18/2016,2016,40.0,7.0,University of Phoenix Stadium,W
+Glendale,Arizona Cardinals,Retractable,63400.0,33.52713,-112.25876,West,black,10/02/2016,2016,13.0,17.0,University of Phoenix Stadium,L
+Glendale,Arizona Cardinals,Retractable,63400.0,33.52713,-112.25876,West,black,10/17/2016,2016,28.0,3.0,University of Phoenix Stadium,W
+Glendale,Arizona Cardinals,Retractable,63400.0,33.52713,-112.25876,West,black,10/23/2016,2016,6.0,6.0,University of Phoenix Stadium,L
+Glendale,Arizona Cardinals,Retractable,63400.0,33.52713,-112.25876,West,black,11/13/2016,2016,23.0,20.0,University of Phoenix Stadium,W
+Glendale,Arizona Cardinals,Retractable,63400.0,33.52713,-112.25876,West,black,12/04/2016,2016,31.0,23.0,University of Phoenix Stadium,W
+Glendale,Arizona Cardinals,Retractable,63400.0,33.52713,-112.25876,West,black,12/18/2016,2016,41.0,48.0,University of Phoenix Stadium,L
 Denver,Denver Broncos,Open,76125.0,39.74396,-105.02028,West,navy,09/13/2015,2015,19.0,13.0,Sports Authority Field at Mile High,W
 Denver,Denver Broncos,Open,76125.0,39.74396,-105.02028,West,navy,10/04/2015,2015,23.0,20.0,Sports Authority Field at Mile High,W
 Denver,Denver Broncos,Open,76125.0,39.74396,-105.02028,West,navy,11/01/2015,2015,29.0,10.0,Sports Authority Field at Mile High,W
@@ -15,6 +23,14 @@ Denver,Denver Broncos,Open,76125.0,39.74396,-105.02028,West,navy,11/29/2015,2015
 Denver,Denver Broncos,Open,76125.0,39.74396,-105.02028,West,navy,12/13/2015,2015,12.0,15.0,Sports Authority Field at Mile High,L
 Denver,Denver Broncos,Open,76125.0,39.74396,-105.02028,West,navy,12/28/2015,2015,20.0,17.0,Sports Authority Field at Mile High,W
 Denver,Denver Broncos,Open,76125.0,39.74396,-105.02028,West,navy,01/03/2016,2015,27.0,20.0,Sports Authority Field at Mile High,W
+Denver,Denver Broncos,Open,76125.0,39.74396,-105.02028,West,navy,09/08/2016,2016,21.0,20.0,Sports Authority Field at Mile High,W
+Denver,Denver Broncos,Open,76125.0,39.74396,-105.02028,West,navy,09/18/2016,2016,34.0,20.0,Sports Authority Field at Mile High,W
+Denver,Denver Broncos,Open,76125.0,39.74396,-105.02028,West,navy,10/09/2016,2016,16.0,23.0,Sports Authority Field at Mile High,L
+Denver,Denver Broncos,Open,76125.0,39.74396,-105.02028,West,navy,10/24/2016,2016,27.0,9.0,Sports Authority Field at Mile High,W
+Denver,Denver Broncos,Open,76125.0,39.74396,-105.02028,West,navy,10/30/2016,2016,27.0,19.0,Sports Authority Field at Mile High,W
+Denver,Denver Broncos,Open,76125.0,39.74396,-105.02028,West,navy,11/27/2016,2016,27.0,30.0,Sports Authority Field at Mile High,L
+Denver,Denver Broncos,Open,76125.0,39.74396,-105.02028,West,navy,12/18/2016,2016,3.0,16.0,Sports Authority Field at Mile High,L
+Denver,Denver Broncos,Open,76125.0,39.74396,-105.02028,West,navy,01/01/2017,2016,24.0,6.0,Sports Authority Field at Mile High,W
 Jacksonville,Jacksonville Jaguars,Open,76867.0,30.32387,-81.6369,South,teal,09/13/2015,2015,9.0,20.0,EverBank Field,L
 Jacksonville,Jacksonville Jaguars,Open,76867.0,30.32387,-81.6369,South,teal,09/20/2015,2015,23.0,20.0,EverBank Field,W
 Jacksonville,Jacksonville Jaguars,Open,76867.0,30.32387,-81.6369,South,teal,10/18/2015,2015,20.0,31.0,EverBank Field,L
@@ -23,6 +39,14 @@ Jacksonville,Jacksonville Jaguars,Open,76867.0,30.32387,-81.6369,South,teal,11/1
 Jacksonville,Jacksonville Jaguars,Open,76867.0,30.32387,-81.6369,South,teal,11/29/2015,2015,25.0,31.0,EverBank Field,L
 Jacksonville,Jacksonville Jaguars,Open,76867.0,30.32387,-81.6369,South,teal,12/13/2015,2015,51.0,16.0,EverBank Field,W
 Jacksonville,Jacksonville Jaguars,Open,76867.0,30.32387,-81.6369,South,teal,12/20/2015,2015,17.0,23.0,EverBank Field,L
+Jacksonville,Jacksonville Jaguars,Open,76867.0,30.32387,-81.6369,South,teal,09/11/2016,2016,23.0,27.0,EverBank Field,L
+Jacksonville,Jacksonville Jaguars,Open,76867.0,30.32387,-81.6369,South,teal,09/25/2016,2016,17.0,19.0,EverBank Field,L
+Jacksonville,Jacksonville Jaguars,Open,76867.0,30.32387,-81.6369,South,teal,10/02/2016,2016,30.0,27.0,Wembley Stadium,W
+Jacksonville,Jacksonville Jaguars,Open,76867.0,30.32387,-81.6369,South,teal,10/23/2016,2016,16.0,33.0,EverBank Field,L
+Jacksonville,Jacksonville Jaguars,Open,76867.0,30.32387,-81.6369,South,teal,11/13/2016,2016,21.0,24.0,EverBank Field,L
+Jacksonville,Jacksonville Jaguars,Open,76867.0,30.32387,-81.6369,South,teal,12/04/2016,2016,10.0,20.0,EverBank Field,L
+Jacksonville,Jacksonville Jaguars,Open,76867.0,30.32387,-81.6369,South,teal,12/11/2016,2016,16.0,25.0,EverBank Field,L
+Jacksonville,Jacksonville Jaguars,Open,76867.0,30.32387,-81.6369,South,teal,12/24/2016,2016,38.0,17.0,EverBank Field,W
 Tampa,Tampa Bay Buccaneers,Open,65857.0,27.97884,-82.50349,South,darkorange,09/13/2015,2015,14.0,42.0,Raymond James Stadium,L
 Tampa,Tampa Bay Buccaneers,Open,65857.0,27.97884,-82.50349,South,darkorange,10/04/2015,2015,23.0,37.0,Raymond James Stadium,L
 Tampa,Tampa Bay Buccaneers,Open,65857.0,27.97884,-82.50349,South,darkorange,10/11/2015,2015,38.0,31.0,Raymond James Stadium,W
@@ -31,6 +55,14 @@ Tampa,Tampa Bay Buccaneers,Open,65857.0,27.97884,-82.50349,South,darkorange,11/1
 Tampa,Tampa Bay Buccaneers,Open,65857.0,27.97884,-82.50349,South,darkorange,12/06/2015,2015,23.0,19.0,Raymond James Stadium,W
 Tampa,Tampa Bay Buccaneers,Open,65857.0,27.97884,-82.50349,South,darkorange,12/13/2015,2015,17.0,24.0,Raymond James Stadium,L
 Tampa,Tampa Bay Buccaneers,Open,65857.0,27.97884,-82.50349,South,darkorange,12/27/2015,2015,21.0,26.0,Raymond James Stadium,L
+Tampa,Tampa Bay Buccaneers,Open,65857.0,27.97884,-82.50349,South,darkorange,09/25/2016,2016,32.0,37.0,Raymond James Stadium,L
+Tampa,Tampa Bay Buccaneers,Open,65857.0,27.97884,-82.50349,South,darkorange,10/02/2016,2016,7.0,27.0,Raymond James Stadium,L
+Tampa,Tampa Bay Buccaneers,Open,65857.0,27.97884,-82.50349,South,darkorange,10/30/2016,2016,24.0,30.0,Raymond James Stadium,L
+Tampa,Tampa Bay Buccaneers,Open,65857.0,27.97884,-82.50349,South,darkorange,11/03/2016,2016,28.0,43.0,Raymond James Stadium,L
+Tampa,Tampa Bay Buccaneers,Open,65857.0,27.97884,-82.50349,South,darkorange,11/13/2016,2016,36.0,10.0,Raymond James Stadium,W
+Tampa,Tampa Bay Buccaneers,Open,65857.0,27.97884,-82.50349,South,darkorange,11/27/2016,2016,14.0,5.0,Raymond James Stadium,W
+Tampa,Tampa Bay Buccaneers,Open,65857.0,27.97884,-82.50349,South,darkorange,12/11/2016,2016,16.0,11.0,Raymond James Stadium,W
+Tampa,Tampa Bay Buccaneers,Open,65857.0,27.97884,-82.50349,South,darkorange,01/01/2017,2016,17.0,16.0,Raymond James Stadium,W
 Atlanta,Atlanta Falcons,Dome,71228.0,33.75735,-84.40120999999998,South,black,09/14/2015,2015,26.0,24.0,Georgia Dome,W
 Atlanta,Atlanta Falcons,Dome,71228.0,33.75735,-84.40120999999998,South,black,10/04/2015,2015,48.0,21.0,Georgia Dome,W
 Atlanta,Atlanta Falcons,Dome,71228.0,33.75735,-84.40120999999998,South,black,10/11/2015,2015,25.0,19.0,Georgia Dome,W
@@ -39,6 +71,14 @@ Atlanta,Atlanta Falcons,Dome,71228.0,33.75735,-84.40120999999998,South,black,11/
 Atlanta,Atlanta Falcons,Dome,71228.0,33.75735,-84.40120999999998,South,black,11/29/2015,2015,10.0,20.0,Georgia Dome,L
 Atlanta,Atlanta Falcons,Dome,71228.0,33.75735,-84.40120999999998,South,black,12/27/2015,2015,20.0,13.0,Georgia Dome,W
 Atlanta,Atlanta Falcons,Dome,71228.0,33.75735,-84.40120999999998,South,black,01/03/2016,2015,17.0,20.0,Georgia Dome,L
+Atlanta,Atlanta Falcons,Dome,71228.0,33.75735,-84.40120999999998,South,black,09/11/2016,2016,24.0,31.0,Georgia Dome,L
+Atlanta,Atlanta Falcons,Dome,71228.0,33.75735,-84.40120999999998,South,black,10/02/2016,2016,48.0,33.0,Georgia Dome,W
+Atlanta,Atlanta Falcons,Dome,71228.0,33.75735,-84.40120999999998,South,black,10/23/2016,2016,30.0,33.0,Georgia Dome,L
+Atlanta,Atlanta Falcons,Dome,71228.0,33.75735,-84.40120999999998,South,black,10/30/2016,2016,33.0,32.0,Georgia Dome,W
+Atlanta,Atlanta Falcons,Dome,71228.0,33.75735,-84.40120999999998,South,black,11/27/2016,2016,38.0,19.0,Georgia Dome,W
+Atlanta,Atlanta Falcons,Dome,71228.0,33.75735,-84.40120999999998,South,black,12/04/2016,2016,28.0,29.0,Georgia Dome,L
+Atlanta,Atlanta Falcons,Dome,71228.0,33.75735,-84.40120999999998,South,black,12/18/2016,2016,41.0,13.0,Georgia Dome,W
+Atlanta,Atlanta Falcons,Dome,71228.0,33.75735,-84.40120999999998,South,black,01/01/2017,2016,38.0,32.0,Georgia Dome,W
 Chicago,Chicago Bears,Open,61500.0,41.8625,-87.61676999999997,Midwest,orange,09/13/2015,2015,23.0,31.0,Soldier Field,L
 Chicago,Chicago Bears,Open,61500.0,41.8625,-87.61676999999997,Midwest,orange,09/20/2015,2015,23.0,48.0,Soldier Field,L
 Chicago,Chicago Bears,Open,61500.0,41.8625,-87.61676999999997,Midwest,orange,10/04/2015,2015,22.0,20.0,Soldier Field,W
@@ -47,6 +87,14 @@ Chicago,Chicago Bears,Open,61500.0,41.8625,-87.61676999999997,Midwest,orange,11/
 Chicago,Chicago Bears,Open,61500.0,41.8625,-87.61676999999997,Midwest,orange,12/06/2015,2015,20.0,26.0,Soldier Field,L
 Chicago,Chicago Bears,Open,61500.0,41.8625,-87.61676999999997,Midwest,orange,12/13/2015,2015,21.0,24.0,Soldier Field,L
 Chicago,Chicago Bears,Open,61500.0,41.8625,-87.61676999999997,Midwest,orange,01/03/2016,2015,20.0,24.0,Soldier Field,L
+Chicago,Chicago Bears,Open,61500.0,41.8625,-87.61676999999997,Midwest,orange,09/19/2016,2016,14.0,29.0,Soldier Field,L
+Chicago,Chicago Bears,Open,61500.0,41.8625,-87.61676999999997,Midwest,orange,10/02/2016,2016,17.0,14.0,Soldier Field,W
+Chicago,Chicago Bears,Open,61500.0,41.8625,-87.61676999999997,Midwest,orange,10/16/2016,2016,16.0,17.0,Soldier Field,L
+Chicago,Chicago Bears,Open,61500.0,41.8625,-87.61676999999997,Midwest,orange,10/31/2016,2016,20.0,10.0,Soldier Field,W
+Chicago,Chicago Bears,Open,61500.0,41.8625,-87.61676999999997,Midwest,orange,11/27/2016,2016,21.0,27.0,Soldier Field,L
+Chicago,Chicago Bears,Open,61500.0,41.8625,-87.61676999999997,Midwest,orange,12/04/2016,2016,26.0,6.0,Soldier Field,W
+Chicago,Chicago Bears,Open,61500.0,41.8625,-87.61676999999997,Midwest,orange,12/18/2016,2016,27.0,30.0,Soldier Field,L
+Chicago,Chicago Bears,Open,61500.0,41.8625,-87.61676999999997,Midwest,orange,12/24/2016,2016,21.0,41.0,Soldier Field,L
 Indianapolis,Indianapolis Colts,Retractable,63000.0,39.76,-86.16360999999998,Midwest,gray,09/21/2015,2015,7.0,20.0,Lucas Oil Stadium,L
 Indianapolis,Indianapolis Colts,Retractable,63000.0,39.76,-86.16360999999998,Midwest,gray,10/04/2015,2015,16.0,13.0,Lucas Oil Stadium,W
 Indianapolis,Indianapolis Colts,Retractable,63000.0,39.76,-86.16360999999998,Midwest,gray,10/18/2015,2015,27.0,34.0,Lucas Oil Stadium,L
@@ -55,6 +103,14 @@ Indianapolis,Indianapolis Colts,Retractable,63000.0,39.76,-86.16360999999998,Mid
 Indianapolis,Indianapolis Colts,Retractable,63000.0,39.76,-86.16360999999998,Midwest,gray,11/29/2015,2015,25.0,12.0,Lucas Oil Stadium,W
 Indianapolis,Indianapolis Colts,Retractable,63000.0,39.76,-86.16360999999998,Midwest,gray,12/20/2015,2015,10.0,16.0,Lucas Oil Stadium,L
 Indianapolis,Indianapolis Colts,Retractable,63000.0,39.76,-86.16360999999998,Midwest,gray,01/03/2016,2015,30.0,24.0,Lucas Oil Stadium,W
+Indianapolis,Indianapolis Colts,Retractable,63000.0,39.76,-86.16360999999998,Midwest,gray,09/11/2016,2016,35.0,39.0,Lucas Oil Stadium,L
+Indianapolis,Indianapolis Colts,Retractable,63000.0,39.76,-86.16360999999998,Midwest,gray,09/25/2016,2016,26.0,22.0,Lucas Oil Stadium,W
+Indianapolis,Indianapolis Colts,Retractable,63000.0,39.76,-86.16360999999998,Midwest,gray,10/09/2016,2016,29.0,23.0,Lucas Oil Stadium,W
+Indianapolis,Indianapolis Colts,Retractable,63000.0,39.76,-86.16360999999998,Midwest,gray,10/30/2016,2016,14.0,30.0,Lucas Oil Stadium,L
+Indianapolis,Indianapolis Colts,Retractable,63000.0,39.76,-86.16360999999998,Midwest,gray,11/20/2016,2016,24.0,17.0,Lucas Oil Stadium,W
+Indianapolis,Indianapolis Colts,Retractable,63000.0,39.76,-86.16360999999998,Midwest,gray,11/24/2016,2016,7.0,28.0,Lucas Oil Stadium,L
+Indianapolis,Indianapolis Colts,Retractable,63000.0,39.76,-86.16360999999998,Midwest,gray,12/11/2016,2016,17.0,22.0,Lucas Oil Stadium,L
+Indianapolis,Indianapolis Colts,Retractable,63000.0,39.76,-86.16360999999998,Midwest,gray,01/01/2017,2016,24.0,20.0,Lucas Oil Stadium,W
 New Orleans,New Orleans Saints,Dome,72968.0,29.95116,-90.08128,South,black,09/20/2015,2015,19.0,26.0,Louisiana Superdome,L
 New Orleans,New Orleans Saints,Dome,72968.0,29.95116,-90.08128,South,black,10/04/2015,2015,26.0,20.0,Louisiana Superdome,W
 New Orleans,New Orleans Saints,Dome,72968.0,29.95116,-90.08128,South,black,10/15/2015,2015,31.0,21.0,Louisiana Superdome,W
@@ -63,6 +119,14 @@ New Orleans,New Orleans Saints,Dome,72968.0,29.95116,-90.08128,South,black,11/08
 New Orleans,New Orleans Saints,Dome,72968.0,29.95116,-90.08128,South,black,12/06/2015,2015,38.0,41.0,Louisiana Superdome,L
 New Orleans,New Orleans Saints,Dome,72968.0,29.95116,-90.08128,South,black,12/21/2015,2015,27.0,35.0,Louisiana Superdome,L
 New Orleans,New Orleans Saints,Dome,72968.0,29.95116,-90.08128,South,black,12/27/2015,2015,38.0,27.0,Louisiana Superdome,W
+New Orleans,New Orleans Saints,Dome,72968.0,29.95116,-90.08128,South,black,09/11/2016,2016,34.0,35.0,Louisiana Superdome,L
+New Orleans,New Orleans Saints,Dome,72968.0,29.95116,-90.08128,South,black,09/26/2016,2016,32.0,45.0,Louisiana Superdome,L
+New Orleans,New Orleans Saints,Dome,72968.0,29.95116,-90.08128,South,black,10/16/2016,2016,41.0,38.0,Louisiana Superdome,W
+New Orleans,New Orleans Saints,Dome,72968.0,29.95116,-90.08128,South,black,10/30/2016,2016,25.0,20.0,Louisiana Superdome,W
+New Orleans,New Orleans Saints,Dome,72968.0,29.95116,-90.08128,South,black,11/13/2016,2016,23.0,25.0,Louisiana Superdome,L
+New Orleans,New Orleans Saints,Dome,72968.0,29.95116,-90.08128,South,black,11/27/2016,2016,49.0,21.0,Louisiana Superdome,W
+New Orleans,New Orleans Saints,Dome,72968.0,29.95116,-90.08128,South,black,12/04/2016,2016,13.0,28.0,Louisiana Superdome,L
+New Orleans,New Orleans Saints,Dome,72968.0,29.95116,-90.08128,South,black,12/24/2016,2016,31.0,24.0,Louisiana Superdome,W
 Detroit,Detroit Lions,Dome,64111.0,42.34005,-83.04564,Midwest,silver,09/27/2015,2015,12.0,24.0,Ford Field,L
 Detroit,Detroit Lions,Dome,64111.0,42.34005,-83.04564,Midwest,silver,10/11/2015,2015,17.0,42.0,Ford Field,L
 Detroit,Detroit Lions,Dome,64111.0,42.34005,-83.04564,Midwest,silver,10/18/2015,2015,37.0,34.0,Ford Field,W
@@ -71,6 +135,14 @@ Detroit,Detroit Lions,Dome,64111.0,42.34005,-83.04564,Midwest,silver,11/22/2015,
 Detroit,Detroit Lions,Dome,64111.0,42.34005,-83.04564,Midwest,silver,11/26/2015,2015,45.0,14.0,Ford Field,W
 Detroit,Detroit Lions,Dome,64111.0,42.34005,-83.04564,Midwest,silver,12/03/2015,2015,23.0,27.0,Ford Field,L
 Detroit,Detroit Lions,Dome,64111.0,42.34005,-83.04564,Midwest,silver,12/27/2015,2015,32.0,17.0,Ford Field,W
+Detroit,Detroit Lions,Dome,64111.0,42.34005,-83.04564,Midwest,silver,09/18/2016,2016,15.0,16.0,Ford Field,L
+Detroit,Detroit Lions,Dome,64111.0,42.34005,-83.04564,Midwest,silver,10/09/2016,2016,24.0,23.0,Ford Field,W
+Detroit,Detroit Lions,Dome,64111.0,42.34005,-83.04564,Midwest,silver,10/16/2016,2016,31.0,28.0,Ford Field,W
+Detroit,Detroit Lions,Dome,64111.0,42.34005,-83.04564,Midwest,silver,10/23/2016,2016,20.0,17.0,Ford Field,W
+Detroit,Detroit Lions,Dome,64111.0,42.34005,-83.04564,Midwest,silver,11/20/2016,2016,26.0,19.0,Ford Field,W
+Detroit,Detroit Lions,Dome,64111.0,42.34005,-83.04564,Midwest,silver,11/24/2016,2016,16.0,13.0,Ford Field,W
+Detroit,Detroit Lions,Dome,64111.0,42.34005,-83.04564,Midwest,silver,12/11/2016,2016,20.0,17.0,Ford Field,W
+Detroit,Detroit Lions,Dome,64111.0,42.34005,-83.04564,Midwest,silver,01/01/2017,2016,24.0,31.0,Ford Field,L
 Minneapolis,Minnesota Vikings,Dome,64035.0,44.97401,-93.25848,Midwest,gold,09/20/2015,2015,26.0,16.0,TCF Bank Stadium,W
 Minneapolis,Minnesota Vikings,Dome,64035.0,44.97401,-93.25848,Midwest,gold,09/27/2015,2015,31.0,14.0,TCF Bank Stadium,W
 Minneapolis,Minnesota Vikings,Dome,64035.0,44.97401,-93.25848,Midwest,gold,10/18/2015,2015,16.0,10.0,TCF Bank Stadium,W
@@ -79,6 +151,14 @@ Minneapolis,Minnesota Vikings,Dome,64035.0,44.97401,-93.25848,Midwest,gold,11/22
 Minneapolis,Minnesota Vikings,Dome,64035.0,44.97401,-93.25848,Midwest,gold,12/06/2015,2015,7.0,38.0,TCF Bank Stadium,L
 Minneapolis,Minnesota Vikings,Dome,64035.0,44.97401,-93.25848,Midwest,gold,12/20/2015,2015,38.0,17.0,TCF Bank Stadium,W
 Minneapolis,Minnesota Vikings,Dome,64035.0,44.97401,-93.25848,Midwest,gold,12/27/2015,2015,49.0,17.0,TCF Bank Stadium,W
+Minneapolis,Minnesota Vikings,Dome,64035.0,44.97401,-93.25848,Midwest,gold,09/18/2016,2016,17.0,14.0,U.S. Bank Stadium,W
+Minneapolis,Minnesota Vikings,Dome,64035.0,44.97401,-93.25848,Midwest,gold,10/03/2016,2016,24.0,10.0,U.S. Bank Stadium,W
+Minneapolis,Minnesota Vikings,Dome,64035.0,44.97401,-93.25848,Midwest,gold,10/09/2016,2016,31.0,13.0,U.S. Bank Stadium,W
+Minneapolis,Minnesota Vikings,Dome,64035.0,44.97401,-93.25848,Midwest,gold,11/06/2016,2016,16.0,22.0,U.S. Bank Stadium,L
+Minneapolis,Minnesota Vikings,Dome,64035.0,44.97401,-93.25848,Midwest,gold,11/20/2016,2016,30.0,24.0,U.S. Bank Stadium,W
+Minneapolis,Minnesota Vikings,Dome,64035.0,44.97401,-93.25848,Midwest,gold,12/01/2016,2016,15.0,17.0,U.S. Bank Stadium,L
+Minneapolis,Minnesota Vikings,Dome,64035.0,44.97401,-93.25848,Midwest,gold,12/18/2016,2016,6.0,34.0,U.S. Bank Stadium,L
+Minneapolis,Minnesota Vikings,Dome,64035.0,44.97401,-93.25848,Midwest,gold,01/01/2017,2016,38.0,10.0,U.S. Bank Stadium,W
 Kansas City,Kansas City Chiefs,Open,77000.0,39.04895,-94.48388,Midwest,gold,09/17/2015,2015,24.0,31.0,Arrowhead Stadium,L
 Kansas City,Kansas City Chiefs,Open,77000.0,39.04895,-94.48388,Midwest,gold,10/11/2015,2015,17.0,18.0,Arrowhead Stadium,L
 Kansas City,Kansas City Chiefs,Open,77000.0,39.04895,-94.48388,Midwest,gold,10/25/2015,2015,23.0,13.0,Arrowhead Stadium,W
@@ -87,6 +167,14 @@ Kansas City,Kansas City Chiefs,Open,77000.0,39.04895,-94.48388,Midwest,gold,11/2
 Kansas City,Kansas City Chiefs,Open,77000.0,39.04895,-94.48388,Midwest,gold,12/13/2015,2015,10.0,3.0,Arrowhead Stadium,W
 Kansas City,Kansas City Chiefs,Open,77000.0,39.04895,-94.48388,Midwest,gold,12/27/2015,2015,17.0,13.0,Arrowhead Stadium,W
 Kansas City,Kansas City Chiefs,Open,77000.0,39.04895,-94.48388,Midwest,gold,01/03/2016,2015,23.0,17.0,Arrowhead Stadium,W
+Kansas City,Kansas City Chiefs,Open,77000.0,39.04895,-94.48388,Midwest,gold,09/11/2016,2016,33.0,27.0,Arrowhead Stadium,W
+Kansas City,Kansas City Chiefs,Open,77000.0,39.04895,-94.48388,Midwest,gold,09/25/2016,2016,24.0,3.0,Arrowhead Stadium,W
+Kansas City,Kansas City Chiefs,Open,77000.0,39.04895,-94.48388,Midwest,gold,10/23/2016,2016,27.0,21.0,Arrowhead Stadium,W
+Kansas City,Kansas City Chiefs,Open,77000.0,39.04895,-94.48388,Midwest,gold,11/06/2016,2016,19.0,14.0,Arrowhead Stadium,W
+Kansas City,Kansas City Chiefs,Open,77000.0,39.04895,-94.48388,Midwest,gold,11/20/2016,2016,17.0,19.0,Arrowhead Stadium,L
+Kansas City,Kansas City Chiefs,Open,77000.0,39.04895,-94.48388,Midwest,gold,12/08/2016,2016,21.0,13.0,Arrowhead Stadium,W
+Kansas City,Kansas City Chiefs,Open,77000.0,39.04895,-94.48388,Midwest,gold,12/18/2016,2016,17.0,19.0,Arrowhead Stadium,L
+Kansas City,Kansas City Chiefs,Open,77000.0,39.04895,-94.48388,Midwest,gold,12/25/2016,2016,33.0,10.0,Arrowhead Stadium,W
 Saint Louis,St. Louis Rams,Dome,66965.0,38.63278,-90.18854,Midwest,gold,09/13/2015,2015,34.0,31.0,Edward Jones Dome,W
 Saint Louis,St. Louis Rams,Dome,66965.0,38.63278,-90.18854,Midwest,gold,09/27/2015,2015,6.0,12.0,Edward Jones Dome,L
 Saint Louis,St. Louis Rams,Dome,66965.0,38.63278,-90.18854,Midwest,gold,10/25/2015,2015,24.0,6.0,Edward Jones Dome,W
@@ -103,6 +191,14 @@ Charlotte,Carolina Panthers,Open,73778.0,35.22584000000001,-80.85331,South,black
 Charlotte,Carolina Panthers,Open,73778.0,35.22584000000001,-80.85331,South,black,11/22/2015,2015,44.0,16.0,Bank of America Stadium,W
 Charlotte,Carolina Panthers,Open,73778.0,35.22584000000001,-80.85331,South,black,12/13/2015,2015,38.0,0.0,Bank of America Stadium,W
 Charlotte,Carolina Panthers,Open,73778.0,35.22584000000001,-80.85331,South,black,01/03/2016,2015,38.0,10.0,Bank of America Stadium,W
+Charlotte,Carolina Panthers,Open,73778.0,35.22584000000001,-80.85331,South,black,09/18/2016,2016,46.0,27.0,Bank of America Stadium,W
+Charlotte,Carolina Panthers,Open,73778.0,35.22584000000001,-80.85331,South,black,09/25/2016,2016,10.0,22.0,Bank of America Stadium,L
+Charlotte,Carolina Panthers,Open,73778.0,35.22584000000001,-80.85331,South,black,10/10/2016,2016,14.0,17.0,Bank of America Stadium,L
+Charlotte,Carolina Panthers,Open,73778.0,35.22584000000001,-80.85331,South,black,10/30/2016,2016,30.0,20.0,Bank of America Stadium,W
+Charlotte,Carolina Panthers,Open,73778.0,35.22584000000001,-80.85331,South,black,11/13/2016,2016,17.0,20.0,Bank of America Stadium,L
+Charlotte,Carolina Panthers,Open,73778.0,35.22584000000001,-80.85331,South,black,11/17/2016,2016,23.0,20.0,Bank of America Stadium,W
+Charlotte,Carolina Panthers,Open,73778.0,35.22584000000001,-80.85331,South,black,12/11/2016,2016,28.0,16.0,Bank of America Stadium,W
+Charlotte,Carolina Panthers,Open,73778.0,35.22584000000001,-80.85331,South,black,12/24/2016,2016,16.0,33.0,Bank of America Stadium,L
 Cincinnati,Cincinnati Bengals,Open,65535.0,39.09532,-84.51623000000002,Midwest,orange,09/20/2015,2015,24.0,19.0,Paul Brown Stadium,W
 Cincinnati,Cincinnati Bengals,Open,65535.0,39.09532,-84.51623000000002,Midwest,orange,10/04/2015,2015,36.0,21.0,Paul Brown Stadium,W
 Cincinnati,Cincinnati Bengals,Open,65535.0,39.09532,-84.51623000000002,Midwest,orange,10/11/2015,2015,27.0,24.0,Paul Brown Stadium,W
@@ -111,6 +207,14 @@ Cincinnati,Cincinnati Bengals,Open,65535.0,39.09532,-84.51623000000002,Midwest,o
 Cincinnati,Cincinnati Bengals,Open,65535.0,39.09532,-84.51623000000002,Midwest,orange,11/29/2015,2015,31.0,7.0,Paul Brown Stadium,W
 Cincinnati,Cincinnati Bengals,Open,65535.0,39.09532,-84.51623000000002,Midwest,orange,12/13/2015,2015,20.0,33.0,Paul Brown Stadium,L
 Cincinnati,Cincinnati Bengals,Open,65535.0,39.09532,-84.51623000000002,Midwest,orange,01/03/2016,2015,24.0,16.0,Paul Brown Stadium,W
+Cincinnati,Cincinnati Bengals,Open,65535.0,39.09532,-84.51623000000002,Midwest,orange,09/25/2016,2016,17.0,29.0,Paul Brown Stadium,L
+Cincinnati,Cincinnati Bengals,Open,65535.0,39.09532,-84.51623000000002,Midwest,orange,09/29/2016,2016,22.0,7.0,Paul Brown Stadium,W
+Cincinnati,Cincinnati Bengals,Open,65535.0,39.09532,-84.51623000000002,Midwest,orange,10/23/2016,2016,31.0,17.0,Paul Brown Stadium,W
+Cincinnati,Cincinnati Bengals,Open,65535.0,39.09532,-84.51623000000002,Midwest,orange,10/30/2016,2016,27.0,27.0,Wembley Stadium,L
+Cincinnati,Cincinnati Bengals,Open,65535.0,39.09532,-84.51623000000002,Midwest,orange,11/20/2016,2016,12.0,16.0,Paul Brown Stadium,L
+Cincinnati,Cincinnati Bengals,Open,65535.0,39.09532,-84.51623000000002,Midwest,orange,12/04/2016,2016,32.0,14.0,Paul Brown Stadium,W
+Cincinnati,Cincinnati Bengals,Open,65535.0,39.09532,-84.51623000000002,Midwest,orange,12/18/2016,2016,20.0,24.0,Paul Brown Stadium,L
+Cincinnati,Cincinnati Bengals,Open,65535.0,39.09532,-84.51623000000002,Midwest,orange,01/01/2017,2016,27.0,10.0,Paul Brown Stadium,W
 Pittsburgh,Pittsburgh Steelers,Open,65050.0,40.44673,-80.01574000000002,North East,black,09/20/2015,2015,43.0,18.0,Heinz Field,W
 Pittsburgh,Pittsburgh Steelers,Open,65050.0,40.44673,-80.01574000000002,North East,black,10/01/2015,2015,20.0,23.0,Heinz Field,L
 Pittsburgh,Pittsburgh Steelers,Open,65050.0,40.44673,-80.01574000000002,North East,black,10/18/2015,2015,25.0,13.0,Heinz Field,W
@@ -119,6 +223,14 @@ Pittsburgh,Pittsburgh Steelers,Open,65050.0,40.44673,-80.01574000000002,North Ea
 Pittsburgh,Pittsburgh Steelers,Open,65050.0,40.44673,-80.01574000000002,North East,black,11/15/2015,2015,30.0,9.0,Heinz Field,W
 Pittsburgh,Pittsburgh Steelers,Open,65050.0,40.44673,-80.01574000000002,North East,black,12/06/2015,2015,45.0,10.0,Heinz Field,W
 Pittsburgh,Pittsburgh Steelers,Open,65050.0,40.44673,-80.01574000000002,North East,black,12/20/2015,2015,34.0,27.0,Heinz Field,W
+Pittsburgh,Pittsburgh Steelers,Open,65050.0,40.44673,-80.01574000000002,North East,black,09/18/2016,2016,24.0,16.0,Heinz Field,W
+Pittsburgh,Pittsburgh Steelers,Open,65050.0,40.44673,-80.01574000000002,North East,black,10/02/2016,2016,43.0,14.0,Heinz Field,W
+Pittsburgh,Pittsburgh Steelers,Open,65050.0,40.44673,-80.01574000000002,North East,black,10/09/2016,2016,31.0,13.0,Heinz Field,W
+Pittsburgh,Pittsburgh Steelers,Open,65050.0,40.44673,-80.01574000000002,North East,black,10/23/2016,2016,16.0,27.0,Heinz Field,L
+Pittsburgh,Pittsburgh Steelers,Open,65050.0,40.44673,-80.01574000000002,North East,black,11/13/2016,2016,30.0,35.0,Heinz Field,L
+Pittsburgh,Pittsburgh Steelers,Open,65050.0,40.44673,-80.01574000000002,North East,black,12/04/2016,2016,24.0,14.0,Heinz Field,W
+Pittsburgh,Pittsburgh Steelers,Open,65050.0,40.44673,-80.01574000000002,North East,black,12/25/2016,2016,31.0,27.0,Heinz Field,W
+Pittsburgh,Pittsburgh Steelers,Open,65050.0,40.44673,-80.01574000000002,North East,black,01/01/2017,2016,27.0,24.0,Heinz Field,W
 Nashville,Tennessee Titans,Open,68798.0,36.16654000000001,-86.77252,South,blue,09/27/2015,2015,33.0,35.0,Nissan Stadium,L
 Nashville,Tennessee Titans,Open,68798.0,36.16654000000001,-86.77252,South,blue,10/11/2015,2015,13.0,14.0,Nissan Stadium,L
 Nashville,Tennessee Titans,Open,68798.0,36.16654000000001,-86.77252,South,blue,10/18/2015,2015,10.0,38.0,Nissan Stadium,L
@@ -127,6 +239,14 @@ Nashville,Tennessee Titans,Open,68798.0,36.16654000000001,-86.77252,South,blue,1
 Nashville,Tennessee Titans,Open,68798.0,36.16654000000001,-86.77252,South,blue,11/29/2015,2015,21.0,24.0,Nissan Stadium,L
 Nashville,Tennessee Titans,Open,68798.0,36.16654000000001,-86.77252,South,blue,12/06/2015,2015,42.0,39.0,Nissan Stadium,W
 Nashville,Tennessee Titans,Open,68798.0,36.16654000000001,-86.77252,South,blue,12/27/2015,2015,6.0,34.0,Nissan Stadium,L
+Nashville,Tennessee Titans,Open,68798.0,36.16654000000001,-86.77252,South,blue,09/11/2016,2016,16.0,25.0,Nissan Stadium,L
+Nashville,Tennessee Titans,Open,68798.0,36.16654000000001,-86.77252,South,blue,09/25/2016,2016,10.0,17.0,Nissan Stadium,L
+Nashville,Tennessee Titans,Open,68798.0,36.16654000000001,-86.77252,South,blue,10/16/2016,2016,28.0,26.0,Nissan Stadium,W
+Nashville,Tennessee Titans,Open,68798.0,36.16654000000001,-86.77252,South,blue,10/23/2016,2016,26.0,34.0,Nissan Stadium,L
+Nashville,Tennessee Titans,Open,68798.0,36.16654000000001,-86.77252,South,blue,10/27/2016,2016,36.0,22.0,Nissan Stadium,W
+Nashville,Tennessee Titans,Open,68798.0,36.16654000000001,-86.77252,South,blue,11/13/2016,2016,47.0,25.0,Nissan Stadium,W
+Nashville,Tennessee Titans,Open,68798.0,36.16654000000001,-86.77252,South,blue,12/11/2016,2016,13.0,10.0,Nissan Stadium,W
+Nashville,Tennessee Titans,Open,68798.0,36.16654000000001,-86.77252,South,blue,01/01/2017,2016,24.0,17.0,Nissan Stadium,W
 Arlington,Dallas Cowboys,Retractable,80000.0,32.74778,-97.09277,South,royalblue,09/13/2015,2015,27.0,26.0,Cowboys Stadium,W
 Arlington,Dallas Cowboys,Retractable,80000.0,32.74778,-97.09277,South,royalblue,09/27/2015,2015,28.0,39.0,Cowboys Stadium,L
 Arlington,Dallas Cowboys,Retractable,80000.0,32.74778,-97.09277,South,royalblue,10/11/2015,2015,6.0,30.0,Cowboys Stadium,L
@@ -135,6 +255,14 @@ Arlington,Dallas Cowboys,Retractable,80000.0,32.74778,-97.09277,South,royalblue,
 Arlington,Dallas Cowboys,Retractable,80000.0,32.74778,-97.09277,South,royalblue,11/26/2015,2015,14.0,33.0,Cowboys Stadium,L
 Arlington,Dallas Cowboys,Retractable,80000.0,32.74778,-97.09277,South,royalblue,12/19/2015,2015,16.0,19.0,Cowboys Stadium,L
 Arlington,Dallas Cowboys,Retractable,80000.0,32.74778,-97.09277,South,royalblue,01/03/2016,2015,23.0,34.0,Cowboys Stadium,L
+Arlington,Dallas Cowboys,Retractable,80000.0,32.74778,-97.09277,South,royalblue,09/11/2016,2016,19.0,20.0,Cowboys Stadium,L
+Arlington,Dallas Cowboys,Retractable,80000.0,32.74778,-97.09277,South,royalblue,09/25/2016,2016,31.0,17.0,Cowboys Stadium,W
+Arlington,Dallas Cowboys,Retractable,80000.0,32.74778,-97.09277,South,royalblue,10/09/2016,2016,28.0,14.0,Cowboys Stadium,W
+Arlington,Dallas Cowboys,Retractable,80000.0,32.74778,-97.09277,South,royalblue,10/30/2016,2016,29.0,23.0,Cowboys Stadium,W
+Arlington,Dallas Cowboys,Retractable,80000.0,32.74778,-97.09277,South,royalblue,11/20/2016,2016,27.0,17.0,Cowboys Stadium,W
+Arlington,Dallas Cowboys,Retractable,80000.0,32.74778,-97.09277,South,royalblue,11/24/2016,2016,31.0,26.0,Cowboys Stadium,W
+Arlington,Dallas Cowboys,Retractable,80000.0,32.74778,-97.09277,South,royalblue,12/18/2016,2016,26.0,20.0,Cowboys Stadium,W
+Arlington,Dallas Cowboys,Retractable,80000.0,32.74778,-97.09277,South,royalblue,12/26/2016,2016,42.0,21.0,Cowboys Stadium,W
 Houston,Houston Texans,Retractable,71500.0,29.68493,-95.41092,South,darkred,09/13/2015,2015,20.0,27.0,Reliant Stadium,L
 Houston,Houston Texans,Retractable,71500.0,29.68493,-95.41092,South,darkred,09/27/2015,2015,19.0,9.0,Reliant Stadium,W
 Houston,Houston Texans,Retractable,71500.0,29.68493,-95.41092,South,darkred,10/08/2015,2015,20.0,27.0,Reliant Stadium,L
@@ -143,6 +271,14 @@ Houston,Houston Texans,Retractable,71500.0,29.68493,-95.41092,South,darkred,11/2
 Houston,Houston Texans,Retractable,71500.0,29.68493,-95.41092,South,darkred,11/29/2015,2015,24.0,6.0,Reliant Stadium,W
 Houston,Houston Texans,Retractable,71500.0,29.68493,-95.41092,South,darkred,12/13/2015,2015,6.0,27.0,Reliant Stadium,L
 Houston,Houston Texans,Retractable,71500.0,29.68493,-95.41092,South,darkred,01/03/2016,2015,30.0,6.0,Reliant Stadium,W
+Houston,Houston Texans,Retractable,71500.0,29.68493,-95.41092,South,darkred,09/11/2016,2016,23.0,14.0,Reliant Stadium,W
+Houston,Houston Texans,Retractable,71500.0,29.68493,-95.41092,South,darkred,09/18/2016,2016,19.0,12.0,Reliant Stadium,W
+Houston,Houston Texans,Retractable,71500.0,29.68493,-95.41092,South,darkred,10/02/2016,2016,27.0,20.0,Reliant Stadium,W
+Houston,Houston Texans,Retractable,71500.0,29.68493,-95.41092,South,darkred,10/16/2016,2016,26.0,23.0,Reliant Stadium,W
+Houston,Houston Texans,Retractable,71500.0,29.68493,-95.41092,South,darkred,10/30/2016,2016,20.0,13.0,Reliant Stadium,W
+Houston,Houston Texans,Retractable,71500.0,29.68493,-95.41092,South,darkred,11/27/2016,2016,13.0,21.0,Reliant Stadium,L
+Houston,Houston Texans,Retractable,71500.0,29.68493,-95.41092,South,darkred,12/18/2016,2016,21.0,20.0,Reliant Stadium,W
+Houston,Houston Texans,Retractable,71500.0,29.68493,-95.41092,South,darkred,12/24/2016,2016,12.0,10.0,Reliant Stadium,W
 Green Bay,Green Bay Packers,Open,72928.0,44.50117,-88.06223,Midwest,gold,09/20/2015,2015,27.0,17.0,Lambeau Field,W
 Green Bay,Green Bay Packers,Open,72928.0,44.50117,-88.06223,Midwest,gold,09/28/2015,2015,38.0,28.0,Lambeau Field,W
 Green Bay,Green Bay Packers,Open,72928.0,44.50117,-88.06223,Midwest,gold,10/11/2015,2015,24.0,10.0,Lambeau Field,W
@@ -151,3 +287,11 @@ Green Bay,Green Bay Packers,Open,72928.0,44.50117,-88.06223,Midwest,gold,11/15/2
 Green Bay,Green Bay Packers,Open,72928.0,44.50117,-88.06223,Midwest,gold,11/26/2015,2015,13.0,17.0,Lambeau Field,L
 Green Bay,Green Bay Packers,Open,72928.0,44.50117,-88.06223,Midwest,gold,12/13/2015,2015,28.0,7.0,Lambeau Field,W
 Green Bay,Green Bay Packers,Open,72928.0,44.50117,-88.06223,Midwest,gold,01/03/2016,2015,13.0,20.0,Lambeau Field,L
+Green Bay,Green Bay Packers,Open,72928.0,44.50117,-88.06223,Midwest,gold,09/25/2016,2016,34.0,27.0,Lambeau Field,W
+Green Bay,Green Bay Packers,Open,72928.0,44.50117,-88.06223,Midwest,gold,10/09/2016,2016,23.0,16.0,Lambeau Field,W
+Green Bay,Green Bay Packers,Open,72928.0,44.50117,-88.06223,Midwest,gold,10/16/2016,2016,16.0,30.0,Lambeau Field,L
+Green Bay,Green Bay Packers,Open,72928.0,44.50117,-88.06223,Midwest,gold,10/20/2016,2016,26.0,10.0,Lambeau Field,W
+Green Bay,Green Bay Packers,Open,72928.0,44.50117,-88.06223,Midwest,gold,11/06/2016,2016,26.0,31.0,Lambeau Field,L
+Green Bay,Green Bay Packers,Open,72928.0,44.50117,-88.06223,Midwest,gold,12/04/2016,2016,21.0,13.0,Lambeau Field,W
+Green Bay,Green Bay Packers,Open,72928.0,44.50117,-88.06223,Midwest,gold,12/11/2016,2016,38.0,10.0,Lambeau Field,W
+Green Bay,Green Bay Packers,Open,72928.0,44.50117,-88.06223,Midwest,gold,12/24/2016,2016,38.0,25.0,Lambeau Field,W
