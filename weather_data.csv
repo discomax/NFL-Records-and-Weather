@@ -1,297 +1,297 @@
-,Game Date,City,Temperature,Weather,Code
-0,2015-09-13,Glendale,103,Partly cloudy,116
-1,2015-09-27,Glendale,103,Clear,113
-2,2015-10-04,Glendale,84,Clear,113
-3,2015-10-26,Glendale,88,Clear,113
-4,2015-11-22,Glendale,67,Clear,113
-5,2015-12-10,Glendale,72,Clear,113
-6,2015-12-27,Glendale,56,Clear,113
-7,2016-01-03,Glendale,68,Cloudy,119
-8,2016-09-11,Glendale,98,Clear,113
-9,2016-09-18,Glendale,104,Clear,113
-10,2016-10-02,Glendale,90,Clear,113
-11,2016-10-17,Glendale,81,Clear,113
-12,2016-10-23,Glendale,90,Clear,113
-13,2016-11-13,Glendale,80,Clear,113
-14,2016-12-04,Glendale,69,Clear,113
-15,2016-12-18,Glendale,58,Clear,113
-16,2015-09-13,Denver,80,Overcast,122
-17,2015-10-04,Denver,57,Light rain shower,353
-18,2015-11-01,Denver,70,Clear,113
-19,2015-11-15,Denver,51,Overcast,122
-20,2015-11-29,Denver,20,Mist,143
-21,2015-12-13,Denver,27,Partly cloudy,116
-22,2015-12-28,Denver,17,Freezing fog,260
-23,2016-01-03,Denver,32,Partly cloudy,116
-24,2016-09-08,Denver,84,Clear,113
-25,2016-09-18,Denver,80,Clear,113
-26,2016-10-09,Denver,70,Partly cloudy,116
-27,2016-10-24,Denver,70,Clear,113
-28,2016-10-30,Denver,69,Overcast,122
-29,2016-11-27,Denver,32,Clear,113
-30,2016-12-18,Denver,28,Clear,113
-31,2017-01-01,Denver,38,Clear,113
-32,2015-09-13,Jacksonville,86,Overcast,122
-33,2015-09-20,Jacksonville,98,Clear,113
-34,2015-10-18,Jacksonville,68,Cloudy,119
-35,2015-10-25,Jacksonville,83,Clear,113
-36,2015-11-19,Jacksonville,67,Moderate rain,302
-37,2015-11-29,Jacksonville,77,Overcast,122
-38,2015-12-13,Jacksonville,79,Clear,113
-39,2015-12-20,Jacksonville,65,Overcast,122
-40,2016-09-11,Jacksonville,95,Clear,113
-41,2016-09-25,Jacksonville,92,Light rain shower,353
-42,2016-10-02,Jacksonville,89,Cloudy,119
-43,2016-10-23,Jacksonville,70,Clear,113
-44,2016-11-13,Jacksonville,72,Overcast,122
-45,2016-12-04,Jacksonville,79,Overcast,122
-46,2016-12-11,Jacksonville,73,Light drizzle,266
-47,2016-12-24,Jacksonville,83,Clear,113
-48,2015-09-13,Tampa,88,Light rain shower,353
-49,2015-10-04,Tampa,81,Light rain shower,353
-50,2015-10-11,Tampa,87,Sunny,113
-51,2015-11-08,Tampa,89,Moderate or heavy rain shower,356
-52,2015-11-15,Tampa,77,Light drizzle,266
-53,2015-12-06,Tampa,82,Patchy rain possible,176
-54,2015-12-13,Tampa,85,Sunny,113
-55,2015-12-27,Tampa,85,Sunny,113
-56,2016-09-25,Tampa,96,Cloudy,119
-57,2016-10-02,Tampa,89,Light rain shower,353
-58,2016-10-30,Tampa,84,Partly cloudy,116
-59,2016-11-03,Tampa,84,Overcast,122
-60,2016-11-13,Tampa,80,Overcast,122
-61,2016-11-27,Tampa,78,Sunny,113
-62,2016-12-11,Tampa,78,Overcast,122
-63,2017-01-01,Tampa,82,Sunny,113
-64,2015-09-14,Atlanta,79,Clear,113
-65,2015-10-04,Atlanta,67,Light rain shower,353
-66,2015-10-11,Atlanta,73,Clear,113
-67,2015-11-01,Atlanta,70,Moderate rain,302
-68,2015-11-22,Atlanta,35,Clear,113
-69,2015-11-29,Atlanta,62,Light rain,296
-70,2015-12-27,Atlanta,71,Cloudy,119
-71,2016-01-03,Atlanta,42,Overcast,122
-72,2016-09-11,Atlanta,88,Partly cloudy,116
-73,2016-10-02,Atlanta,80,Overcast,122
-74,2016-10-23,Atlanta,73,Clear,113
-75,2016-10-30,Atlanta,82,Clear,113
-76,2016-11-27,Atlanta,58,Cloudy,119
-77,2016-12-04,Atlanta,42,Torrential rain shower,359
-78,2016-12-18,Atlanta,37,Light rain shower,353
-79,2017-01-01,Atlanta,50,Heavy rain,308
-80,2015-09-13,Chicago,65,Clear,113
-81,2015-09-20,Chicago,69,Clear,113
-82,2015-10-04,Chicago,54,Overcast,122
-83,2015-11-01,Chicago,55,Clear,113
-84,2015-11-22,Chicago,17,Overcast,122
-85,2015-12-06,Chicago,34,Mist,143
-86,2015-12-13,Chicago,53,Light rain shower,353
-87,2016-01-03,Chicago,16,Clear,113
-88,2016-09-19,Chicago,83,Clear,113
-89,2016-10-02,Chicago,64,Overcast,122
-90,2016-10-16,Chicago,70,Patchy rain possible,176
-91,2016-10-31,Chicago,60,Overcast,122
-92,2016-11-27,Chicago,42,Overcast,122
-93,2016-12-04,Chicago,33,Heavy snow,338
-94,2016-12-18,Chicago,-19,Clear,113
-95,2016-12-24,Chicago,33,Mist,143
-96,2015-09-21,Indianapolis,71,Clear,113
-97,2015-10-04,Indianapolis,71,Overcast,122
-98,2015-10-18,Indianapolis,54,Clear,113
-99,2015-10-25,Indianapolis,58,Clear,113
-100,2015-11-08,Indianapolis,54,Clear,113
-101,2015-11-29,Indianapolis,37,Overcast,122
-102,2015-12-20,Indianapolis,33,Overcast,122
-103,2016-01-03,Indianapolis,21,Overcast,122
-104,2016-09-11,Indianapolis,72,Partly cloudy,116
-105,2016-09-25,Indianapolis,86,Partly cloudy,116
-106,2016-10-09,Indianapolis,64,Clear,113
-107,2016-10-30,Indianapolis,61,Overcast,122
-108,2016-11-20,Indianapolis,27,Clear,113
-109,2016-11-24,Indianapolis,42,Overcast,122
-110,2016-12-11,Indianapolis,22,Light sleet,317
-111,2017-01-01,Indianapolis,37,Overcast,122
-112,2015-09-20,New Orleans,100,Partly cloudy,116
-113,2015-10-04,New Orleans,77,Clear,113
-114,2015-10-15,New Orleans,89,Clear,113
-115,2015-11-01,New Orleans,84,Moderate or heavy rain shower,356
-116,2015-11-08,New Orleans,65,Overcast,122
-117,2015-12-06,New Orleans,64,Overcast,122
-118,2015-12-21,New Orleans,65,Moderate or heavy rain shower,356
-119,2015-12-27,New Orleans,75,Patchy rain possible,176
-120,2016-09-11,New Orleans,88,Light rain shower,353
-121,2016-09-26,New Orleans,90,Patchy rain possible,176
-122,2016-10-16,New Orleans,85,Patchy rain possible,176
-123,2016-10-30,New Orleans,82,Overcast,122
-124,2016-11-13,New Orleans,70,Partly cloudy,116
-125,2016-11-27,New Orleans,66,Partly cloudy,116
-126,2016-12-04,New Orleans,73,Light rain shower,353
-127,2016-12-24,New Orleans,78,Partly cloudy,116
-128,2015-09-27,Detroit,69,Clear,113
-129,2015-10-11,Detroit,68,Clear,113
-130,2015-10-18,Detroit,44,Clear,113
-131,2015-10-25,Detroit,59,Clear,113
-132,2015-11-22,Detroit,19,Cloudy,119
-133,2015-11-26,Detroit,45,Cloudy,119
-134,2015-12-03,Detroit,35,Clear,113
-135,2015-12-27,Detroit,29,Overcast,122
-136,2016-09-18,Detroit,73,Clear,113
-137,2016-10-09,Detroit,53,Partly cloudy,116
-138,2016-10-16,Detroit,69,Overcast,122
-139,2016-10-23,Detroit,64,Clear,113
-140,2016-11-20,Detroit,20,Clear,113
-141,2016-11-24,Detroit,38,Overcast,122
-142,2016-12-11,Detroit,18,Heavy snow,338
-143,2017-01-01,Detroit,31,Mist,143
-144,2015-09-20,Minneapolis,67,Clear,113
-145,2015-09-27,Minneapolis,77,Clear,113
-146,2015-10-18,Minneapolis,54,Clear,113
-147,2015-11-08,Minneapolis,47,Clear,113
-148,2015-11-22,Minneapolis,21,Overcast,122
-149,2015-12-06,Minneapolis,30,Mist,143
-150,2015-12-20,Minneapolis,31,Fog,248
-151,2015-12-27,Minneapolis,9,Clear,113
-152,2016-09-18,Minneapolis,82,Overcast,122
-153,2016-10-03,Minneapolis,68,Clear,113
-154,2016-10-09,Minneapolis,58,Clear,113
-155,2016-11-06,Minneapolis,63,Clear,113
-156,2016-11-20,Minneapolis,29,Clear,113
-157,2016-12-01,Minneapolis,29,Overcast,122
-158,2016-12-18,Minneapolis,-28,Clear,113
-159,2017-01-01,Minneapolis,17,Mist,143
-160,2015-09-17,Kansas City,99,Thundery outbreaks possible,200
-161,2015-10-11,Kansas City,80,Clear,113
-162,2015-10-25,Kansas City,65,Clear,113
-163,2015-11-01,Kansas City,67,Clear,113
-164,2015-11-29,Kansas City,30,Light rain,296
-165,2015-12-13,Kansas City,48,Light drizzle,266
-166,2015-12-27,Kansas City,26,Patchy rain possible,176
-167,2016-01-03,Kansas City,15,Overcast,122
-168,2016-09-11,Kansas City,74,Clear,113
-169,2016-09-25,Kansas City,68,Overcast,122
-170,2016-10-23,Kansas City,73,Clear,113
-171,2016-11-06,Kansas City,62,Overcast,122
-172,2016-11-20,Kansas City,45,Clear,113
-173,2016-12-08,Kansas City,15,Clear,113
-174,2016-12-18,Kansas City,9,Clear,113
-175,2016-12-25,Kansas City,56,Patchy rain possible,176
-176,2015-09-13,Saint Louis,71,Clear,113
-177,2015-09-27,Saint Louis,79,Patchy rain possible,176
-178,2015-10-25,Saint Louis,59,Partly cloudy,116
-179,2015-11-01,Saint Louis,66,Partly cloudy,116
-180,2015-11-15,Saint Louis,59,Clear,113
-181,2015-12-06,Saint Louis,41,Mist,143
-182,2015-12-13,Saint Louis,63,Light rain,296
-183,2015-12-17,Saint Louis,30,Overcast,122
-184,2015-09-20,Charlotte,90,Patchy rain possible,176
-185,2015-09-27,Charlotte,70,Overcast,122
-186,2015-10-25,Charlotte,75,Overcast,122
-187,2015-11-02,Charlotte,61,Light rain shower,353
-188,2015-11-08,Charlotte,53,Overcast,122
-189,2015-11-22,Charlotte,42,Clear,113
-190,2015-12-13,Charlotte,65,Patchy rain possible,176
-191,2016-01-03,Charlotte,48,Overcast,122
-192,2016-09-18,Charlotte,89,Light rain shower,353
-193,2016-09-25,Charlotte,85,Clear,113
-194,2016-10-10,Charlotte,65,Clear,113
-195,2016-10-30,Charlotte,81,Clear,113
-196,2016-11-13,Charlotte,55,Moderate or heavy rain with thunder,389
-197,2016-11-17,Charlotte,72,Clear,113
-198,2016-12-11,Charlotte,37,Light rain,296
-199,2016-12-24,Charlotte,60,Overcast,122
-200,2015-09-20,Cincinnati,71,Overcast,122
-201,2015-10-04,Cincinnati,65,Overcast,122
-202,2015-10-11,Cincinnati,69,Clear,113
-203,2015-11-05,Cincinnati,75,Overcast,122
-204,2015-11-16,Cincinnati,55,Overcast,122
-205,2015-11-29,Cincinnati,41,Overcast,122
-206,2015-12-13,Cincinnati,62,Overcast,122
-207,2016-01-03,Cincinnati,24,Overcast,122
-208,2016-09-25,Cincinnati,83,Clear,113
-209,2016-09-29,Cincinnati,64,Light rain shower,353
-210,2016-10-23,Cincinnati,66,Clear,113
-211,2016-10-30,Cincinnati,74,Light rain shower,353
-212,2016-11-20,Cincinnati,29,Clear,113
-213,2016-12-04,Cincinnati,41,Light rain,296
-214,2016-12-18,Cincinnati,21,Overcast,122
-215,2017-01-01,Cincinnati,38,Patchy rain possible,176
-216,2015-09-20,Pittsburgh,70,Clear,113
-217,2015-10-01,Pittsburgh,59,Cloudy,119
-218,2015-10-18,Pittsburgh,39,Clear,113
-219,2015-11-01,Pittsburgh,61,Overcast,122
-220,2015-11-08,Pittsburgh,53,Clear,113
-221,2015-11-15,Pittsburgh,50,Clear,113
-222,2015-12-06,Pittsburgh,47,Overcast,122
-223,2015-12-20,Pittsburgh,33,Partly cloudy,116
-224,2016-09-18,Pittsburgh,74,Light rain shower,353
-225,2016-10-02,Pittsburgh,64,Patchy rain possible,176
-226,2016-10-09,Pittsburgh,56,Clear,113
-227,2016-10-23,Pittsburgh,59,Clear,113
-228,2016-11-13,Pittsburgh,49,Clear,113
-229,2016-12-04,Pittsburgh,34,Overcast,122
-230,2016-12-25,Pittsburgh,31,Patchy rain possible,176
-231,2017-01-01,Pittsburgh,38,Cloudy,119
-232,2015-09-27,Nashville,81,Cloudy,119
-233,2015-10-11,Nashville,73,Clear,113
-234,2015-10-18,Nashville,56,Clear,113
-235,2015-10-25,Nashville,62,Overcast,122
-236,2015-11-15,Nashville,58,Overcast,122
-237,2015-11-29,Nashville,56,Light rain,296
-238,2015-12-06,Nashville,52,Overcast,122
-239,2015-12-27,Nashville,72,Light rain shower,353
-240,2016-09-11,Nashville,80,Clear,113
-241,2016-09-25,Nashville,91,Clear,113
-242,2016-10-16,Nashville,85,Clear,113
-243,2016-10-23,Nashville,71,Clear,113
-244,2016-10-27,Nashville,76,Clear,113
-245,2016-11-13,Nashville,66,Clear,113
-246,2016-12-11,Nashville,41,Overcast,122
-247,2017-01-01,Nashville,48,Overcast,122
-248,2015-09-13,Arlington,82,Clear,113
-249,2015-09-27,Arlington,89,Clear,113
-250,2015-10-11,Arlington,93,Clear,113
-251,2015-11-01,Arlington,64,Fog,248
-252,2015-11-08,Arlington,62,Clear,113
-253,2015-11-26,Arlington,68,Light rain shower,353
-254,2015-12-19,Arlington,49,Overcast,122
-255,2016-01-03,Arlington,51,Clear,113
-256,2016-09-11,Arlington,84,Clear,113
-257,2016-09-25,Arlington,88,Moderate rain,302
-258,2016-10-09,Arlington,74,Clear,113
-259,2016-10-30,Arlington,91,Clear,113
-260,2016-11-20,Arlington,55,Clear,113
-261,2016-11-24,Arlington,67,Clear,113
-262,2016-12-18,Arlington,16,Overcast,122
-263,2016-12-26,Arlington,68,Cloudy,119
-264,2015-09-13,Houston,82,Clear,113
-265,2015-09-27,Houston,84,Patchy rain possible,176
-266,2015-10-08,Houston,89,Overcast,122
-267,2015-11-01,Houston,77,Mist,143
-268,2015-11-22,Houston,53,Clear,113
-269,2015-11-29,Houston,50,Overcast,122
-270,2015-12-13,Houston,63,Clear,113
-271,2016-01-03,Houston,55,Clear,113
-272,2016-09-11,Houston,90,Light rain shower,353
-273,2016-09-18,Houston,99,Partly cloudy,116
-274,2016-10-02,Houston,83,Cloudy,119
-275,2016-10-16,Houston,91,Clear,113
-276,2016-10-30,Houston,90,Clear,113
-277,2016-11-27,Houston,71,Clear,113
-278,2016-12-18,Houston,30,Overcast,122
-279,2016-12-24,Houston,77,Overcast,122
-280,2015-09-20,Green Bay,67,Clear,113
-281,2015-09-28,Green Bay,77,Moderate or heavy rain shower,356
-282,2015-10-11,Green Bay,69,Clear,113
-283,2015-10-18,Green Bay,46,Clear,113
-284,2015-11-15,Green Bay,49,Clear,113
-285,2015-11-26,Green Bay,33,Light rain,296
-286,2015-12-13,Green Bay,47,Heavy rain,308
-287,2016-01-03,Green Bay,19,Overcast,122
-288,2016-09-25,Green Bay,68,Light rain shower,353
-289,2016-10-09,Green Bay,54,Clear,113
-290,2016-10-16,Green Bay,63,Overcast,122
-291,2016-10-20,Green Bay,48,Clear,113
-292,2016-11-06,Green Bay,60,Clear,113
-293,2016-12-04,Green Bay,27,Moderate snow,332
-294,2016-12-11,Green Bay,25,Light snow,326
-295,2016-12-24,Green Bay,29,Fog,248
+,weather_key,Game Date,City,Temperature,Weather,Code
+0,Glendale-42260,9/13/2015,Glendale,103,Partly cloudy,116
+1,Glendale-42274,9/27/2015,Glendale,103,Clear,113
+2,Glendale-42281,10/4/2015,Glendale,84,Clear,113
+3,Glendale-42303,10/26/2015,Glendale,88,Clear,113
+4,Glendale-42330,11/22/2015,Glendale,67,Clear,113
+5,Glendale-42348,12/10/2015,Glendale,72,Clear,113
+6,Glendale-42365,12/27/2015,Glendale,56,Clear,113
+7,Glendale-42372,1/3/2016,Glendale,68,Cloudy,119
+8,Glendale-42624,9/11/2016,Glendale,98,Clear,113
+9,Glendale-42631,9/18/2016,Glendale,104,Clear,113
+10,Glendale-42645,10/2/2016,Glendale,90,Clear,113
+11,Glendale-42660,10/17/2016,Glendale,81,Clear,113
+12,Glendale-42666,10/23/2016,Glendale,90,Clear,113
+13,Glendale-42687,11/13/2016,Glendale,80,Clear,113
+14,Glendale-42708,12/4/2016,Glendale,69,Clear,113
+15,Glendale-42722,12/18/2016,Glendale,58,Clear,113
+16,Denver-42260,9/13/2015,Denver,80,Overcast,122
+17,Denver-42281,10/4/2015,Denver,57,Light rain shower,353
+18,Denver-42309,11/1/2015,Denver,70,Clear,113
+19,Denver-42323,11/15/2015,Denver,51,Overcast,122
+20,Denver-42337,11/29/2015,Denver,20,Mist,143
+21,Denver-42351,12/13/2015,Denver,27,Partly cloudy,116
+22,Denver-42366,12/28/2015,Denver,17,Freezing fog,260
+23,Denver-42372,1/3/2016,Denver,32,Partly cloudy,116
+24,Denver-42621,9/8/2016,Denver,84,Clear,113
+25,Denver-42631,9/18/2016,Denver,80,Clear,113
+26,Denver-42652,10/9/2016,Denver,70,Partly cloudy,116
+27,Denver-42667,10/24/2016,Denver,70,Clear,113
+28,Denver-42673,10/30/2016,Denver,69,Overcast,122
+29,Denver-42701,11/27/2016,Denver,32,Clear,113
+30,Denver-42722,12/18/2016,Denver,28,Clear,113
+31,Denver-42736,1/1/2017,Denver,38,Clear,113
+32,Jacksonville-42260,9/13/2015,Jacksonville,86,Overcast,122
+33,Jacksonville-42267,9/20/2015,Jacksonville,98,Clear,113
+34,Jacksonville-42295,10/18/2015,Jacksonville,68,Cloudy,119
+35,Jacksonville-42302,10/25/2015,Jacksonville,83,Clear,113
+36,Jacksonville-42327,11/19/2015,Jacksonville,67,Moderate rain,302
+37,Jacksonville-42337,11/29/2015,Jacksonville,77,Overcast,122
+38,Jacksonville-42351,12/13/2015,Jacksonville,79,Clear,113
+39,Jacksonville-42358,12/20/2015,Jacksonville,65,Overcast,122
+40,Jacksonville-42624,9/11/2016,Jacksonville,95,Clear,113
+41,Jacksonville-42638,9/25/2016,Jacksonville,92,Light rain shower,353
+42,Jacksonville-42645,10/2/2016,Jacksonville,89,Cloudy,119
+43,Jacksonville-42666,10/23/2016,Jacksonville,70,Clear,113
+44,Jacksonville-42687,11/13/2016,Jacksonville,72,Overcast,122
+45,Jacksonville-42708,12/4/2016,Jacksonville,79,Overcast,122
+46,Jacksonville-42715,12/11/2016,Jacksonville,73,Light drizzle,266
+47,Jacksonville-42728,12/24/2016,Jacksonville,83,Clear,113
+48,Tampa-42260,9/13/2015,Tampa,88,Light rain shower,353
+49,Tampa-42281,10/4/2015,Tampa,81,Light rain shower,353
+50,Tampa-42288,10/11/2015,Tampa,87,Sunny,113
+51,Tampa-42316,11/8/2015,Tampa,89,Moderate or heavy rain shower,356
+52,Tampa-42323,11/15/2015,Tampa,77,Light drizzle,266
+53,Tampa-42344,12/6/2015,Tampa,82,Patchy rain possible,176
+54,Tampa-42351,12/13/2015,Tampa,85,Sunny,113
+55,Tampa-42365,12/27/2015,Tampa,85,Sunny,113
+56,Tampa-42638,9/25/2016,Tampa,96,Cloudy,119
+57,Tampa-42645,10/2/2016,Tampa,89,Light rain shower,353
+58,Tampa-42673,10/30/2016,Tampa,84,Partly cloudy,116
+59,Tampa-42677,11/3/2016,Tampa,84,Overcast,122
+60,Tampa-42687,11/13/2016,Tampa,80,Overcast,122
+61,Tampa-42701,11/27/2016,Tampa,78,Sunny,113
+62,Tampa-42715,12/11/2016,Tampa,78,Overcast,122
+63,Tampa-42736,1/1/2017,Tampa,82,Sunny,113
+64,Atlanta-42261,9/14/2015,Atlanta,79,Clear,113
+65,Atlanta-42281,10/4/2015,Atlanta,67,Light rain shower,353
+66,Atlanta-42288,10/11/2015,Atlanta,73,Clear,113
+67,Atlanta-42309,11/1/2015,Atlanta,70,Moderate rain,302
+68,Atlanta-42330,11/22/2015,Atlanta,35,Clear,113
+69,Atlanta-42337,11/29/2015,Atlanta,62,Light rain,296
+70,Atlanta-42365,12/27/2015,Atlanta,71,Cloudy,119
+71,Atlanta-42372,1/3/2016,Atlanta,42,Overcast,122
+72,Atlanta-42624,9/11/2016,Atlanta,88,Partly cloudy,116
+73,Atlanta-42645,10/2/2016,Atlanta,80,Overcast,122
+74,Atlanta-42666,10/23/2016,Atlanta,73,Clear,113
+75,Atlanta-42673,10/30/2016,Atlanta,82,Clear,113
+76,Atlanta-42701,11/27/2016,Atlanta,58,Cloudy,119
+77,Atlanta-42708,12/4/2016,Atlanta,42,Torrential rain shower,359
+78,Atlanta-42722,12/18/2016,Atlanta,37,Light rain shower,353
+79,Atlanta-42736,1/1/2017,Atlanta,50,Heavy rain,308
+80,Chicago-42260,9/13/2015,Chicago,65,Clear,113
+81,Chicago-42267,9/20/2015,Chicago,69,Clear,113
+82,Chicago-42281,10/4/2015,Chicago,54,Overcast,122
+83,Chicago-42309,11/1/2015,Chicago,55,Clear,113
+84,Chicago-42330,11/22/2015,Chicago,17,Overcast,122
+85,Chicago-42344,12/6/2015,Chicago,34,Mist,143
+86,Chicago-42351,12/13/2015,Chicago,53,Light rain shower,353
+87,Chicago-42372,1/3/2016,Chicago,16,Clear,113
+88,Chicago-42632,9/19/2016,Chicago,83,Clear,113
+89,Chicago-42645,10/2/2016,Chicago,64,Overcast,122
+90,Chicago-42659,10/16/2016,Chicago,70,Patchy rain possible,176
+91,Chicago-42674,10/31/2016,Chicago,60,Overcast,122
+92,Chicago-42701,11/27/2016,Chicago,42,Overcast,122
+93,Chicago-42708,12/4/2016,Chicago,33,Heavy snow,338
+94,Chicago-42722,12/18/2016,Chicago,-19,Clear,113
+95,Chicago-42728,12/24/2016,Chicago,33,Mist,143
+96,Indianapolis-42268,9/21/2015,Indianapolis,71,Clear,113
+97,Indianapolis-42281,10/4/2015,Indianapolis,71,Overcast,122
+98,Indianapolis-42295,10/18/2015,Indianapolis,54,Clear,113
+99,Indianapolis-42302,10/25/2015,Indianapolis,58,Clear,113
+100,Indianapolis-42316,11/8/2015,Indianapolis,54,Clear,113
+101,Indianapolis-42337,11/29/2015,Indianapolis,37,Overcast,122
+102,Indianapolis-42358,12/20/2015,Indianapolis,33,Overcast,122
+103,Indianapolis-42372,1/3/2016,Indianapolis,21,Overcast,122
+104,Indianapolis-42624,9/11/2016,Indianapolis,72,Partly cloudy,116
+105,Indianapolis-42638,9/25/2016,Indianapolis,86,Partly cloudy,116
+106,Indianapolis-42652,10/9/2016,Indianapolis,64,Clear,113
+107,Indianapolis-42673,10/30/2016,Indianapolis,61,Overcast,122
+108,Indianapolis-42694,11/20/2016,Indianapolis,27,Clear,113
+109,Indianapolis-42698,11/24/2016,Indianapolis,42,Overcast,122
+110,Indianapolis-42715,12/11/2016,Indianapolis,22,Light sleet,317
+111,Indianapolis-42736,1/1/2017,Indianapolis,37,Overcast,122
+112,New Orleans-42267,9/20/2015,New Orleans,100,Partly cloudy,116
+113,New Orleans-42281,10/4/2015,New Orleans,77,Clear,113
+114,New Orleans-42292,10/15/2015,New Orleans,89,Clear,113
+115,New Orleans-42309,11/1/2015,New Orleans,84,Moderate or heavy rain shower,356
+116,New Orleans-42316,11/8/2015,New Orleans,65,Overcast,122
+117,New Orleans-42344,12/6/2015,New Orleans,64,Overcast,122
+118,New Orleans-42359,12/21/2015,New Orleans,65,Moderate or heavy rain shower,356
+119,New Orleans-42365,12/27/2015,New Orleans,75,Patchy rain possible,176
+120,New Orleans-42624,9/11/2016,New Orleans,88,Light rain shower,353
+121,New Orleans-42639,9/26/2016,New Orleans,90,Patchy rain possible,176
+122,New Orleans-42659,10/16/2016,New Orleans,85,Patchy rain possible,176
+123,New Orleans-42673,10/30/2016,New Orleans,82,Overcast,122
+124,New Orleans-42687,11/13/2016,New Orleans,70,Partly cloudy,116
+125,New Orleans-42701,11/27/2016,New Orleans,66,Partly cloudy,116
+126,New Orleans-42708,12/4/2016,New Orleans,73,Light rain shower,353
+127,New Orleans-42728,12/24/2016,New Orleans,78,Partly cloudy,116
+128,Detroit-42274,9/27/2015,Detroit,69,Clear,113
+129,Detroit-42288,10/11/2015,Detroit,68,Clear,113
+130,Detroit-42295,10/18/2015,Detroit,44,Clear,113
+131,Detroit-42302,10/25/2015,Detroit,59,Clear,113
+132,Detroit-42330,11/22/2015,Detroit,19,Cloudy,119
+133,Detroit-42334,11/26/2015,Detroit,45,Cloudy,119
+134,Detroit-42341,12/3/2015,Detroit,35,Clear,113
+135,Detroit-42365,12/27/2015,Detroit,29,Overcast,122
+136,Detroit-42631,9/18/2016,Detroit,73,Clear,113
+137,Detroit-42652,10/9/2016,Detroit,53,Partly cloudy,116
+138,Detroit-42659,10/16/2016,Detroit,69,Overcast,122
+139,Detroit-42666,10/23/2016,Detroit,64,Clear,113
+140,Detroit-42694,11/20/2016,Detroit,20,Clear,113
+141,Detroit-42698,11/24/2016,Detroit,38,Overcast,122
+142,Detroit-42715,12/11/2016,Detroit,18,Heavy snow,338
+143,Detroit-42736,1/1/2017,Detroit,31,Mist,143
+144,Minneapolis-42267,9/20/2015,Minneapolis,67,Clear,113
+145,Minneapolis-42274,9/27/2015,Minneapolis,77,Clear,113
+146,Minneapolis-42295,10/18/2015,Minneapolis,54,Clear,113
+147,Minneapolis-42316,11/8/2015,Minneapolis,47,Clear,113
+148,Minneapolis-42330,11/22/2015,Minneapolis,21,Overcast,122
+149,Minneapolis-42344,12/6/2015,Minneapolis,30,Mist,143
+150,Minneapolis-42358,12/20/2015,Minneapolis,31,Fog,248
+151,Minneapolis-42365,12/27/2015,Minneapolis,9,Clear,113
+152,Minneapolis-42631,9/18/2016,Minneapolis,82,Overcast,122
+153,Minneapolis-42646,10/3/2016,Minneapolis,68,Clear,113
+154,Minneapolis-42652,10/9/2016,Minneapolis,58,Clear,113
+155,Minneapolis-42680,11/6/2016,Minneapolis,63,Clear,113
+156,Minneapolis-42694,11/20/2016,Minneapolis,29,Clear,113
+157,Minneapolis-42705,12/1/2016,Minneapolis,29,Overcast,122
+158,Minneapolis-42722,12/18/2016,Minneapolis,-28,Clear,113
+159,Minneapolis-42736,1/1/2017,Minneapolis,17,Mist,143
+160,Kansas City-42264,9/17/2015,Kansas City,99,Thundery outbreaks possible,200
+161,Kansas City-42288,10/11/2015,Kansas City,80,Clear,113
+162,Kansas City-42302,10/25/2015,Kansas City,65,Clear,113
+163,Kansas City-42309,11/1/2015,Kansas City,67,Clear,113
+164,Kansas City-42337,11/29/2015,Kansas City,30,Light rain,296
+165,Kansas City-42351,12/13/2015,Kansas City,48,Light drizzle,266
+166,Kansas City-42365,12/27/2015,Kansas City,26,Patchy rain possible,176
+167,Kansas City-42372,1/3/2016,Kansas City,15,Overcast,122
+168,Kansas City-42624,9/11/2016,Kansas City,74,Clear,113
+169,Kansas City-42638,9/25/2016,Kansas City,68,Overcast,122
+170,Kansas City-42666,10/23/2016,Kansas City,73,Clear,113
+171,Kansas City-42680,11/6/2016,Kansas City,62,Overcast,122
+172,Kansas City-42694,11/20/2016,Kansas City,45,Clear,113
+173,Kansas City-42712,12/8/2016,Kansas City,15,Clear,113
+174,Kansas City-42722,12/18/2016,Kansas City,9,Clear,113
+175,Kansas City-42729,12/25/2016,Kansas City,56,Patchy rain possible,176
+176,Saint Louis-42260,9/13/2015,Saint Louis,71,Clear,113
+177,Saint Louis-42274,9/27/2015,Saint Louis,79,Patchy rain possible,176
+178,Saint Louis-42302,10/25/2015,Saint Louis,59,Partly cloudy,116
+179,Saint Louis-42309,11/1/2015,Saint Louis,66,Partly cloudy,116
+180,Saint Louis-42323,11/15/2015,Saint Louis,59,Clear,113
+181,Saint Louis-42344,12/6/2015,Saint Louis,41,Mist,143
+182,Saint Louis-42351,12/13/2015,Saint Louis,63,Light rain,296
+183,Saint Louis-42355,12/17/2015,Saint Louis,30,Overcast,122
+184,Charlotte-42267,9/20/2015,Charlotte,90,Patchy rain possible,176
+185,Charlotte-42274,9/27/2015,Charlotte,70,Overcast,122
+186,Charlotte-42302,10/25/2015,Charlotte,75,Overcast,122
+187,Charlotte-42310,11/2/2015,Charlotte,61,Light rain shower,353
+188,Charlotte-42316,11/8/2015,Charlotte,53,Overcast,122
+189,Charlotte-42330,11/22/2015,Charlotte,42,Clear,113
+190,Charlotte-42351,12/13/2015,Charlotte,65,Patchy rain possible,176
+191,Charlotte-42372,1/3/2016,Charlotte,48,Overcast,122
+192,Charlotte-42631,9/18/2016,Charlotte,89,Light rain shower,353
+193,Charlotte-42638,9/25/2016,Charlotte,85,Clear,113
+194,Charlotte-42653,10/10/2016,Charlotte,65,Clear,113
+195,Charlotte-42673,10/30/2016,Charlotte,81,Clear,113
+196,Charlotte-42687,11/13/2016,Charlotte,55,Moderate or heavy rain with thunder,389
+197,Charlotte-42691,11/17/2016,Charlotte,72,Clear,113
+198,Charlotte-42715,12/11/2016,Charlotte,37,Light rain,296
+199,Charlotte-42728,12/24/2016,Charlotte,60,Overcast,122
+200,Cincinnati-42267,9/20/2015,Cincinnati,71,Overcast,122
+201,Cincinnati-42281,10/4/2015,Cincinnati,65,Overcast,122
+202,Cincinnati-42288,10/11/2015,Cincinnati,69,Clear,113
+203,Cincinnati-42313,11/5/2015,Cincinnati,75,Overcast,122
+204,Cincinnati-42324,11/16/2015,Cincinnati,55,Overcast,122
+205,Cincinnati-42337,11/29/2015,Cincinnati,41,Overcast,122
+206,Cincinnati-42351,12/13/2015,Cincinnati,62,Overcast,122
+207,Cincinnati-42372,1/3/2016,Cincinnati,24,Overcast,122
+208,Cincinnati-42638,9/25/2016,Cincinnati,83,Clear,113
+209,Cincinnati-42642,9/29/2016,Cincinnati,64,Light rain shower,353
+210,Cincinnati-42666,10/23/2016,Cincinnati,66,Clear,113
+211,Cincinnati-42673,10/30/2016,Cincinnati,74,Light rain shower,353
+212,Cincinnati-42694,11/20/2016,Cincinnati,29,Clear,113
+213,Cincinnati-42708,12/4/2016,Cincinnati,41,Light rain,296
+214,Cincinnati-42722,12/18/2016,Cincinnati,21,Overcast,122
+215,Cincinnati-42736,1/1/2017,Cincinnati,38,Patchy rain possible,176
+216,Pittsburgh-42267,9/20/2015,Pittsburgh,70,Clear,113
+217,Pittsburgh-42278,10/1/2015,Pittsburgh,59,Cloudy,119
+218,Pittsburgh-42295,10/18/2015,Pittsburgh,39,Clear,113
+219,Pittsburgh-42309,11/1/2015,Pittsburgh,61,Overcast,122
+220,Pittsburgh-42316,11/8/2015,Pittsburgh,53,Clear,113
+221,Pittsburgh-42323,11/15/2015,Pittsburgh,50,Clear,113
+222,Pittsburgh-42344,12/6/2015,Pittsburgh,47,Overcast,122
+223,Pittsburgh-42358,12/20/2015,Pittsburgh,33,Partly cloudy,116
+224,Pittsburgh-42631,9/18/2016,Pittsburgh,74,Light rain shower,353
+225,Pittsburgh-42645,10/2/2016,Pittsburgh,64,Patchy rain possible,176
+226,Pittsburgh-42652,10/9/2016,Pittsburgh,56,Clear,113
+227,Pittsburgh-42666,10/23/2016,Pittsburgh,59,Clear,113
+228,Pittsburgh-42687,11/13/2016,Pittsburgh,49,Clear,113
+229,Pittsburgh-42708,12/4/2016,Pittsburgh,34,Overcast,122
+230,Pittsburgh-42729,12/25/2016,Pittsburgh,31,Patchy rain possible,176
+231,Pittsburgh-42736,1/1/2017,Pittsburgh,38,Cloudy,119
+232,Nashville-42274,9/27/2015,Nashville,81,Cloudy,119
+233,Nashville-42288,10/11/2015,Nashville,73,Clear,113
+234,Nashville-42295,10/18/2015,Nashville,56,Clear,113
+235,Nashville-42302,10/25/2015,Nashville,62,Overcast,122
+236,Nashville-42323,11/15/2015,Nashville,58,Overcast,122
+237,Nashville-42337,11/29/2015,Nashville,56,Light rain,296
+238,Nashville-42344,12/6/2015,Nashville,52,Overcast,122
+239,Nashville-42365,12/27/2015,Nashville,72,Light rain shower,353
+240,Nashville-42624,9/11/2016,Nashville,80,Clear,113
+241,Nashville-42638,9/25/2016,Nashville,91,Clear,113
+242,Nashville-42659,10/16/2016,Nashville,85,Clear,113
+243,Nashville-42666,10/23/2016,Nashville,71,Clear,113
+244,Nashville-42670,10/27/2016,Nashville,76,Clear,113
+245,Nashville-42687,11/13/2016,Nashville,66,Clear,113
+246,Nashville-42715,12/11/2016,Nashville,41,Overcast,122
+247,Nashville-42736,1/1/2017,Nashville,48,Overcast,122
+248,Arlington-42260,9/13/2015,Arlington,82,Clear,113
+249,Arlington-42274,9/27/2015,Arlington,89,Clear,113
+250,Arlington-42288,10/11/2015,Arlington,93,Clear,113
+251,Arlington-42309,11/1/2015,Arlington,64,Fog,248
+252,Arlington-42316,11/8/2015,Arlington,62,Clear,113
+253,Arlington-42334,11/26/2015,Arlington,68,Light rain shower,353
+254,Arlington-42357,12/19/2015,Arlington,49,Overcast,122
+255,Arlington-42372,1/3/2016,Arlington,51,Clear,113
+256,Arlington-42624,9/11/2016,Arlington,84,Clear,113
+257,Arlington-42638,9/25/2016,Arlington,88,Moderate rain,302
+258,Arlington-42652,10/9/2016,Arlington,74,Clear,113
+259,Arlington-42673,10/30/2016,Arlington,91,Clear,113
+260,Arlington-42694,11/20/2016,Arlington,55,Clear,113
+261,Arlington-42698,11/24/2016,Arlington,67,Clear,113
+262,Arlington-42722,12/18/2016,Arlington,16,Overcast,122
+263,Arlington-42730,12/26/2016,Arlington,68,Cloudy,119
+264,Houston-42260,9/13/2015,Houston,82,Clear,113
+265,Houston-42274,9/27/2015,Houston,84,Patchy rain possible,176
+266,Houston-42285,10/8/2015,Houston,89,Overcast,122
+267,Houston-42309,11/1/2015,Houston,77,Mist,143
+268,Houston-42330,11/22/2015,Houston,53,Clear,113
+269,Houston-42337,11/29/2015,Houston,50,Overcast,122
+270,Houston-42351,12/13/2015,Houston,63,Clear,113
+271,Houston-42372,1/3/2016,Houston,55,Clear,113
+272,Houston-42624,9/11/2016,Houston,90,Light rain shower,353
+273,Houston-42631,9/18/2016,Houston,99,Partly cloudy,116
+274,Houston-42645,10/2/2016,Houston,83,Cloudy,119
+275,Houston-42659,10/16/2016,Houston,91,Clear,113
+276,Houston-42673,10/30/2016,Houston,90,Clear,113
+277,Houston-42701,11/27/2016,Houston,71,Clear,113
+278,Houston-42722,12/18/2016,Houston,30,Overcast,122
+279,Houston-42728,12/24/2016,Houston,77,Overcast,122
+280,Green Bay-42267,9/20/2015,Green Bay,67,Clear,113
+281,Green Bay-42275,9/28/2015,Green Bay,77,Moderate or heavy rain shower,356
+282,Green Bay-42288,10/11/2015,Green Bay,69,Clear,113
+283,Green Bay-42295,10/18/2015,Green Bay,46,Clear,113
+284,Green Bay-42323,11/15/2015,Green Bay,49,Clear,113
+285,Green Bay-42334,11/26/2015,Green Bay,33,Light rain,296
+286,Green Bay-42351,12/13/2015,Green Bay,47,Heavy rain,308
+287,Green Bay-42372,1/3/2016,Green Bay,19,Overcast,122
+288,Green Bay-42638,9/25/2016,Green Bay,68,Light rain shower,353
+289,Green Bay-42652,10/9/2016,Green Bay,54,Clear,113
+290,Green Bay-42659,10/16/2016,Green Bay,63,Overcast,122
+291,Green Bay-42663,10/20/2016,Green Bay,48,Clear,113
+292,Green Bay-42680,11/6/2016,Green Bay,60,Clear,113
+293,Green Bay-42708,12/4/2016,Green Bay,27,Moderate snow,332
+294,Green Bay-42715,12/11/2016,Green Bay,25,Light snow,326
+295,Green Bay-42728,12/24/2016,Green Bay,29,Fog,248
